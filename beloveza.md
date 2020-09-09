@@ -1,20 +1,20 @@
-Obecná aplikácia do mobilnıch telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, poèasie, farské oznamy a všetky ostatné informácie pre obèana.
+ObecnÃ¡ aplikÃ¡cia do mobilnÃ½ch telefÃ³nov. Na jednom mieste aktuality, udalosti, informÃ¡cie z obecnÃ©ho Ãºradu, poÃ¨asie, farskÃ© oznamy a vÅ¡etky ostatnÃ© informÃ¡cie pre obÃ¨ana.
 
-# Kde sa dá aplikácia stiahnú?
-Aplikácia je dostupná na operaènıch systémoch **Android** a **Apple iOS**. V prípade, e si nie ste istı, ktorı operaènı systém máte na svojom mobile, opıtajte sa svojích známych.
+# Kde sa dÃ¡ aplikÃ¡cia stiahnÃºÂ?
+AplikÃ¡cia je dostupnÃ¡ na operaÃ¨nÃ½ch systÃ©moch **Android** (**Apple iOS** na ceste). V prÃ­pade, Å¾e si nie ste istÃ½, ktorÃ½ operaÃ¨nÃ½ systÃ©m mÃ¡te na svojom mobile, opÃ½tajte sa svojÃ­ch znÃ¡mych.
 
 | Android | iOS |
 |-----|--------|
 |<img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/>|<img src="resources/Download_on_the_App_Store_Badge_SK_RGB_blk_100317.svg" alt="iOS" width="300"/>|
-| Minimum - Android 5.0 Lollipop| Minimum |
+| Minimum - Android 5.0 Lollipop| Pracuje sa na iOS verzii... |
 
-# Aktualizácie
+# AktualizÃ¡cie
 
-## 1.0.2 - 2020-XX-XX
+## 1.1.2 - 2020-XX-XX
 
-### Pridané
-- pridané nové moduly: Fotogaléria, Zaujímavosti
+### PridanÃ©
+- pridanÃ© novÃ© moduly: FotogalÃ©ria, ZaujÃ­mavosti
 
-### Zmenené
-- zmenené poradie modulov
+### ZmenenÃ©
+- zmenenÃ© poradie modulov
 
