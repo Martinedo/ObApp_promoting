@@ -5,8 +5,8 @@ Aplikácia je dostupná na operačných systémoch **Android** (**Apple iOS** na
 
 | Android | iOS |
 |-----|--------|
-|<img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/>|<img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/Download_on_the_App_Store_Badge_SK_RGB_blk_100317.svg" alt="iOS" width="300"/>|
-| Minimum - Android 5.0 Lollipop| Pracuje sa na iOS verzii... |
+|<a href=""><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href=""><img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/Download_on_the_App_Store_Badge_SK_RGB_blk_100317.svg" alt="iOS" width="300"/></a>|
+| Minimum - Android 5.0 Lollipop| Pracujeme na iOS verzii... |
 
 # Aktualizácie
 
