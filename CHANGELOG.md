@@ -5,7 +5,7 @@
 |Demo Moderná Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/b1f51bfc-c618-4813-8471-ec5bd3cc5318/branches/master/badge)](https://appcenter.ms)|[1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.obapp)||
 |Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[1.0.1 -> 1.1.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza)||
 |Bošáca|        |        ||
-|Oľšavce|        |        ||
+|Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|-> 1.1.0||
 |Železník|        |        ||
 |Mýto pod Ďumbierom|        |        ||
 ****
@@ -16,6 +16,9 @@
 
 ### Zmeny
 - ...
+
+### Opravy
+- oprava načítania dátumov
 
 ## 1.1.X - 2020-09
 
