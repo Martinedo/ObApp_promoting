@@ -7,7 +7,7 @@
 |Bošáca|        |        ||
 |Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavce)||
 |Železník|[![Build status](https://build.appcenter.ms/v0.1/apps/8de0c863-03f0-4b80-9e54-73184c871dec/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zeleznik)||
-|Mýto pod Ďumbierom|        |        ||
+|Mýto pod Ďumbierom|[![Build status](https://build.appcenter.ms/v0.1/apps/7507fdbc-a8b4-471c-b01b-098fd6dc910b/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mytopoddumbierom)||
 ****
 
 # Changelog
@@ -20,6 +20,7 @@
 ### Opravy
 - oprava načítania dátumov
 - nezobrazenia FB tlačidla ak obec FB nemá
+- oprava zobrazenia príliš dlhého názvu obce (Mýto pod Ďumbierom 👀)
 
 ## 1.1.X - 2020-09
 
