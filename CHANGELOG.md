@@ -8,11 +8,16 @@
 |Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavce)||
 |Železník|[![Build status](https://build.appcenter.ms/v0.1/apps/8de0c863-03f0-4b80-9e54-73184c871dec/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zeleznik)||
 |Mýto pod Ďumbierom|[![Build status](https://build.appcenter.ms/v0.1/apps/7507fdbc-a8b4-471c-b01b-098fd6dc910b/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mytopoddumbierom)||
+|Poruba pod Vihorlatom|[![Build status](https://build.appcenter.ms/v0.1/apps/7da68df2-b800-47cb-bd12-a20890cfd275/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.porubapodvihorlatom)||
+|Čečehov|[![Build status](https://build.appcenter.ms/v0.1/apps/790e443b-4682-4cde-81a1-f701129806c6/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cecehov)||
 ****
 
 # Changelog
 
 ## 1.2.X - 2020-XX (develop)
+
+### Pridané
+- možnosť zobrazenia Facebook-ovej stranký aj inej ako obecnej, napr. farského úradu 
 
 ### Zmeny
 - ...
