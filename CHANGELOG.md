@@ -8,8 +8,8 @@
 |Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|[1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavce)||
 |Železník|[![Build status](https://build.appcenter.ms/v0.1/apps/8de0c863-03f0-4b80-9e54-73184c871dec/branches/master/badge)](https://appcenter.ms)|[1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zeleznik)||
 |Mýto pod Ďumbierom|[![Build status](https://build.appcenter.ms/v0.1/apps/7507fdbc-a8b4-471c-b01b-098fd6dc910b/branches/master/badge)](https://appcenter.ms)|[1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mytopoddumbierom)||
-|Poruba pod Vihorlatom|[![Build status](https://build.appcenter.ms/v0.1/apps/7da68df2-b800-47cb-bd12-a20890cfd275/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.porubapodvihorlatom)||
-|Čečehov|[![Build status](https://build.appcenter.ms/v0.1/apps/790e443b-4682-4cde-81a1-f701129806c6/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cecehov)||
+|Poruba pod Vihorlatom|[![Build status](https://build.appcenter.ms/v0.1/apps/7da68df2-b800-47cb-bd12-a20890cfd275/branches/master/badge)](https://appcenter.ms)|[1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.porubapodvihorlatom)||
+|Čečehov|[![Build status](https://build.appcenter.ms/v0.1/apps/790e443b-4682-4cde-81a1-f701129806c6/branches/master/badge)](https://appcenter.ms)|[1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cecehov)||
 |Ruskovce|[![Build status](https://build.appcenter.ms/v0.1/apps/0c47b5c8-8394-4cf4-ba98-a4f65e34f483/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.ruskovce)||
 ****
 
