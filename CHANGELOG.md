@@ -11,7 +11,7 @@
 |Poruba pod Vihorlatom|[![Build status](https://build.appcenter.ms/v0.1/apps/7da68df2-b800-47cb-bd12-a20890cfd275/branches/master/badge)](https://appcenter.ms)|[1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.porubapodvihorlatom)||
 |Čečehov|[![Build status](https://build.appcenter.ms/v0.1/apps/790e443b-4682-4cde-81a1-f701129806c6/branches/master/badge)](https://appcenter.ms)|[1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cecehov)||
 |Ruskovce|[![Build status](https://build.appcenter.ms/v0.1/apps/0c47b5c8-8394-4cf4-ba98-a4f65e34f483/branches/master/badge)](https://appcenter.ms)|[-> 1.1.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.ruskovce)||
-|Veľké Chlievany|[![Build status](https://build.appcenter.ms/v0.1/apps/9dbd8e8b-5348-449c-87c3-780089d29905/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkechlievany)||
+|Veľké Chlievany|[![Build status](https://build.appcenter.ms/v0.1/apps/9dbd8e8b-5348-449c-87c3-780089d29905/branches/master/badge)](https://appcenter.ms)|[-> 1.1.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vchlievany)||
 ****
 
 # Changelog
