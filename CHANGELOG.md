@@ -26,6 +26,7 @@
 - ak je na úrade nestránkový deň, tak sa zobrazí popis namiesto prázdneho miesta
 - nezobrazenia FB tlačidla ak obec FB nemá
 - zmena zobrazenia telefoného čísla obce
+- vylepšená obrazovka oprávnení
 
 ### Opravy
 - oprava načítania dátumov
@@ -34,6 +35,7 @@
 - oprava nesprávneho nastavovania miesta podnetu, ak sa miesto menilo viackrát
 - opravená chyba, kedy aplikácia padala ak nemohla získať dáta o počasí
 - [Android] oprava neotvárania niektorých prepojení z príspevkov
+- oprava checkboxu na obrazovke oprávnení
 
 ## 1.1.X - 2020-09
 
