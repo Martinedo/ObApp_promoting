@@ -10,6 +10,29 @@ Aplikácia je dostupná na operačných systémoch **Android** (**Apple iOS** na
 
 # Aktualizácie
 
+## 1.2.0 - 2020-10
+
+### Pridané
+- možnosť zobrazenia Facebook-ovej stranký aj inej ako obecnej, napr. farského úradu
+- informácia o získavaní počasia ⛅
+- kontakt na vývojára
+
+### Zmeny
+- ak je na úrade nestránkový deň, tak sa zobrazí popis namiesto prázdneho miesta
+- nezobrazenia FB tlačidla ak obec FB nemá
+- zmena zobrazenia telefoného čísla obce
+- zrýchlenie zobrazenia stránok 🚀
+- vylepšená obrazovka oprávnení
+
+### Opravy
+- oprava načítania dátumov
+- oprava zobrazenia príliš dlhého názvu obce (Mýto pod Ďumbierom 👀)
+- oprava vzdialenosti od miesta ak nie je známa poloha zariadenia
+- oprava nesprávneho nastavovania miesta podnetu, ak sa miesto menilo viackrát
+- opravená chyba, kedy aplikácia padala ak nemohla získať dáta o počasí
+- [Android] oprava neotvárania niektorých prepojení z príspevkov
+- oprava checkboxu na obrazovke oprávnení
+
 ## 1.1.0 - 2020-10
 
 ### Prvá verzia
