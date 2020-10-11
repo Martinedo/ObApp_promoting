@@ -22,7 +22,8 @@
 - 
 
 ### Zmeny
-- 
+- grafické zmeny úvodnej obrazovky, aby boli dlaždice rovnako veľké aj na malých displejoch 📱 
+- grafické zmeny, aby boli obrazovky rovnaké pre rôzne rozlíšenia (veľkosti zariadení)
 
 ### Opravy
 - 
