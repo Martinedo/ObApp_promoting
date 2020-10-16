@@ -5,7 +5,7 @@ Aplikácia je dostupná na operačných systémoch **Android** (**Apple iOS** na
 
 | Android | iOS |
 |-----|--------|
-|<a href="https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href=""><img src="resources/Download_on_the_App_Store_Badge_SK_RGB_blk_100317.svg" alt="iOS" width="300"/></a>|
+|<a href="https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href=""><img src="resources/download_on_app_store_sk.png" alt="iOS" width="300"/></a>|
 | Minimum - Android 5.0 Lollipop| Pracujeme na iOS verzii... |
 
 # Aktualizácie
