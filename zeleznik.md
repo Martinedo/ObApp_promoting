@@ -10,6 +10,19 @@ Aplikácia je dostupná na operačných systémoch **Android** (**Apple iOS** na
 
 # Aktualizácie
 
+## 1.3.0 - 2020-10
+
+### Pridané
+- kontakt na developera a technického správcu
+
+### Zmeny
+- grafické zmeny úvodnej obrazovky, aby boli dlaždice rovnako veľké aj na malých displejoch 📱 
+- grafické zmeny, aby boli obrazovky rovnaké pre rôzne rozlíšenia (veľkosti zariadení)
+
+### Opravy
+- oprava Počasia. Otvorenie Počasia spôsobovalo pád aplikácie a to privolávalo ďalší dážď 🌦️
+- niekedy po úspešnom odoslaní podnetu ostala aplikácia na bielej obrazovke
+
 ## 1.2.0 - 2020-10
 
 ### Pridané
