@@ -1,7 +1,7 @@
 Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, farské oznamy, fotogaléria a všetky ostatné informácie pre občana.
 
 # Kde sa dá aplikácia stiahnúť?
-Aplikácia je dostupná na operačných systémoch **Android** (**Apple iOS** na ceste). V prípade, že si nie ste istý, ktorý operačný systém máte na svojom mobile, opýtajte sa svojích známych.
+Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** (**Apple iOS** na ceste). V prípade, že si nie ste istý, ktorý operačný systém máte na svojom mobile, opýtajte sa svojích známych.
 
 | Android | iOS |
 |-----|--------|
