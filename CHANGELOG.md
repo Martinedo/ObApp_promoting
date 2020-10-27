@@ -3,7 +3,7 @@
 | App | Build | Android | iOS | ID |
 |-----|--------|-----|-----|-----|
 |Demo Moderná Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/b1f51bfc-c618-4813-8471-ec5bd3cc5318/branches/master/badge)](https://appcenter.ms)[![Build status](https://build.appcenter.ms/v0.1/apps/aa1c0f0e-50ed-47ee-b420-3cef414768a1/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.obapp)|XX|[com.alphabetpartner.obapp](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/modernaVes.md)|
-|Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[1.3.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza)|-> 1.3.0|[com.alphabetpartner.beloveza](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/beloveza.md)|
+|Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[1.3.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza)|[1.3.0](https://apps.apple.com/sk/app/beloveža/id1536810459)|[com.alphabetpartner.beloveza](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/beloveza.md)|
 |Bošáca|        |        |||
 |Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavce)||[com.alphabetpartner.olsavce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/olsavce.md)|
 |Železník|[![Build status](https://build.appcenter.ms/v0.1/apps/8de0c863-03f0-4b80-9e54-73184c871dec/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zeleznik)||[com.alphabetpartner.zeleznik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zeleznik.md)|
@@ -23,7 +23,7 @@
 - 
 
 ### Zmeny
-- 
+- znižená doba uloženia dočasného info zo 7 na 1 deň (častejšie sa aktualizuje obsah)
 
 ### Opravy
 - 
