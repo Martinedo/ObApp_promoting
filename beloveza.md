@@ -13,7 +13,7 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** a *
 ## 1.3.2 - 2020-10
 
 ### Pridané
-- pridaná iOS verzia aplikácie!
+- pridaná iOS verzia aplikácie! 🍏
 - kontakt na developera a technického správcu
 
 ### Zmeny
@@ -23,6 +23,8 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** a *
 ### Opravy
 - oprava Počasia. Otvorenie Počasia spôsobovalo pád aplikácie a to privolávalo ďalší dážď 🌦️
 - niekedy po úspešnom odoslaní podnetu ostala aplikácia na bielej obrazovke
+- [iOS] ak malo zariadenie zapnutý dark mode, tak nesprávne zobrazovalo niektoré prvky
+- [iOS] nesprávne rozloženie obrazovky na iPade, ak bol iPad otočený naležato
 
 ## 1.2.1 - 2020-10
 

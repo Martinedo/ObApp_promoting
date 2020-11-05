@@ -13,20 +13,25 @@
 |Ruskovce|[![Build status](https://build.appcenter.ms/v0.1/apps/0c47b5c8-8394-4cf4-ba98-a4f65e34f483/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.ruskovce)||[com.alphabetpartner.ruskovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ruskovce.md)|
 |Veľké Chlievany|[![Build status](https://build.appcenter.ms/v0.1/apps/9dbd8e8b-5348-449c-87c3-780089d29905/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vchlievany)||[com.alphabetpartner.vchlievany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkechlievany.md)|
 |Čeľadince|[![Build status](https://build.appcenter.ms/v0.1/apps/bd5c7a12-89af-4d2a-93cf-31defbdd69b1/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.celadince)||[com.alphabetpartner.celadince](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celadince.md)|
+|Kováčovce||[-> 1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.kovacovce)||[com.alphabetpartner.kovacovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kovacovce.md)|
+|Cerovo||[-> 1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerovo)||[com.alphabetpartner.cerovo](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerovo.md)|
 ****
 
 # Changelog
 
-## 1.4.X - 2020-XX (develop)
+## 1.4.X - 2020-11 (develop)
+
+V tejto verzii bola vytvorená aj aplikácia pre **iOS Apple zariadenia**. Postupne ak aplikáciu Apple schváli, tak ju pridáme na stiahnutie 🍏
 
 ### Pridané
-- 
+- NOTIFIKAČNÉ upozornenia! Teraz budete stále informovaný o aktuálnom diani alebo o dôležitých správach od obce 🔔
 
 ### Zmeny
 - znižená doba uloženia dočasného info zo 7 na 1 deň (častejšie sa aktualizuje obsah)
 
 ### Opravy
-- 
+- oprava volania obecnej stránky ak už aplikácia zavolala všetko čo mohla
+- hneď po povoleni Lokalizácie sa poloha začne načítavať
 
 ## 1.3.X - 2020-10
 
