@@ -10,7 +10,7 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** (**
 
 # Aktualizácie
 
-## 1.3.0 - 2020-11
+## 1.4.0 - 2020-11
 
 ### Prvá verzia
 - úvodné vydanie aplikácie
