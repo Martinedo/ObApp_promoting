@@ -15,9 +15,9 @@
 |Čeľadince|[![Build status](https://build.appcenter.ms/v0.1/apps/bd5c7a12-89af-4d2a-93cf-31defbdd69b1/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.celadince)||[com.alphabetpartner.celadince](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celadince.md)|
 |Kováčovce||[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.kovacovce)||[com.alphabetpartner.kovacovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kovacovce.md)|
 |Cerovo||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerovo)||[com.alphabetpartner.cerovo](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerovo.md)|
-|Svinica||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.svinica)||[com.alphabetpartner.svinica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svinica.md)|
-|Luník IX||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.lunikix)||[com.alphabetpartner.lunikix](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lunikix.md)|
-|Podkylava||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.podkylava)||[com.alphabetpartner.podkylava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/podkylava.md)|
+|Svinica||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.svinica)||[com.alphabetpartner.svinica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svinica.md)|
+|Luník IX||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lunikix)||[com.alphabetpartner.lunikix](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lunikix.md)|
+|Podkylava||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.podkylava)||[com.alphabetpartner.podkylava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/podkylava.md)|
 ****
 
 # Changelog
