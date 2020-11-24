@@ -3,17 +3,17 @@
 | App | Build | Android | iOS | ID |
 |-----|--------|-----|-----|-----|
 |Demo Moderná Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/b1f51bfc-c618-4813-8471-ec5bd3cc5318/branches/master/badge)](https://appcenter.ms)[![Build status](https://build.appcenter.ms/v0.1/apps/aa1c0f0e-50ed-47ee-b420-3cef414768a1/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.obapp)|XX|[com.alphabetpartner.obapp](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/modernaVes.md)|
-|Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[1.3.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza)|[1.3.0 -> 1.4.2](https://apps.apple.com/sk/app/beloveža/id1536810459)|[com.alphabetpartner.beloveza](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/beloveza.md)|
+|Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[1.3.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza)|[1.4.2](https://apps.apple.com/sk/app/beloveža/id1536810459)|[com.alphabetpartner.beloveza](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/beloveza.md)|
 |Bošáca|        |        ||[com.alphabetpartner.bosaca](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bosaca.md)|
-|Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavce)|[-> 1.4.0]()|[com.alphabetpartner.olsavce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/olsavce.md)|
-|Železník|[![Build status](https://build.appcenter.ms/v0.1/apps/8de0c863-03f0-4b80-9e54-73184c871dec/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zeleznik)||[com.alphabetpartner.zeleznik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zeleznik.md)|
-|Mýto pod Ďumbierom|[![Build status](https://build.appcenter.ms/v0.1/apps/7507fdbc-a8b4-471c-b01b-098fd6dc910b/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mytopoddumbierom)||[com.alphabetpartner.mytopoddumbierom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mytopoddumbierom.md)|
-|Poruba pod Vihorlatom|[![Build status](https://build.appcenter.ms/v0.1/apps/7da68df2-b800-47cb-bd12-a20890cfd275/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.porubapodvihorlatom)||[com.alphabetpartner.porubapodvihorlatom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/porubapodvihorlatom.md)|
-|Čečehov|[![Build status](https://build.appcenter.ms/v0.1/apps/790e443b-4682-4cde-81a1-f701129806c6/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cecehov)||[com.alphabetpartner.cecehov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cecehov.md)|
+|Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavce)|[1.4.0](https://apps.apple.com/us/app/oľšavce/id1539213777)|[com.alphabetpartner.olsavce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/olsavce.md)|
+|Železník|[![Build status](https://build.appcenter.ms/v0.1/apps/8de0c863-03f0-4b80-9e54-73184c871dec/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zeleznik)|[-> 1.4.0](https://apps.apple.com/us/app/železník/id1539213692)|[com.alphabetpartner.zeleznik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zeleznik.md)|
+|Mýto pod Ďumbierom|[![Build status](https://build.appcenter.ms/v0.1/apps/7507fdbc-a8b4-471c-b01b-098fd6dc910b/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mytopoddumbierom)|[-> 1.4.0](https://apps.apple.com/us/app/mýto-pod-ďumbierom/id1539214091)|[com.alphabetpartner.mytopoddumbierom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mytopoddumbierom.md)|
+|Poruba pod Vihorlatom|[![Build status](https://build.appcenter.ms/v0.1/apps/7da68df2-b800-47cb-bd12-a20890cfd275/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.porubapodvihorlatom)|[-> 1.4.0](https://apps.apple.com/us/app/poruba-pod-vihorlatom/id1539214053)|[com.alphabetpartner.porubapodvihorlatom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/porubapodvihorlatom.md)|
+|Čečehov|[![Build status](https://build.appcenter.ms/v0.1/apps/790e443b-4682-4cde-81a1-f701129806c6/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cecehov)|[-> 1.4.0](https://apps.apple.com/us/app/čečehov/id1539214203)|[com.alphabetpartner.cecehov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cecehov.md)|
 |Ruskovce|[![Build status](https://build.appcenter.ms/v0.1/apps/0c47b5c8-8394-4cf4-ba98-a4f65e34f483/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.ruskovce)||[com.alphabetpartner.ruskovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ruskovce.md)|
 |Veľké Chlievany|[![Build status](https://build.appcenter.ms/v0.1/apps/9dbd8e8b-5348-449c-87c3-780089d29905/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vchlievany)||[com.alphabetpartner.vchlievany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkechlievany.md)|
 |Čeľadince|[![Build status](https://build.appcenter.ms/v0.1/apps/bd5c7a12-89af-4d2a-93cf-31defbdd69b1/branches/master/badge)](https://appcenter.ms)|[1.3.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.celadince)||[com.alphabetpartner.celadince](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celadince.md)|
-|Kováčovce||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.kovacovce)||[com.alphabetpartner.kovacovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kovacovce.md)|
+|Kováčovce||[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.kovacovce)||[com.alphabetpartner.kovacovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kovacovce.md)|
 |Cerovo||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerovo)||[com.alphabetpartner.cerovo](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerovo.md)|
 |Svinica||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.svinica)||[com.alphabetpartner.svinica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svinica.md)|
 |Luník IX||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.lunikix)||[com.alphabetpartner.lunikix](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lunikix.md)|
@@ -22,7 +22,18 @@
 
 # Changelog
 
-## 1.4.X - 2020-11 (develop)
+## 1.5.X - 2020-12 (develop)
+
+### Pridané
+- 
+
+### Zmeny
+- 
+
+### Opravy
+-
+
+## 1.4.X - 2020-11
 
 V tejto verzii bola vytvorená aj aplikácia pre **iOS Apple zariadenia**. Postupne ak aplikáciu Apple schváli, tak ju pridáme na stiahnutie 🍏
 

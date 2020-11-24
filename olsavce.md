@@ -5,10 +5,30 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** (**
 
 | Android | iOS |
 |-----|--------|
-|<a href="https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavce"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href=""><img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/download_on_app_store_sk.png" alt="iOS" width="300"/></a>|
-| Minimum - Android 5.0 Lollipop| Pracujeme na iOS verzii... |
+|<a href="https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavce"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href="https://apps.apple.com/us/app/oľšavce/id1539213777"><img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/download_on_app_store_sk.png" alt="iOS" width="300"/></a>|
+| Minimum - Android 5.0 Lollipop| Min - iOS 12.4 alebo novší |
 
 # Aktualizácie
+
+## 1.4.X - 2020-11
+
+V tejto verzii bola vytvorená aj aplikácia pre **iOS Apple zariadenia**. Postupne ak aplikáciu Apple schváli, tak ju pridáme na stiahnutie 🍏
+
+### Pridané
+- NOTIFIKAČNÉ upozornenia! Teraz budete stále informovaný o aktuálnom diani alebo o dôležitých správach od obce 🔔
+- možnosť zobrazenia Twitter časovej osi 🐤
+- info o vydavateľovi správ
+
+### Zmeny
+- znižená doba uloženia dočasného info zo 7 na 1 deň (častejšie sa aktualizuje obsah)
+- odstránené kategórie, v ktorých nie sú príspevky
+- upresnenie nejasných kategórií príspevkov
+
+### Opravy
+- oprava volania obecnej stránky ak už aplikácia zavolala všetko čo mohla
+- hneď po povoleni Lokalizácie sa poloha začne načítavať
+- niekedy nebolo možné prejsť na obrazovku pridania podnetu
+- oprava načítania notifikácií ak zariadenie nebolo pripojené na internet
 
 ## 1.3.0 - 2020-10
 

@@ -10,6 +10,24 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** a *
 
 # Aktualizácie
 
+## 1.4.2 - 2020-11
+
+### Pridané
+- NOTIFIKAČNÉ upozornenia! Teraz budete stále informovaný o aktuálnom diani alebo o dôležitých správach od obce 🔔
+- možnosť zobrazenia Twitter časovej osi 🐤
+- info o vydavateľovi správ
+
+### Zmeny
+- znižená doba uloženia dočasného info zo 7 na 1 deň (častejšie sa aktualizuje obsah)
+- odstránené kategórie, v ktorých nie sú príspevky
+- upresnenie nejasných kategórií príspevkov
+
+### Opravy
+- oprava volania obecnej stránky ak už aplikácia zavolala všetko čo mohla
+- hneď po povoleni Lokalizácie sa poloha začne načítavať
+- niekedy nebolo možné prejsť na obrazovku pridania podnetu
+- oprava načítania notifikácií ak zariadenie nebolo pripojené na internet
+
 ## 1.3.2 - 2020-10
 
 ### Pridané
