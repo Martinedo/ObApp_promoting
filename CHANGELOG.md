@@ -18,6 +18,9 @@
 |Svinica||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.svinica)||[com.alphabetpartner.svinica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svinica.md)|
 |Luník IX||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lunikix)||[com.alphabetpartner.lunikix](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lunikix.md)|
 |Podkylava||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.podkylava)||[com.alphabetpartner.podkylava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/podkylava.md)|
+|Lipové||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipove)||[com.alphabetpartner.lipove](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipove.md)|
+|Revúcka Lehota||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.revuckalehota)||[com.alphabetpartner.revuckalehota](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/revuckalehota.md)|
+|Koškovce||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.koskovce)||[com.alphabetpartner.koskovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/koskovce.md)|
 ****
 
 # Changelog
