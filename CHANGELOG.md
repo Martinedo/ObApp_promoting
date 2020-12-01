@@ -20,7 +20,7 @@
 |Podkylava||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.podkylava)||[com.alphabetpartner.podkylava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/podkylava.md)|
 |Lipové||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipove)||[com.alphabetpartner.lipove](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipove.md)|
 |Revúcka Lehota||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.revuckalehota)||[com.alphabetpartner.revuckalehota](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/revuckalehota.md)|
-|Koškovce||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.koskovce)||[com.alphabetpartner.koskovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/koskovce.md)|
+|Koškovce||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.koskovce)||[com.alphabetpartner.koskovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/koskovce.md)|
 ****
 
 # Changelog
