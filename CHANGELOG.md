@@ -21,6 +21,13 @@
 |Lipové||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipove)||[com.alphabetpartner.lipove](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipove.md)|
 |Revúcka Lehota||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.revuckalehota)||[com.alphabetpartner.revuckalehota](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/revuckalehota.md)|
 |Koškovce||[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.koskovce)||[com.alphabetpartner.koskovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/koskovce.md)|
+|Legnava||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.legnava)||[com.alphabetpartner.legnava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/legnava.md)|
+|Rimavská baňa||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskabana)||[com.alphabetpartner.rimavskabana](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskabana.md)|
+|Ďurková||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.durkova)||[com.alphabetpartner.durkova](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/durkova.md)|
+|Sekule||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sekule)||[com.alphabetpartner.sekule](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sekule.md)|
+|Zemplínske Jastrabie||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zemplinskejastrabie)||[com.alphabetpartner.zemplinskejastrabie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zemplinskejastrabie.md)|
+|Pertovce nad Laborcom||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.pertovcenadlaborcom)||[com.alphabetpartner.pertovcenadlaborcom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/pertovcenadlaborcom.md)|
+|Istebné||[](https://play.google.com/store/apps/details?id=com.alphabetpartner.istebne)||[com.alphabetpartner.istebne](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/istebne.md)|
 ****
 
 # Changelog
