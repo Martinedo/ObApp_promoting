@@ -1,4 +1,4 @@
-﻿Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, farské oznamy a všetky ostatné informácie pre občana.
+﻿Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, farské oznamy, zasielanie dôležitých notifikácií a všetky ostatné informácie pre občana.
 
 # Kde sa dá aplikácia stiahnúť?
 Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** (**Apple iOS** na ceste). V prípade, že si nie ste istý, ktorý operačný systém máte na svojom mobile, opýtajte sa svojích známych.
@@ -9,6 +9,26 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** (**
 | Minimum - Android 5.0 Lollipop| Pracujeme na iOS verzii... |
 
 # Aktualizácie
+
+## 1.4.0 - 2020-11
+
+V tejto verzii bola vytvorená aj aplikácia pre **iOS Apple zariadenia**. Postupne ak aplikáciu Apple schváli, tak ju pridáme na stiahnutie 🍏
+
+### Pridané
+- NOTIFIKAČNÉ upozornenia! Teraz budete stále informovaný o aktuálnom diani alebo o dôležitých správach od obce 🔔
+- možnosť zobrazenia Twitter časovej osi 🐤
+- info o vydavateľovi správ
+
+### Zmeny
+- znižená doba uloženia dočasného info zo 7 na 1 deň (častejšie sa aktualizuje obsah)
+- odstránené kategórie, v ktorých nie sú príspevky
+- upresnenie nejasných kategórií príspevkov
+
+### Opravy
+- oprava volania obecnej stránky ak už aplikácia zavolala všetko čo mohla
+- hneď po povoleni Lokalizácie sa poloha začne načítavať
+- niekedy nebolo možné prejsť na obrazovku pridania podnetu
+- oprava načítania notifikácií ak zariadenie nebolo pripojené na internet
 
 ## 1.3.0 - 2020-10
 

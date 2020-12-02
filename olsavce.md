@@ -1,4 +1,4 @@
-Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, fotogaléria a všetky ostatné informácie pre občana.
+Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, fotogaléria, zasielanie dôležitých notifikácií a všetky ostatné informácie pre občana.
 
 # Kde sa dá aplikácia stiahnúť?
 Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** (**Apple iOS** na ceste). V prípade, že si nie ste istý, ktorý operačný systém máte na svojom mobile, opýtajte sa svojích známych.
@@ -10,7 +10,7 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** (**
 
 # Aktualizácie
 
-## 1.4.X - 2020-11
+## 1.4.0 - 2020-11
 
 V tejto verzii bola vytvorená aj aplikácia pre **iOS Apple zariadenia**. Postupne ak aplikáciu Apple schváli, tak ju pridáme na stiahnutie 🍏
 
