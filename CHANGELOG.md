@@ -18,8 +18,8 @@
 |Svinica|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.svinica)||[com.alphabetpartner.svinica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svinica.md)||
 |Luník IX|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lunikix)||[com.alphabetpartner.lunikix](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lunikix.md)||
 |Podkylava|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.podkylava)|[1.4.0](https://apps.apple.com/sk/app/podkylava/id1542686625)|[com.alphabetpartner.podkylava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/podkylava.md)|...[![Build status](https://build.appcenter.ms/v0.1/apps/1566b687-c9a1-4857-a2c5-7091430c842e/branches/master/badge)](https://appcenter.ms)|
-|Lipové|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipove)|[1.4.0](https://apps.apple.com/sk/app/lipové/id1542685757)|[com.alphabetpartner.lipove](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipove.md)||
-|Revúcka Lehota|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.revuckalehota)||[com.alphabetpartner.revuckalehota](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/revuckalehota.md)||
+|Lipové|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipove)|[1.4.0](https://apps.apple.com/sk/app/lipové/id1542685757)|[com.alphabetpartner.lipove](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipove.md)||
+|Revúcka Lehota|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.revuckalehota)|[-> 1.4.0](https://apps.apple.com/us/app/revúcka-lehota/id1542685825)|[com.alphabetpartner.revuckalehota](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/revuckalehota.md)||
 |Koškovce|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.koskovce)|[-> 1.4.0](https://apps.apple.com/sk/app/koškovce/id1542686095)|[com.alphabetpartner.koskovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/koskovce.md)||
 |Legnava|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.legnava)||[com.alphabetpartner.legnava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/legnava.md)||
 |Rimavská baňa|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskabana)||[com.alphabetpartner.rimavskabana](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskabana.md)||
@@ -29,7 +29,7 @@
 |Pertovce nad Laborcom|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.pertovcenadlaborcom)||[com.alphabetpartner.pertovcenadlaborcom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/pertovcenadlaborcom.md)||
 |Istebné|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.istebne)||[com.alphabetpartner.istebne](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/istebne.md)||
 |Sirk|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sirk)||[com.alphabetpartner.sirk](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sirk.md)||
-|Malý Slivník|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.malyslivnik)||[com.alphabetpartner.malyslivnik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malyslivnik.md)||
+|Malý Slivník|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.malyslivnik)|[-> 1.4.0](https://apps.apple.com/sk/app/malý-slivník/id1543782236)|[com.alphabetpartner.malyslivnik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malyslivnik.md)||
 |Hodkovce|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hodkovce)||[com.alphabetpartner.hodkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hodkovce.md)||
 ****
 
@@ -45,6 +45,7 @@
 
 ### Opravy
 - ak bol niektorý modul na stránke vypnutý, obsah aplikácie sa nemohol načítať
+- aplikácia nepadá ak načítavá z webu súbor s diakritikou
 
 ## 1.4.X - 2020-11
 
