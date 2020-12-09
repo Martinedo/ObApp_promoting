@@ -29,7 +29,7 @@
 |Pertovce nad Laborcom|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.pertovcenadlaborcom)||[com.alphabetpartner.pertovcenadlaborcom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/pertovcenadlaborcom.md)||
 |Istebné|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.istebne)||[com.alphabetpartner.istebne](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/istebne.md)||
 |Sirk|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sirk)||[com.alphabetpartner.sirk](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sirk.md)||
-|Malý Slivník|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.malyslivnik)|[-> 1.4.0](https://apps.apple.com/sk/app/malý-slivník/id1543782236)|[com.alphabetpartner.malyslivnik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malyslivnik.md)||
+|Malý Slivník|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.malyslivnik)|[](https://apps.apple.com/sk/app/malý-slivník/id1543782236)|[com.alphabetpartner.malyslivnik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malyslivnik.md)|[![Build status](https://build.appcenter.ms/v0.1/apps/1fef42f8-476a-49f8-9aba-43ef55ea0226/branches/master/badge)](https://appcenter.ms)[![Build status](https://build.appcenter.ms/v0.1/apps/5ff2acb9-531f-4957-96dc-d47a56ec52cf/branches/master/badge)](https://appcenter.ms)|
 |Hodkovce|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hodkovce)||[com.alphabetpartner.hodkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hodkovce.md)||
 ****
 
