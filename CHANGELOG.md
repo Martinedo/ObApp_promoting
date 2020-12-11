@@ -31,6 +31,9 @@
 |Sirk|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sirk)||[com.alphabetpartner.sirk](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sirk.md)||
 |Malý Slivník|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.malyslivnik)|[](https://apps.apple.com/sk/app/malý-slivník/id1543782236)|[com.alphabetpartner.malyslivnik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malyslivnik.md)|[![Build status](https://build.appcenter.ms/v0.1/apps/1fef42f8-476a-49f8-9aba-43ef55ea0226/branches/master/badge)](https://appcenter.ms)[![Build status](https://build.appcenter.ms/v0.1/apps/5ff2acb9-531f-4957-96dc-d47a56ec52cf/branches/master/badge)](https://appcenter.ms)|
 |Hodkovce|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hodkovce)||[com.alphabetpartner.hodkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hodkovce.md)||
+|Kotrčiná Lúčka|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kotrcinalucka)||[com.alphabetpartner.kotrcinalucka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kotrcinalucka.md)||
+|Hatné|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hatne)||[com.alphabetpartner.hatne](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hatne.md)||
+
 ****
 
 # Changelog
