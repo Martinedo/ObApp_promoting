@@ -13,10 +13,10 @@
 |Ruskovce|[![Build status](https://build.appcenter.ms/v0.1/apps/0c47b5c8-8394-4cf4-ba98-a4f65e34f483/branches/master/badge)](https://appcenter.ms)||
 |Veľké Chlievany|[![Build status](https://build.appcenter.ms/v0.1/apps/9dbd8e8b-5348-449c-87c3-780089d29905/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/bcd42057-795c-48f2-97d1-2b257ceb4995/branches/master/badge)](https://appcenter.ms)|
 |Čeľadince|[![Build status](https://build.appcenter.ms/v0.1/apps/bd5c7a12-89af-4d2a-93cf-31defbdd69b1/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/4caae5ad-2cfd-4f5b-89ca-3e14ff4e8707/branches/master/badge)](https://appcenter.ms)|
-|Kováčovce|||
-|Cerovo|||
-|Svinica|||
-|Luník IX|||
+|Kováčovce||[![Build status](https://build.appcenter.ms/v0.1/apps/c1e3a13c-a499-40a0-a8d1-b7fe655106fb/branches/master/badge)](https://appcenter.ms)|
+|Cerovo||[![Build status](https://build.appcenter.ms/v0.1/apps/e4e01fcc-74b3-41da-9f1e-52359690008a/branches/master/badge)](https://appcenter.ms)|
+|Svinica||[![Build status](https://build.appcenter.ms/v0.1/apps/effc48c5-5df1-4729-9eb3-12d4477c665b/branches/master/badge)](https://appcenter.ms)|
+|Luník IX||[![Build status](https://build.appcenter.ms/v0.1/apps/0831647f-81e2-4936-8ed0-965159310fe4/branches/master/badge)](https://appcenter.ms)|
 |Podkylava|[![Build status](https://build.appcenter.ms/v0.1/apps/332a9778-6652-408c-b4ac-e2ad02276963/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/1566b687-c9a1-4857-a2c5-7091430c842e/branches/master/badge)](https://appcenter.ms)|
 |Lipové|||
 |Revúcka Lehota|||
