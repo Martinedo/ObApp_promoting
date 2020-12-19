@@ -14,25 +14,26 @@
 |[Veľké Chlievany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkechlievany.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vchlievany)|[1.4.0](https://apps.apple.com/sk/app/veľké-chlievany/id1539214843)|com.alphabetpartner.vchlievany|veľké-chlievany/id1539214843|
 |[Čeľadince](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celadince.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.celadince)|[1.4.0](https://apps.apple.com/sk/app/čeľadince/id1539214768)|com.alphabetpartner.celadince|čeľadince/id1539214768|
 |[Kováčovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kovacovce.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.kovacovce)|[-> 1.4.0](https://apps.apple.com/sk/app/kováčovce/id1539214804)|com.alphabetpartner.kovacovce|kováčovce/id1539214804|
-|[Cerovo](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerovo.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerovo)|[](https://apps.apple.com/sk/app/cerovo/id1539214932)|com.alphabetpartner.cerovo|cerovo/id1539214932|
-|[Svinica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svinica.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.svinica)|[](https://apps.apple.com/sk/app/svinica/id1542686636)|com.alphabetpartner.svinica|svinica/id1542686636|
-|[Luník IX](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lunikix.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lunikix)|[](https://apps.apple.com/sk/app/luník-ix/id1542686405)|com.alphabetpartner.lunikix|luník-ix/id1542686405|
+|[Cerovo](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerovo.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerovo)|[📄](https://apps.apple.com/sk/app/cerovo/id1539214932)|com.alphabetpartner.cerovo|cerovo/id1539214932|
+|[Svinica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svinica.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.svinica)|[📄](https://apps.apple.com/sk/app/svinica/id1542686636)|com.alphabetpartner.svinica|svinica/id1542686636|
+|[Luník IX](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lunikix.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lunikix)|[📄](https://apps.apple.com/sk/app/luník-ix/id1542686405)|com.alphabetpartner.lunikix|luník-ix/id1542686405|
 |[Podkylava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/podkylava.md)|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.podkylava)|[1.4.0](https://apps.apple.com/sk/app/podkylava/id1542686625)|com.alphabetpartner.podkylava|podkylava/id1542686625|
 |[Lipové](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipove.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipove)|[1.4.0](https://apps.apple.com/sk/app/lipové/id1542685757)|com.alphabetpartner.lipove|lipové/id1542685757|
 |[Revúcka Lehota](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/revuckalehota.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.revuckalehota)|[1.4.0](https://apps.apple.com/us/app/revúcka-lehota/id1542685825)|com.alphabetpartner.revuckalehota|revúcka-lehota/id1542685825|
 |[Koškovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/koskovce.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.koskovce)|[1.4.0](https://apps.apple.com/sk/app/koškovce/id1542686095)|com.alphabetpartner.koskovce|koškovce/id1542686095|
-|[Legnava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/legnava.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.legnava)||com.alphabetpartner.legnava||
-|[Rimavská baňa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskabana.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskabana)||com.alphabetpartner.rimavskabana||
-|[Ďurková](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/durkova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.durkova)||com.alphabetpartner.durkova||
-|[Sekule](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sekule.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sekule)||com.alphabetpartner.sekule||
+|[Legnava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/legnava.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.legnava)|📄|com.alphabetpartner.legnava||
+|[Rimavská baňa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskabana.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskabana)|📄|com.alphabetpartner.rimavskabana||
+|[Ďurková](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/durkova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.durkova)|📄|com.alphabetpartner.durkova||
+|[Sekule](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sekule.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sekule)|📄|com.alphabetpartner.sekule||
 |[Zemplínske Jastrabie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zemplinskejastrabie.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zemplinskejastrabie)||com.alphabetpartner.zemplinskejastrabie||
-|[Pertovce nad Laborcom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/pertovcenadlaborcom.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.pertovcenadlaborcom)||com.alphabetpartner.pertovcenadlaborcom||
-|[Istebné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/istebne.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.istebne)||com.alphabetpartner.istebne||
-|[Sirk](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sirk.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sirk)||com.alphabetpartner.sirk||
-|[Malý Slivník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malyslivnik.md)|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.malyslivnik)|[](https://apps.apple.com/sk/app/malý-slivník/id1543782236)|com.alphabetpartner.malyslivnik|malý-slivník/id1543782236|
+|[Pertovce nad Laborcom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/pertovcenadlaborcom.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.pertovcenadlaborcom)|📄|com.alphabetpartner.pertovcenadlaborcom||
+|[Istebné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/istebne.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.istebne)|📄|com.alphabetpartner.istebne||
+|[Sirk](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sirk.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sirk)|📄|com.alphabetpartner.sirk||
+|[Malý Slivník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malyslivnik.md)|[-> 1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.malyslivnik)|[📄](https://apps.apple.com/sk/app/malý-slivník/id1543782236)|com.alphabetpartner.malyslivnik|malý-slivník/id1543782236|
 |[Hodkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hodkovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hodkovce)||com.alphabetpartner.hodkovce||
-|[Kotrčiná Lúčka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kotrcinalucka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kotrcinalucka)||com.alphabetpartner.kotrcinalucka||
+|[Kotrčiná Lúčka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kotrcinalucka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kotrcinalucka)|📄|com.alphabetpartner.kotrcinalucka||
 |[Hatné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hatne.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hatne)||com.alphabetpartner.hatne||
+|[Ducové](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ducove.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.ducove)|📄|com.alphabetpartner.ducove||
 
 ****
 
@@ -44,6 +45,7 @@
 - 
 
 ### Zmeny
+- znižená doba uloženia dočasného info zo 1 dňa na 1 hodinu (častejšie sa aktualizuje obsah)
 - 
 
 ### Opravy

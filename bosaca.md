@@ -9,6 +9,12 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.4.1 - 2020-12
+### Zmeny
+- znižená doba uloženia dočasného info zo 1 dňa na 1 hodinu (častejšie sa aktualizuje obsah)
+- zmena poradia dlaždíc
+- doprava odkazuje už len na autobusobé spoje a nie aj na vlakové 🚌
+
 ## 1.4.0 - 2020-12
 
 ### Prvá verzia
