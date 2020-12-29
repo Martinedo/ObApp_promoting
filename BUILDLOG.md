@@ -33,5 +33,7 @@
 |Hodkovce|||
 |Kotrčiná Lúčka|||
 |Hatné|||
+|Ducové|||
+|Kazimír|||
 
 ****
