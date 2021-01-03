@@ -44,10 +44,11 @@
 
 ### Pridané
 - možnosť zobrazenia ukážky súboru v príspevku 📄 automatické zobrazovanie je možné vypnúť v nastaveniach aplikácie
+- na úvodnej obrazoke je možné lahšie prechádzať všetky stránky/moduly dookola ↔️
 
 ### Zmeny
 - znižená doba uloženia dočasného info zo 1 dňa na 1 hodinu (častejšie sa aktualizuje obsah)
-- 
+- dočasne bola odstránená možnosť približovať obrázky z príspevkou kvôli chybe na Android zariadeniach
 
 ### Opravy
 - ak bol niektorý modul na stránke vypnutý, obsah aplikácie sa nemohol načítať
