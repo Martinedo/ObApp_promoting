@@ -27,11 +27,11 @@
 |Sekule|||
 |Zemplínske Jastrabie|||
 |Pertovce nad Laborcom|||
-|Istebné|||
+|Istebné|[![Build status](https://build.appcenter.ms/v0.1/apps/0f05fb90-b533-4f4c-b75e-841410198e2f/branches/master/badge)](https://appcenter.ms)||
 |Sirk|||
 |Malý Slivník|[![Build status](https://build.appcenter.ms/v0.1/apps/1fef42f8-476a-49f8-9aba-43ef55ea0226/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/5ff2acb9-531f-4957-96dc-d47a56ec52cf/branches/master/badge)](https://appcenter.ms)|
-|Hodkovce|||
-|Kotrčiná Lúčka|||
+|Hodkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/fbe6ffbd-e913-4395-9564-de0704884673/branches/master/badge)](https://appcenter.ms)||
+|Kotrčiná Lúčka|[![Build status](https://build.appcenter.ms/v0.1/apps/be2c6d56-d273-4d7f-9303-bca8bc91a61a/branches/master/badge)](https://appcenter.ms)||
 |Hatné|||
 |Ducové|||
 |Kazimír|||
