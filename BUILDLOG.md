@@ -35,5 +35,6 @@
 |Hatné|||
 |Ducové|||
 |Kazimír|||
+|Smolinské|||
 
 ****
