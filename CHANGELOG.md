@@ -35,16 +35,18 @@
 |[Hatné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hatne.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hatne)||com.alphabetpartner.hatne||
 |[Ducové](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ducove.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.ducove)|📄|com.alphabetpartner.ducove||
 |[Kazimír](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kazimir.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kazimir)|📄|com.alphabetpartner.kazimir||
+|[Sekule](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sekule.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sekule)||com.alphabetpartner.sekule||
 
 ****
 
 # Changelog
 
-## 1.5.X - 2020-12 (develop)
+## 1.5.X - 2021-01 (develop)
 
 ### Pridané
 - možnosť zobrazenia ukážky súboru v príspevku 📄 automatické zobrazovanie je možné vypnúť v nastaveniach aplikácie
 - na úvodnej obrazoke je možné lahšie prechádzať všetky stránky/moduly dookola ↔️
+- nové ikony pre ďalšie moduly
 
 ### Zmeny
 - znižená doba uloženia dočasného info zo 1 dňa na 1 hodinu (častejšie sa aktualizuje obsah)
