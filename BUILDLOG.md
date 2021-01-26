@@ -24,7 +24,7 @@
 |Legnava|||
 |Rimavská baňa|[![Build status](https://build.appcenter.ms/v0.1/apps/50adc97e-1a96-47e1-8763-6686ca77268f/branches/master/badge)](https://appcenter.ms)||
 |Ďurková|[![Build status](https://build.appcenter.ms/v0.1/apps/c3ea2431-31a5-4592-9b7b-90041783655c/branches/master/badge)](https://appcenter.ms)||
-|Sekule|||
+|Sekule|[![Build status](https://build.appcenter.ms/v0.1/apps/fd5cc435-b2ed-4785-8816-b5e7c9036b4e/branches/master/badge)](https://appcenter.ms)||
 |Zemplínske Jastrabie|||
 |Pertovce nad Laborcom|[![Build status](https://build.appcenter.ms/v0.1/apps/8c77b851-0197-4307-bc91-88e401d68238/branches/master/badge)](https://appcenter.ms)||
 |Istebné|[![Build status](https://build.appcenter.ms/v0.1/apps/0f05fb90-b533-4f4c-b75e-841410198e2f/branches/master/badge)](https://appcenter.ms)||
