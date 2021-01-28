@@ -35,6 +35,7 @@
 |Hatné|||
 |Ducové|||
 |Kazimír|||
+|Hrašovík|||
 |Smolinské|[![Build status](https://build.appcenter.ms/v0.1/apps/6d1d8fbe-fba4-4f3f-b4a8-c51f5ffb0db0/branches/master/badge)](https://appcenter.ms)||
 
 ****
