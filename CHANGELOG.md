@@ -43,7 +43,18 @@
 
 # Changelog
 
-## 1.5.X - 2021-01 (develop)
+## 1.6.X - 2021-02 (develop)
+
+### Pridané
+- 
+
+### Zmeny
+- 
+
+### Opravy
+- 
+
+## 1.5.X - 2021-01
 
 ### Pridané
 - možnosť zobrazenia ukážky súboru v príspevku 📄 automatické zobrazovanie je možné vypnúť v nastaveniach aplikácie
