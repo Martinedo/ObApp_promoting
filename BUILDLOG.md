@@ -1,4 +1,4 @@
-﻿# ObApp
+# ObApp
 
 | App | Android | iOS |
 |-----|-----|-----|
@@ -37,6 +37,7 @@
 |Kazimír|||
 |Hrašovík|||
 |Smolinské|[![Build status](https://build.appcenter.ms/v0.1/apps/6d1d8fbe-fba4-4f3f-b4a8-c51f5ffb0db0/branches/master/badge)](https://appcenter.ms)||
+|Zliechov|[![Build status](https://build.appcenter.ms/v0.1/apps/8fec7e3e-ab98-4403-965c-2ad625523686/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****

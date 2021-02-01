@@ -1,4 +1,4 @@
-﻿# ObApp
+# ObApp
 
 | App | Android | iOS | ID | iOS link |
 |-----|-----|-----|-----|-----|
@@ -23,7 +23,7 @@
 |[Koškovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/koskovce.md)|[1.4.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.koskovce)|[1.4.0](https://apps.apple.com/sk/app/koškovce/id1542686095)|com.alphabetpartner.koskovce|koškovce/id1542686095|
 |[Legnava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/legnava.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.legnava)|📄[](https://apps.apple.com/sk/app/legnava/id1547320103)|com.alphabetpartner.legnava||
 |[Rimavská baňa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskabana.md)|[-> 1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskabana)|[1.5.0](https://apps.apple.com/sk/app/rimavská-baňa/id1547318462)|com.alphabetpartner.rimavskabana|rimavská-baňa/id1547318462|
-|[Ďurková](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/durkova.md)|[-> 1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.durkova)|[1.5.0](https://apps.apple.com/sk/app/ďurková/id1547328697)|com.alphabetpartner.durkova|ďurková/id1547328697|
+|[Ďurková](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/durkova.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.durkova)|[1.5.0](https://apps.apple.com/sk/app/ďurková/id1547328697)|com.alphabetpartner.durkova|ďurková/id1547328697|
 |[Sekule](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sekule.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sekule)|📄[](https://apps.apple.com/sk/app/sekule/id1547317829)|com.alphabetpartner.sekule|sekule/id1547317829|
 |[Zemplínske Jastrabie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zemplinskejastrabie.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zemplinskejastrabie)|📄[](https://apps.apple.com/sk/app/zemplínske-jastrabie/id1547315749)|com.alphabetpartner.zemplinskejastrabie|zemplínske-jastrabie/id1547315749|
 |[Petrovce nad Laborcom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/petrovcenadlaborcom.md)|[-> 1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.petrovcenadlaborcom)|[1.5.0](https://apps.apple.com/sk/app/petrovce-nad-laborcom/id1551212367)|com.alphabetpartner.petrovcenadlaborcom|petrovce-nad-laborcom/id1551212367|
@@ -37,6 +37,7 @@
 |[Kazimír](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kazimir.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kazimir)|📄[](https://apps.apple.com/sk/app/kazimír/id1547322215)|com.alphabetpartner.kazimir|kazimír/id1547322215|
 |[Hrašovík](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hrasovik.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hrasovik)|📄[](https://apps.apple.com/sk/app/hrašovík/id1548547446)|com.alphabetpartner.hrasovik||
 |[Smolinské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/smolinske.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.smolinske)||com.alphabetpartner.smolinske||
+|[Zliechov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zliechov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zliechov)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.zliechov||
 ._.
 
 ****
