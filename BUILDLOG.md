@@ -32,7 +32,7 @@
 |Malý Slivník|[![Build status](https://build.appcenter.ms/v0.1/apps/1fef42f8-476a-49f8-9aba-43ef55ea0226/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/5ff2acb9-531f-4957-96dc-d47a56ec52cf/branches/master/badge)](https://appcenter.ms)|
 |Hodkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/fbe6ffbd-e913-4395-9564-de0704884673/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/587e539e-de49-4431-8b6b-2b281569e10f/branches/master/badge)](https://appcenter.ms)|
 |Kotrčiná Lúčka|[![Build status](https://build.appcenter.ms/v0.1/apps/be2c6d56-d273-4d7f-9303-bca8bc91a61a/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/3fb9a32a-0d59-4ec3-a752-151c897ffb40/branches/master/badge)](https://appcenter.ms)|
-|Hatné|||
+|Hatné|[![Build status](https://build.appcenter.ms/v0.1/apps/de897cb5-6d03-4149-9567-442c23a9ca02/branches/master/badge)](https://appcenter.ms)||
 |Ducové|||
 |Kazimír|||
 |Hrašovík|||
