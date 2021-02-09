@@ -36,7 +36,7 @@
 |[Ducové](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ducove.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.ducove)|[1.5.0](https://apps.apple.com/sk/app/ducové/id1547329208)|com.alphabetpartner.ducove|ducové/id1547329208|
 |[Kazimír](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kazimir.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kazimir)|📄[](https://apps.apple.com/sk/app/kazimír/id1547322215)|com.alphabetpartner.kazimir|kazimír/id1547322215|
 |[Hrašovík](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hrasovik.md)|[-> 1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.hrasovik)|📄[](https://apps.apple.com/sk/app/hrašovík/id1548547446)|com.alphabetpartner.hrasovik|hrašovík/id1548547446|
-|[Smolinské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/smolinske.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.smolinske)|[-> 1.5.0](https://apps.apple.com/sk/app/smolinské/id1552777234)|com.alphabetpartner.smolinske|smolinské/id1552777234|
+|[Smolinské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/smolinske.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.smolinske)|[1.5.0](https://apps.apple.com/sk/app/smolinské/id1552777234)|com.alphabetpartner.smolinske|smolinské/id1552777234|
 |[Zliechov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zliechov.md)|[-> 1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zliechov)|[1.5.0](https://apps.apple.com/sk/app/zliechov/id1552779355)|com.alphabetpartner.zliechov|zliechov/id1552779355|
 ._.
 
