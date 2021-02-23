@@ -10,6 +10,22 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** a *
 
 # Aktualizácie
 
+## 1.5.0 - 2021-02
+
+### Pridané
+- možnosť zobrazenia ukážky súboru v príspevku 📄 automatické zobrazovanie je možné vypnúť v nastaveniach aplikácie
+- na úvodnej obrazoke je možné lahšie prechádzať všetky stránky/moduly dookola ↔️
+- nové ikony pre ďalšie moduly
+
+### Zmeny
+- znižená doba uloženia dočasného info zo 1 dňa na 1 hodinu (častejšie sa aktualizuje obsah)
+- dočasne bola odstránená možnosť približovať obrázky z príspevkou kvôli chybe na Android zariadeniach
+
+### Opravy
+- ak bol niektorý modul na stránke vypnutý, obsah aplikácie sa nemohol načítať
+- aplikácia nepadá ak načítavá z webu súbor s diakritikou ✍️
+- pri nepripojení na internet aplikácia nevedela dotiahnúť niektoré obrázky (predsalen bez internetu sa to nedá)
+
 ## 1.4.2 - 2020-11
 
 ### Pridané

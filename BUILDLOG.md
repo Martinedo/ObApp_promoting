@@ -3,9 +3,9 @@
 | App | Android | iOS |
 |-----|-----|-----|
 |Demo Moderná Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/b1f51bfc-c618-4813-8471-ec5bd3cc5318/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/aa1c0f0e-50ed-47ee-b420-3cef414768a1/branches/master/badge)](https://appcenter.ms)|
-|Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)||
+|Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/cadaa55a-d51e-4355-9dbd-12dba40ea06b/branches/develop/badge)](https://appcenter.ms)|
 |Bošáca|[![Build status](https://build.appcenter.ms/v0.1/apps/f1e125d3-9e27-4cc5-a7dc-be49d1a1f89f/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/34f5111f-103e-4ede-814d-290fbfe22b69/branches/master/badge)](https://appcenter.ms)|
-|Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)||
+|Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/40bbc895-e081-48fe-b28b-c47fb182e2f5/branches/master/badge)](https://appcenter.ms)|
 |Železník|[![Build status](https://build.appcenter.ms/v0.1/apps/8de0c863-03f0-4b80-9e54-73184c871dec/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/0695bf64-2529-4e0a-809e-c6f2227fc257/branches/master/badge)](https://appcenter.ms)|
 |Mýto pod Ďumbierom|[![Build status](https://build.appcenter.ms/v0.1/apps/7507fdbc-a8b4-471c-b01b-098fd6dc910b/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/ba12d783-4abd-495d-aa98-b2890e7eb87f/branches/master/badge)](https://appcenter.ms)|
 |Poruba pod Vihorlatom|[![Build status](https://build.appcenter.ms/v0.1/apps/7da68df2-b800-47cb-bd12-a20890cfd275/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/42a013c3-6216-4e7c-a19e-adc299200471/branches/master/badge)](https://appcenter.ms)|
@@ -38,6 +38,7 @@
 |Hrašovík|[![Build status](https://build.appcenter.ms/v0.1/apps/54a5575e-a97f-4471-b3e3-20ebceed2e9c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/f3a2b774-bfe5-4bbb-a8dc-15790950729d/branches/master/badge)](https://appcenter.ms)|
 |Smolinské|[![Build status](https://build.appcenter.ms/v0.1/apps/6d1d8fbe-fba4-4f3f-b4a8-c51f5ffb0db0/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/bad87265-9345-460d-a54d-9940a754c409/branches/master/badge)](https://appcenter.ms)|
 |Zliechov|[![Build status](https://build.appcenter.ms/v0.1/apps/8fec7e3e-ab98-4403-965c-2ad625523686/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/6f7044b8-f940-4ef6-baa6-f1065b4ed319/branches/master/badge)](https://appcenter.ms)|
+|Trstené pri Hornáde|[![Build status](https://build.appcenter.ms/v0.1/apps/bb09669a-696b-45d8-b933-9e3cffbbe1e5/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****
