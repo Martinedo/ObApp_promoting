@@ -1,4 +1,4 @@
-Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, farské oznamy, podnety a všetky ostatné informácie pre občana.
+Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, farské oznamy, podnety, kalendár zberu odpadu a všetky ostatné informácie pre občana.
 
 # Kde sa dá aplikácia stiahnúť?
 Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **Apple iOS**. V prípade, že si nie ste istý, ktorý operačný systém máte na svojom mobile, opýtajte sa svojích známych.
