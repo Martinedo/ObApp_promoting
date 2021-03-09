@@ -39,6 +39,8 @@
 |Smolinské|[![Build status](https://build.appcenter.ms/v0.1/apps/6d1d8fbe-fba4-4f3f-b4a8-c51f5ffb0db0/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/bad87265-9345-460d-a54d-9940a754c409/branches/master/badge)](https://appcenter.ms)|
 |Zliechov|[![Build status](https://build.appcenter.ms/v0.1/apps/8fec7e3e-ab98-4403-965c-2ad625523686/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/6f7044b8-f940-4ef6-baa6-f1065b4ed319/branches/master/badge)](https://appcenter.ms)|
 |Trstené pri Hornáde|[![Build status](https://build.appcenter.ms/v0.1/apps/bb09669a-696b-45d8-b933-9e3cffbbe1e5/branches/master/badge)](https://appcenter.ms)||
+|Michaľany|[![Build status](https://build.appcenter.ms/v0.1/apps/80a1f92e-d227-4f86-a05f-e51d871e7e97/branches/master/badge)](https://appcenter.ms)||
+|Radnovce|[![Build status](https://build.appcenter.ms/v0.1/apps/97efa101-412d-4ab1-b0aa-6add9be817f7/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****
