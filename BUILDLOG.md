@@ -41,6 +41,8 @@
 |Trstené pri Hornáde|[![Build status](https://build.appcenter.ms/v0.1/apps/bb09669a-696b-45d8-b933-9e3cffbbe1e5/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/b14baecc-f6d6-43e8-82c9-51a1062b0f02/branches/master/badge)](https://appcenter.ms)|
 |Michaľany|[![Build status](https://build.appcenter.ms/v0.1/apps/80a1f92e-d227-4f86-a05f-e51d871e7e97/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/01eaa6d7-7646-41f6-83e7-2511636b4190/branches/master/badge)](https://appcenter.ms)|
 |Radnovce|[![Build status](https://build.appcenter.ms/v0.1/apps/97efa101-412d-4ab1-b0aa-6add9be817f7/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/2ef9569e-ff8b-49e6-9afe-1f894172b2b8/branches/master/badge)](https://appcenter.ms)|
+|Prietržka|||
+|Budiná|[![Build status](https://build.appcenter.ms/v0.1/apps/16196d76-dfd1-49de-9ec5-f62fbb0b6ca3/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****

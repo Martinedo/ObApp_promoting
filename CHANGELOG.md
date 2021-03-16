@@ -41,6 +41,8 @@
 |[Trstené pri Hornáde](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/trsteneprihornade.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.trsteneprihornade)|[1.5.0](https://apps.apple.com/sk/app/trstené-pri-hornáde/id1554933723)|com.alphabetpartner.trsteneprihornade|trstené-pri-hornáde/id1554933723|
 |[Michaľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/michalany.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.michalany)|[1.5.0](https://apps.apple.com/sk/app/michaľany/id1557764825)|com.alphabetpartner.michalany|michaľany/id1557764825|
 |[Radnovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radnovce.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.radnovce)|[1.5.0](https://apps.apple.com/sk/app/radnovce/id1557766079)|com.alphabetpartner.radnovce|radnovce/id1557766079|
+|[Prietržka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prietrzka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.prietrzka)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.prietrzka||
+|[Budiná](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/budina.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.budina)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.budina||
 ._.
 
 ****
