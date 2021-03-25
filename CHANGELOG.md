@@ -41,7 +41,7 @@
 |[Trstené pri Hornáde](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/trsteneprihornade.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.trsteneprihornade)|[1.5.0](https://apps.apple.com/sk/app/trstené-pri-hornáde/id1554933723)|com.alphabetpartner.trsteneprihornade|trstené-pri-hornáde/id1554933723|
 |[Michaľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/michalany.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.michalany)|[1.5.0](https://apps.apple.com/sk/app/michaľany/id1557764825)|com.alphabetpartner.michalany|michaľany/id1557764825|
 |[Radnovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radnovce.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.radnovce)|[1.5.0](https://apps.apple.com/sk/app/radnovce/id1557766079)|com.alphabetpartner.radnovce|radnovce/id1557766079|
-|[Prietržka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prietrzka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.prietrzka)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.prietrzka||
+|[Prietržka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prietrzka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.prietrzka)|[](https://apps.apple.com/sk/app/prietržka/id1559796097)|com.alphabetpartner.prietrzka|prietržka/id1559796097|
 |[Budiná](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/budina.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.budina)|[1.5.0](https://apps.apple.com/sk/app/budiná/id1559795906)|com.alphabetpartner.budina|budiná/id1559795906|
 ._.
 
@@ -60,7 +60,7 @@
 ### Opravy
 - 
 
-## 1.5.X - 2021-01
+## 1.5.X - 2021-01 (stable)
 
 ### Pridané
 - možnosť zobrazenia ukážky súboru v príspevku 📄 automatické zobrazovanie je možné vypnúť v nastaveniach aplikácie
