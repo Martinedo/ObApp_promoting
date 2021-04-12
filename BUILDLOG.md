@@ -2,6 +2,7 @@
 
 | App | Android | iOS |
 |-----|-----|-----|
+|Mayor|[![Build status](https://build.appcenter.ms/v0.1/apps/5499dbc7-ffe6-46dc-9b25-996939a27c65/branches/master/badge)](https://appcenter.ms)||
 |Demo Moderná Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/b1f51bfc-c618-4813-8471-ec5bd3cc5318/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/aa1c0f0e-50ed-47ee-b420-3cef414768a1/branches/master/badge)](https://appcenter.ms)|
 |Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/cadaa55a-d51e-4355-9dbd-12dba40ea06b/branches/develop/badge)](https://appcenter.ms)|
 |Bošáca|[![Build status](https://build.appcenter.ms/v0.1/apps/f1e125d3-9e27-4cc5-a7dc-be49d1a1f89f/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/34f5111f-103e-4ede-814d-290fbfe22b69/branches/master/badge)](https://appcenter.ms)|
@@ -43,6 +44,8 @@
 |Radnovce|[![Build status](https://build.appcenter.ms/v0.1/apps/97efa101-412d-4ab1-b0aa-6add9be817f7/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/2ef9569e-ff8b-49e6-9afe-1f894172b2b8/branches/master/badge)](https://appcenter.ms)|
 |Prietržka||[![Build status](https://build.appcenter.ms/v0.1/apps/5c039c3a-27cb-4482-882a-7b243c53305e/branches/master/badge)](https://appcenter.ms)|
 |Budiná|[![Build status](https://build.appcenter.ms/v0.1/apps/16196d76-dfd1-49de-9ec5-f62fbb0b6ca3/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/202a7ecc-8728-4d6e-a24b-01ac279d1188/branches/master/badge)](https://appcenter.ms)|
+|Orechová|[![Build status](https://build.appcenter.ms/v0.1/apps/c88aadc1-ca2d-497b-9893-6689318a9d07/branches/master/badge)](https://appcenter.ms)||
+|Letničie|[![Build status](https://build.appcenter.ms/v0.1/apps/10a62cbc-2bc6-4fa1-a66b-eec6c8d7a14b/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****
