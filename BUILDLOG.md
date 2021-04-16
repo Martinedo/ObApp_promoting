@@ -44,8 +44,8 @@
 |Radnovce|[![Build status](https://build.appcenter.ms/v0.1/apps/97efa101-412d-4ab1-b0aa-6add9be817f7/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/2ef9569e-ff8b-49e6-9afe-1f894172b2b8/branches/master/badge)](https://appcenter.ms)|
 |Prietržka||[![Build status](https://build.appcenter.ms/v0.1/apps/5c039c3a-27cb-4482-882a-7b243c53305e/branches/master/badge)](https://appcenter.ms)|
 |Budiná|[![Build status](https://build.appcenter.ms/v0.1/apps/16196d76-dfd1-49de-9ec5-f62fbb0b6ca3/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/202a7ecc-8728-4d6e-a24b-01ac279d1188/branches/master/badge)](https://appcenter.ms)|
-|Orechová|[![Build status](https://build.appcenter.ms/v0.1/apps/c88aadc1-ca2d-497b-9893-6689318a9d07/branches/master/badge)](https://appcenter.ms)||
-|Letničie|[![Build status](https://build.appcenter.ms/v0.1/apps/10a62cbc-2bc6-4fa1-a66b-eec6c8d7a14b/branches/master/badge)](https://appcenter.ms)||
+|Orechová|[![Build status](https://build.appcenter.ms/v0.1/apps/c88aadc1-ca2d-497b-9893-6689318a9d07/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/f47a6dda-4b90-4013-b6af-62a3c9605d1e/branches/master/badge)](https://appcenter.ms)|
+|Letničie|[![Build status](https://build.appcenter.ms/v0.1/apps/10a62cbc-2bc6-4fa1-a66b-eec6c8d7a14b/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/f94a9756-a3c5-456e-b163-af17c46bc2ae/branches/master/badge)](https://appcenter.ms)|
 ._.
 
 ****
