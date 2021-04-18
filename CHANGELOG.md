@@ -43,8 +43,8 @@
 |[Radnovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radnovce.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.radnovce)|[1.5.0](https://apps.apple.com/sk/app/radnovce/id1557766079)|com.alphabetpartner.radnovce|radnovce/id1557766079|
 |[Prietržka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prietrzka.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.prietrzka)|[1.5.0](https://apps.apple.com/sk/app/prietržka/id1559796097)|com.alphabetpartner.prietrzka|prietržka/id1559796097|
 |[Budiná](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/budina.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.budina)|[1.5.0](https://apps.apple.com/sk/app/budiná/id1559795906)|com.alphabetpartner.budina|budiná/id1559795906|
-|[Orechová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/orechova.md)|[-> 1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.orechova)|[-> 1.5.0](https://apps.apple.com/sk/app/orechová/id1562749737)|com.alphabetpartner.orechova|orechová/id1562749737|
-|[Letničie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/letnicie.md)|[-> 1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.letnicie)|[-> 1.5.0](https://apps.apple.com/sk/app/letničie/id1562750197)|com.alphabetpartner.letnicie|letničie/id1562750197|
+|[Orechová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/orechova.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.orechova)|[1.5.0](https://apps.apple.com/sk/app/orechová/id1562749737)|com.alphabetpartner.orechova|orechová/id1562749737|
+|[Letničie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/letnicie.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.letnicie)|[1.5.0](https://apps.apple.com/sk/app/letničie/id1562750197)|com.alphabetpartner.letnicie|letničie/id1562750197|
 ._.
 
 ****
