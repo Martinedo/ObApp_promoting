@@ -46,11 +46,11 @@
 |[Orechová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/orechova.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.orechova)|[1.5.0](https://apps.apple.com/sk/app/orechová/id1562749737)|com.alphabetpartner.orechova|orechová/id1562749737|
 |[Letničie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/letnicie.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.letnicie)|[1.5.0](https://apps.apple.com/sk/app/letničie/id1562750197)|com.alphabetpartner.letnicie|letničie/id1562750197|
 |[Blhovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/blhovce.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.blhovce)|[1.5.0](https://apps.apple.com/sk/app/blhovce/id1565602224)|com.alphabetpartner.blhovce|blhovce/id1565602224|
-|[Oreské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oreske.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.oreske)|[](https://apps.apple.com/sk/app/oreské/id1565602098)|com.alphabetpartner.oreske|oreské/id1565602098|
-|[Čeľovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.celovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.celovce||
-|[Kuzmice](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kuzmice.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kuzmice)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.kuzmice||
+|[Oreské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oreske.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.oreske)|[📄](https://apps.apple.com/sk/app/oreské/id1565602098)|com.alphabetpartner.oreske|oreské/id1565602098|
+|[Čeľovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.celovce)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.celovce||
+|[Kuzmice](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kuzmice.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kuzmice)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.kuzmice||
 |[Dolná Strehová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dolnastrehova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.dolnastrehova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.dolnastrehova||
-|[Hurbanova Ves](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hurbanovaves.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hurbanovaves)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.hurbanovaves||
+|[Hurbanova Ves](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hurbanovaves.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hurbanovaves)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.hurbanovaves||
 ._.
 
 ****
