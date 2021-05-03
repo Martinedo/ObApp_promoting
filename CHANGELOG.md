@@ -45,6 +45,12 @@
 |[Budiná](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/budina.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.budina)|[1.5.0](https://apps.apple.com/sk/app/budiná/id1559795906)|com.alphabetpartner.budina|budiná/id1559795906|
 |[Orechová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/orechova.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.orechova)|[1.5.0](https://apps.apple.com/sk/app/orechová/id1562749737)|com.alphabetpartner.orechova|orechová/id1562749737|
 |[Letničie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/letnicie.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.letnicie)|[1.5.0](https://apps.apple.com/sk/app/letničie/id1562750197)|com.alphabetpartner.letnicie|letničie/id1562750197|
+|[Blhovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/blhovce.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.blhovce)|[1.5.0](https://apps.apple.com/sk/app/blhovce/id1565602224)|com.alphabetpartner.blhovce|blhovce/id1565602224|
+|[Oreské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oreske.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.oreske)|[](https://apps.apple.com/sk/app/oreské/id1565602098)|com.alphabetpartner.oreske|oreské/id1565602098|
+|[Čeľovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.celovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.celovce||
+|[Kuzmice](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kuzmice.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kuzmice)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.kuzmice||
+|[Dolná Strehová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dolnastrehova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.dolnastrehova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.dolnastrehova||
+|[Hurbanova Ves](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hurbanovaves.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hurbanovaves)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.hurbanovaves||
 ._.
 
 ****
@@ -54,13 +60,23 @@
 ## 1.6.X - 2021-04 (develop)
 
 ### Pridané
-- 
+- pri zbere odpadu sa ako prvý zobrazí aktuálny mesiac
 
 ### Zmeny
 - vylepšenie kvality erbov
 
 ### Opravy
-- 
+- [Čečehov] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Ducové] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Ducové] opravé zobrazovanie fotogalérie
+- [Istebné] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Prietržka] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Petrovce nad Laborcom] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Sekule] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Svinica] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Trstené pri Hornáde] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Veľké Chlievany] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [Zliechov] opravé zobrazovanie farských oznamov na iOS verzií ⛪
 
 ## 1.5.X - 2021-01 (stable)
 
