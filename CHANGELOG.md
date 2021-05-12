@@ -51,6 +51,8 @@
 |[Kuzmice](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kuzmice.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kuzmice)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.kuzmice|kuzmice/id1566600902|
 |[Dolná Strehová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dolnastrehova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.dolnastrehova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.dolnastrehova|dolná-strehová/id1566600295|
 |[Hurbanova Ves](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hurbanovaves.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hurbanovaves)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.hurbanovaves|hurbanova-ves/id1566601098|
+|[Kašov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kasov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kasov)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.kasov||
+|[Nitrianska Blatnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/nitrianskablatnica.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.nitrianskablatnica)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.nitrianskablatnica||
 ._.
 
 ****
