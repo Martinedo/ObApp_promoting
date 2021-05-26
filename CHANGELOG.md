@@ -51,36 +51,58 @@
 |[Kuzmice](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kuzmice.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kuzmice)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.kuzmice|kuzmice/id1566600902|
 |[Dolná Strehová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dolnastrehova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.dolnastrehova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.dolnastrehova|dolná-strehová/id1566600295|
 |[Hurbanova Ves](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hurbanovaves.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hurbanovaves)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.hurbanovaves|hurbanova-ves/id1566601098|
-|[Kašov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kasov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kasov)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.kasov||
-|[Nitrianska Blatnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/nitrianskablatnica.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.nitrianskablatnica)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.nitrianskablatnica||
+|[Kašov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kasov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kasov)|[📄](https://apps.apple.com/sk/app/kašov/id1569473396)|com.alphabetpartner.kasov|kašov/id1569473396|
+|[Nitrianska Blatnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/nitrianskablatnica.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.nitrianskablatnica)|[📄](https://apps.apple.com/sk/app/nitrianska-blatnica/id1569474327)|com.alphabetpartner.nitrianskablatnica|nitrianska-blatnica/id1569474327|
+|[Stránska](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/stranska.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.stranska)|[](https://apps.apple.com/sk/app/stránska/id1569473308)|com.alphabetpartner.stranska|stránska/id1569473308|
 ._.
 
 ****
 
 # Changelog
 
-## 1.6.X - 2021-04 (develop)
+## 1.7.X - 2021-08 (develop)
 
 ### Pridané
-- pri zbere odpadu sa ako prvý zobrazí aktuálny mesiac
+- 
+
+### Zmeny
+- 
+
+### Opravy
+- 
+
+## 1.6.X - 2021-05 (stable)
+
+### Pridané
+- pri zbere odpadu sa ako prvý zobrazí aktuálny mesiac ♻️
+- nový modul Návody, kde sa dozviete jednoduché, prehľadné a interaktívne návody ako vybaviť úradné záležitosti, výstavbu rodinného domu, narodenie dieťaťa, prepis vozidla, čo robiť pri strate dokladov a iné
+- preklik na návody pridaný aj ku Obecnému úradu
+- notifikácia sa zobrazí aj počas toho ako je aplikácia v popredí
+- ku Službám v okolí pridané aj Atrakcie 🏰
 
 ### Zmeny
 - vylepšenie kvality erbov
+- v prípade, že má zariadenie nastavené automatické zväčšovanie/zmenšovanie písma, aplikácia použije štandartnú veľkosť 🗚. Zároveň ale pracujeme na tom, aby mohla byť aplikácia prístupnejšia aj pre ľudí so zrakovými obmedzeniami. Čoskoro v ďalšej aktualizácií.
+- aktualizácia pre najnovšie Android zariadenia
 
 ### Opravy
-- [Čečehov] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Ducové] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Ducové] opravé zobrazovanie fotogalérie
-- [Istebné] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Prietržka] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Petrovce nad Laborcom] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Sekule] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Svinica] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Trstené pri Hornáde] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Veľké Chlievany] opravé zobrazovanie farských oznamov na iOS verzií ⛪
-- [Zliechov] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- opravy doručovania notifikácií pre niektoré zariadenia
+- notifikácie odkazujúce sa na webový článok už zobrazujú vždy správny článok
+- viacere menšie opravy  
+- [cecehov] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [ducove] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [ducove] opravé zobrazovanie fotogalérie
+- [istebne] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [prietrzka] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [petrovcenadlaborcom] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [sekule] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [svinica] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [trsteneprihornade] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [velkechlievany] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [zliechov] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [beloveza] pridaný kalendár zberu odpadu ♻️
 
-## 1.5.X - 2021-01 (stable)
+## 1.5.X - 2021-01
 
 ### Pridané
 - možnosť zobrazenia ukážky súboru v príspevku 📄 automatické zobrazovanie je možné vypnúť v nastaveniach aplikácie
