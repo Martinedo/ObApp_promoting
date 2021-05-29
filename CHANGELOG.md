@@ -47,7 +47,7 @@
 |[Letničie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/letnicie.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.letnicie)|[1.5.0](https://apps.apple.com/sk/app/letničie/id1562750197)|com.alphabetpartner.letnicie|letničie/id1562750197|
 |[Blhovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/blhovce.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.blhovce)|[1.5.0](https://apps.apple.com/sk/app/blhovce/id1565602224)|com.alphabetpartner.blhovce|blhovce/id1565602224|
 |[Oreské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oreske.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.oreske)|[1.5.0](https://apps.apple.com/sk/app/oreské/id1565602098)|com.alphabetpartner.oreske|oreské/id1565602098|
-|[Čeľovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.celovce)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.celovce|čeľovce/id1566599823|
+|[Čeľovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/celovce.md)|[-> 1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.celovce)|[-> 1.6.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.celovce|čeľovce/id1566599823|
 |[Kuzmice](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kuzmice.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kuzmice)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.kuzmice|kuzmice/id1566600902|
 |[Dolná Strehová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dolnastrehova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.dolnastrehova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.dolnastrehova|dolná-strehová/id1566600295|
 |[Hurbanova Ves](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hurbanovaves.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hurbanovaves)|[📄](https://apps.apple.com/sk/app/)|com.alphabetpartner.hurbanovaves|hurbanova-ves/id1566601098|
@@ -84,6 +84,7 @@
 - vylepšenie kvality erbov
 - v prípade, že má zariadenie nastavené automatické zväčšovanie/zmenšovanie písma, aplikácia použije štandartnú veľkosť 🗚. Zároveň ale pracujeme na tom, aby mohla byť aplikácia prístupnejšia aj pre ľudí so zrakovými obmedzeniami. Čoskoro v ďalšej aktualizácií.
 - aktualizácia pre najnovšie Android zariadenia
+- vylepšili sme technickú stránku Android verzie aplikácie tak, aby zaberala menej pamäte a mohla sa ešte rýchlejšie stiahnúť do zariadenia
 
 ### Opravy
 - opravy doručovania notifikácií pre niektoré zariadenia

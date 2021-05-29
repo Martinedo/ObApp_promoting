@@ -48,7 +48,7 @@
 |Letničie|[![Build status](https://build.appcenter.ms/v0.1/apps/10a62cbc-2bc6-4fa1-a66b-eec6c8d7a14b/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/f94a9756-a3c5-456e-b163-af17c46bc2ae/branches/master/badge)](https://appcenter.ms)|
 |Blhovce|[![Build status](https://build.appcenter.ms/v0.1/apps/190e53f5-b2c0-49a1-bde2-eb409c8b362c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/0a821094-9a20-43bc-a9e3-f6abf79daf1b/branches/master/badge)](https://appcenter.ms)|
 |Oreské|[![Build status](https://build.appcenter.ms/v0.1/apps/b5942574-48f8-48b8-9813-59a394d3d142/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/138980f0-c48e-4ee1-9642-912c2027dcc7/branches/master/badge)](https://appcenter.ms)|
-|Čeľovce|[![Build status](https://build.appcenter.ms/v0.1/apps/68deb633-b58c-4ac9-a8cb-26615456c01e/branches/master/badge)](https://appcenter.ms)||
+|Čeľovce|[![Build status](https://build.appcenter.ms/v0.1/apps/68deb633-b58c-4ac9-a8cb-26615456c01e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/fc1c0640-919e-42cc-82a0-51176f487085/branches/master/badge)](https://appcenter.ms)|
 |Kuzmice|[![Build status](https://build.appcenter.ms/v0.1/apps/b069e8d8-5cde-4dd8-b409-3d2d0adf05b4/branches/master/badge)](https://appcenter.ms)||
 |Dolná Strehová|[![Build status](https://build.appcenter.ms/v0.1/apps/6e86d732-54e7-42a1-9e8f-3a922f0317c9/branches/master/badge)](https://appcenter.ms)||
 |Hurbanova Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/bafd0ca6-9632-425e-9514-be935744af92/branches/master/badge)](https://appcenter.ms)||
