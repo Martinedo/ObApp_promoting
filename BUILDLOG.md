@@ -51,10 +51,11 @@
 |Čeľovce|[![Build status](https://build.appcenter.ms/v0.1/apps/68deb633-b58c-4ac9-a8cb-26615456c01e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/fc1c0640-919e-42cc-82a0-51176f487085/branches/master/badge)](https://appcenter.ms)|
 |Kuzmice|[![Build status](https://build.appcenter.ms/v0.1/apps/b069e8d8-5cde-4dd8-b409-3d2d0adf05b4/branches/master/badge)](https://appcenter.ms)||
 |Dolná Strehová|[![Build status](https://build.appcenter.ms/v0.1/apps/6e86d732-54e7-42a1-9e8f-3a922f0317c9/branches/master/badge)](https://appcenter.ms)||
-|Hurbanova Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/bafd0ca6-9632-425e-9514-be935744af92/branches/master/badge)](https://appcenter.ms)||
-|Kašov|[![Build status](https://build.appcenter.ms/v0.1/apps/a2e01b20-a71c-4013-876f-a5736059725e/branches/master/badge)](https://appcenter.ms)||
+|Hurbanova Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/bafd0ca6-9632-425e-9514-be935744af92/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/ff2041b0-cfa2-4043-bf7c-ba07fa3415ec/branches/master/badge)](https://appcenter.ms)|
+|Kašov|[![Build status](https://build.appcenter.ms/v0.1/apps/a2e01b20-a71c-4013-876f-a5736059725e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/176e240e-e280-439a-94cf-7566a16cd0f4/branches/master/badge)](https://appcenter.ms)|
 |Nitrianska Blatnica|[![Build status](https://build.appcenter.ms/v0.1/apps/936da670-faa3-4289-8202-63fcac73ffee/branches/master/badge)](https://appcenter.ms)||
 |Stránska|||
+|Medzianky|||
 ._.
 
 ****
