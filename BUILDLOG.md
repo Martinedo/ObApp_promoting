@@ -4,7 +4,7 @@
 |-----|-----|-----|
 |Mayor|[![Build status](https://build.appcenter.ms/v0.1/apps/5499dbc7-ffe6-46dc-9b25-996939a27c65/branches/master/badge)](https://appcenter.ms)||
 |Demo Moderná Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/b1f51bfc-c618-4813-8471-ec5bd3cc5318/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/aa1c0f0e-50ed-47ee-b420-3cef414768a1/branches/master/badge)](https://appcenter.ms)|
-|Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/cadaa55a-d51e-4355-9dbd-12dba40ea06b/branches/develop/badge)](https://appcenter.ms)|
+|Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/cadaa55a-d51e-4355-9dbd-12dba40ea06b/branches/master/badge)](https://appcenter.ms)|
 |Bošáca|[![Build status](https://build.appcenter.ms/v0.1/apps/f1e125d3-9e27-4cc5-a7dc-be49d1a1f89f/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/34f5111f-103e-4ede-814d-290fbfe22b69/branches/master/badge)](https://appcenter.ms)|
 |Oľšavce|[![Build status](https://build.appcenter.ms/v0.1/apps/b298e146-3e66-47af-a916-5433d2694ba7/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/40bbc895-e081-48fe-b28b-c47fb182e2f5/branches/master/badge)](https://appcenter.ms)|
 |Železník|[![Build status](https://build.appcenter.ms/v0.1/apps/8de0c863-03f0-4b80-9e54-73184c871dec/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/0695bf64-2529-4e0a-809e-c6f2227fc257/branches/master/badge)](https://appcenter.ms)|
@@ -55,7 +55,7 @@
 |Kašov|[![Build status](https://build.appcenter.ms/v0.1/apps/a2e01b20-a71c-4013-876f-a5736059725e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/176e240e-e280-439a-94cf-7566a16cd0f4/branches/master/badge)](https://appcenter.ms)|
 |Nitrianska Blatnica|[![Build status](https://build.appcenter.ms/v0.1/apps/936da670-faa3-4289-8202-63fcac73ffee/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/21d3f8c0-d94c-4a17-9ffd-a996f9fd2c41/branches/master/badge)](https://appcenter.ms)|
 |Stránska|||
-|Medzianky|||
+|Medzianky|[![Build status](https://build.appcenter.ms/v0.1/apps/a1cca73b-73ea-452e-a3bb-f21bf6ef2885/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****
