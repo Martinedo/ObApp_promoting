@@ -54,8 +54,9 @@
 |Hurbanova Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/bafd0ca6-9632-425e-9514-be935744af92/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/ff2041b0-cfa2-4043-bf7c-ba07fa3415ec/branches/master/badge)](https://appcenter.ms)|
 |Kašov|[![Build status](https://build.appcenter.ms/v0.1/apps/a2e01b20-a71c-4013-876f-a5736059725e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/176e240e-e280-439a-94cf-7566a16cd0f4/branches/master/badge)](https://appcenter.ms)|
 |Nitrianska Blatnica|[![Build status](https://build.appcenter.ms/v0.1/apps/936da670-faa3-4289-8202-63fcac73ffee/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/21d3f8c0-d94c-4a17-9ffd-a996f9fd2c41/branches/master/badge)](https://appcenter.ms)|
-|Stránska|||
+|Stránska|[![Build status](https://build.appcenter.ms/v0.1/apps/ca0667d4-caec-49f3-a454-9a3d05d700f0/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/bab5220a-e11f-4d95-ba91-864446233fe9/branches/master/badge)](https://appcenter.ms)|
 |Medzianky|[![Build status](https://build.appcenter.ms/v0.1/apps/a1cca73b-73ea-452e-a3bb-f21bf6ef2885/branches/master/badge)](https://appcenter.ms)||
+|Mikroregión Bošáčka|[![Build status](https://build.appcenter.ms/v0.1/apps/0af90346-fc9f-479e-9ce7-d397340fad31/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****
