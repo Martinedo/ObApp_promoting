@@ -10,6 +10,29 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.6.0 - 2021-06
+
+### Pridané
+- pri zbere odpadu sa ako prvý zobrazí aktuálny mesiac ♻️
+- nový modul Návody, kde sa dozviete jednoduché, prehľadné a interaktívne návody ako vybaviť úradné záležitosti, výstavbu rodinného domu, narodenie dieťaťa, prepis vozidla, čo robiť pri strate dokladov a iné
+- preklik na návody pridaný aj ku Obecnému úradu
+- notifikácia sa zobrazí aj počas toho ako je aplikácia v popredí
+- ku Službám v okolí pridané aj Atrakcie 🏰
+
+### Zmeny
+- vylepšenie kvality erbov
+- v prípade, že má zariadenie nastavené automatické zväčšovanie/zmenšovanie písma, aplikácia použije štandartnú veľkosť 🗚. Zároveň ale pracujeme na tom, aby mohla byť aplikácia prístupnejšia aj pre ľudí so zrakovými obmedzeniami. Čoskoro v ďalšej aktualizácií.
+- aktualizácia pre najnovšie Android zariadenia
+- vylepšili sme technickú stránku Android verzie aplikácie tak, aby zaberala menej pamäte a mohla sa ešte rýchlejšie stiahnúť do zariadenia
+
+### Opravy
+- opravy doručovania notifikácií pre niektoré zariadenia
+- notifikácie odkazujúce sa na webový článok už zobrazujú vždy správny článok
+- lepšie zobrazovanie niektorých obrázkov v článkoch
+- viacere menšie opravy  
+- opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- opravé zobrazovanie fotogalérie
+
 ## 1.5.0 - 2021-01
 
 ### Prvá verzia
