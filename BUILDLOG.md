@@ -61,7 +61,7 @@
 |Chyžné|[![Build status](https://build.appcenter.ms/v0.1/apps/59a0e302-651b-4139-bda9-52777a5052d5/branches/master/badge)](https://appcenter.ms)||
 |Kysta|[![Build status](https://build.appcenter.ms/v0.1/apps/090dbfc9-70fb-43fc-b321-4a73da8b034c/branches/master/badge)](https://appcenter.ms)||
 |Hucín|[![Build status](https://build.appcenter.ms/v0.1/apps/e36f1174-dca0-4d22-a494-9aa15e4c0600/branches/master/badge)](https://appcenter.ms)||
-|Kovarce|||
+|Kovarce|[![Build status](https://build.appcenter.ms/v0.1/apps/a84795cb-974c-422f-aeba-e957891571f5/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****
