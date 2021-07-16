@@ -59,10 +59,11 @@
 |Mikroregión Bošáčka|[![Build status](https://build.appcenter.ms/v0.1/apps/0af90346-fc9f-479e-9ce7-d397340fad31/branches/master/badge)](https://appcenter.ms)||
 |Bílkove Humence|[![Build status](https://build.appcenter.ms/v0.1/apps/4b1e65cb-379e-4ea1-b320-26841d8817e9/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/296d5a8d-1f65-44af-ba61-e230d62dba15/branches/master/badge)](https://appcenter.ms)|
 |Chyžné|[![Build status](https://build.appcenter.ms/v0.1/apps/59a0e302-651b-4139-bda9-52777a5052d5/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/77467aaf-bc53-41a8-b691-62870cde807c/branches/master/badge)](https://appcenter.ms)|
-|Kysta|[![Build status](https://build.appcenter.ms/v0.1/apps/090dbfc9-70fb-43fc-b321-4a73da8b034c/branches/master/badge)](https://appcenter.ms)||
+|Kysta|[![Build status](https://build.appcenter.ms/v0.1/apps/090dbfc9-70fb-43fc-b321-4a73da8b034c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/d2b36d4a-a2d6-4e67-a90d-20e814256990/branches/master/badge)](https://appcenter.ms)|
 |Hucín|[![Build status](https://build.appcenter.ms/v0.1/apps/e36f1174-dca0-4d22-a494-9aa15e4c0600/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/76c39c57-d34f-41a1-98be-f6395df84ac8/branches/master/badge)](https://appcenter.ms)|
 |Kovarce|[![Build status](https://build.appcenter.ms/v0.1/apps/a84795cb-974c-422f-aeba-e957891571f5/branches/master/badge)](https://appcenter.ms)||
 |Herľany|[![Build status](https://build.appcenter.ms/v0.1/apps/257e10f0-f6b2-4225-a6a8-48e51f41eab7/branches/master/badge)](https://appcenter.ms)||
+|Brodské|||
 ._.
 
 ****
