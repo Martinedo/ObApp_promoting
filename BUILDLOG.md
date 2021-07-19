@@ -63,7 +63,7 @@
 |Hucín|[![Build status](https://build.appcenter.ms/v0.1/apps/e36f1174-dca0-4d22-a494-9aa15e4c0600/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/76c39c57-d34f-41a1-98be-f6395df84ac8/branches/master/badge)](https://appcenter.ms)|
 |Kovarce|[![Build status](https://build.appcenter.ms/v0.1/apps/a84795cb-974c-422f-aeba-e957891571f5/branches/master/badge)](https://appcenter.ms)||
 |Herľany|[![Build status](https://build.appcenter.ms/v0.1/apps/257e10f0-f6b2-4225-a6a8-48e51f41eab7/branches/master/badge)](https://appcenter.ms)||
-|Brodské|||
+|Brodské|[![Build status](https://build.appcenter.ms/v0.1/apps/b060395e-f260-497a-b1cb-7637d52e1a94/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****
