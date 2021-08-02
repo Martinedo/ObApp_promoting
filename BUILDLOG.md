@@ -64,6 +64,9 @@
 |Kovarce|[![Build status](https://build.appcenter.ms/v0.1/apps/a84795cb-974c-422f-aeba-e957891571f5/branches/master/badge)](https://appcenter.ms)||
 |Herľany|[![Build status](https://build.appcenter.ms/v0.1/apps/257e10f0-f6b2-4225-a6a8-48e51f41eab7/branches/master/badge)](https://appcenter.ms)||
 |Brodské|[![Build status](https://build.appcenter.ms/v0.1/apps/b060395e-f260-497a-b1cb-7637d52e1a94/branches/master/badge)](https://appcenter.ms)||
+|Bajerovce|[![Build status](https://build.appcenter.ms/v0.1/apps/edffa631-66dc-43f4-acda-542d9fe814db/branches/master/badge)](https://appcenter.ms)||
+|Veľký Kamenec|[![Build status](https://build.appcenter.ms/v0.1/apps/d472afff-b717-490d-8f9b-d753462bf3f2/branches/master/badge)](https://appcenter.ms)||
+|Veľké Leváre|||
 ._.
 
 ****
