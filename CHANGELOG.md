@@ -60,9 +60,9 @@
 |[Chyžné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/chyzne.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.chyzne)|[1.6.0](https://apps.apple.com/sk/app/chyžné/id1572340634)|com.alphabetpartner.chyzne|chyžné/id1572340634|
 |[Kysta](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kysta.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.kysta)|[-> 1.6.0](https://apps.apple.com/sk/app/kysta/id1573310143)|com.alphabetpartner.kysta|kysta/id1573310143|
 |[Hucín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hucin.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.hucin)|[1.6.0](https://apps.apple.com/sk/app/hucín/id1573309948)|com.alphabetpartner.hucin|hucín/id1573309948|
-|[Kovarce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kovarce.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.kovarce)|[](https://apps.apple.com/sk/app/kovarce/id1578306992)|com.alphabetpartner.kovarce|kovarce/id1578306992|
+|[Kovarce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kovarce.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.kovarce)|[-> 1.6.0](https://apps.apple.com/sk/app/kovarce/id1578306992)|com.alphabetpartner.kovarce|kovarce/id1578306992|
 |[Herľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/herlany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.herlany)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.herlany||
-|[Brodské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/brodske.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.brodske)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.brodske||
+|[Brodské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/brodske.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.brodske)|[-> 1.6.0](https://apps.apple.com/sk/app/brodské/id1577949239)|com.alphabetpartner.brodske|brodské/id1577949239|
 |[Bajerovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bajerovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.bajerovce)|[](https://apps.apple.com/sk/app/bajerovce/id1578653428)|com.alphabetpartner.bajerovce|bajerovce/id1578653428|
 |[Veľký Kamenec](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkykamenec.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkykamenec)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.velkykamenec||
 |[Veľké Leváre](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkelevare.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkelevare)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.velkelevare||
@@ -75,10 +75,11 @@
 ## 1.7.X - 2021-08 (develop)
 
 ### Pridané
-- prehrávanie hlasových správ z obecného rozhlasu 🔊
+- prehrávanie hlasových správ z obecného rozhlasu
+- v zozname notifikácií sa pri hlasovej správy zobrazí znak reproduktoru 🔊
 
 ### Zmeny
-- 
+- aktualizovanie emailovej adresy vývojára
 
 ### Opravy
 - 
