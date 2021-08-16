@@ -67,6 +67,8 @@
 |Bajerovce|[![Build status](https://build.appcenter.ms/v0.1/apps/edffa631-66dc-43f4-acda-542d9fe814db/branches/master/badge)](https://appcenter.ms)||
 |Veľký Kamenec|[![Build status](https://build.appcenter.ms/v0.1/apps/d472afff-b717-490d-8f9b-d753462bf3f2/branches/master/badge)](https://appcenter.ms)||
 |Veľké Leváre|[![Build status](https://build.appcenter.ms/v0.1/apps/69393997-d411-46d5-a23a-7cb6fb3ba8c4/branches/master/badge)](https://appcenter.ms)||
+|Hajtovka|||
+|Boliarov|||
 ._.
 
 ****
