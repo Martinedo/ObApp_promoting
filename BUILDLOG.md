@@ -68,7 +68,9 @@
 |Veľký Kamenec|[![Build status](https://build.appcenter.ms/v0.1/apps/d472afff-b717-490d-8f9b-d753462bf3f2/branches/master/badge)](https://appcenter.ms)||
 |Veľké Leváre|[![Build status](https://build.appcenter.ms/v0.1/apps/69393997-d411-46d5-a23a-7cb6fb3ba8c4/branches/master/badge)](https://appcenter.ms)||
 |Hajtovka|||
-|Boliarov|||
+|Boliarov|[![Build status](https://build.appcenter.ms/v0.1/apps/e407810b-94f6-41eb-964a-267ef0b4508c/branches/master/badge)](https://appcenter.ms)||
+|Malé Vozokany|[![Build status](https://build.appcenter.ms/v0.1/apps/e6b2e9b9-dbd2-4f47-8aed-36340a8691e1/branches/master/badge)](https://appcenter.ms)||
+|Nová Polhora|[![Build status](https://build.appcenter.ms/v0.1/apps/9ace738e-9c97-4fd4-90a4-7bbed3d10881/branches/master/badge)](https://appcenter.ms)||
 ._.
 
 ****

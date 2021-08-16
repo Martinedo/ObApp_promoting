@@ -68,6 +68,8 @@
 |[Veľké Leváre](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkelevare.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkelevare)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.velkelevare||
 |[Hajtovka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hajtovka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hajtovka)|[](https://apps.apple.com/sk/app/hajtovka/id1580377879)|com.alphabetpartner.hajtovka|hajtovka/id1580377879|
 |[Boliarov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/boliarov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.boliarov)|[](https://apps.apple.com/sk/app/boliarov/id1580699028)|com.alphabetpartner.boliarov|boliarov/id1580699028|
+|[Malé Vozokany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malevozokany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.malevozokany)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.malevozokany||
+|[Nová Polhora](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novapolhora.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.novapolhora)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.novapolhora||
 ._.
 
 ****
