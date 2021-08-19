@@ -64,11 +64,11 @@
 |Kovarce|[![Build status](https://build.appcenter.ms/v0.1/apps/a84795cb-974c-422f-aeba-e957891571f5/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a099c24d-f8da-4109-8069-fcc19a6215d9/branches/master/badge)](https://appcenter.ms)|
 |Herľany|[![Build status](https://build.appcenter.ms/v0.1/apps/257e10f0-f6b2-4225-a6a8-48e51f41eab7/branches/master/badge)](https://appcenter.ms)||
 |Brodské|[![Build status](https://build.appcenter.ms/v0.1/apps/b060395e-f260-497a-b1cb-7637d52e1a94/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/8fd12434-9cae-456f-ac62-0b02176cb1cb/branches/master/badge)](https://appcenter.ms)|
-|Bajerovce|[![Build status](https://build.appcenter.ms/v0.1/apps/edffa631-66dc-43f4-acda-542d9fe814db/branches/master/badge)](https://appcenter.ms)||
-|Veľký Kamenec|[![Build status](https://build.appcenter.ms/v0.1/apps/d472afff-b717-490d-8f9b-d753462bf3f2/branches/master/badge)](https://appcenter.ms)||
+|Bajerovce|[![Build status](https://build.appcenter.ms/v0.1/apps/edffa631-66dc-43f4-acda-542d9fe814db/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/236fbbf2-1f52-4df8-ac35-aa466c97b172/branches/master/badge)](https://appcenter.ms)|
+|Veľký Kamenec|[![Build status](https://build.appcenter.ms/v0.1/apps/d472afff-b717-490d-8f9b-d753462bf3f2/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/da466c8f-fffd-4a8d-99f8-610d73d23fde/branches/master/badge)](https://appcenter.ms)|
 |Veľké Leváre|[![Build status](https://build.appcenter.ms/v0.1/apps/69393997-d411-46d5-a23a-7cb6fb3ba8c4/branches/master/badge)](https://appcenter.ms)||
 |Hajtovka|||
-|Boliarov|[![Build status](https://build.appcenter.ms/v0.1/apps/e407810b-94f6-41eb-964a-267ef0b4508c/branches/master/badge)](https://appcenter.ms)||
+|Boliarov|[![Build status](https://build.appcenter.ms/v0.1/apps/e407810b-94f6-41eb-964a-267ef0b4508c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/5044bde3-53a7-4da0-8d77-2cd735e7fb08/branches/master/badge)](https://appcenter.ms)|
 |Malé Vozokany|[![Build status](https://build.appcenter.ms/v0.1/apps/e6b2e9b9-dbd2-4f47-8aed-36340a8691e1/branches/master/badge)](https://appcenter.ms)||
 |Nová Polhora|[![Build status](https://build.appcenter.ms/v0.1/apps/9ace738e-9c97-4fd4-90a4-7bbed3d10881/branches/master/badge)](https://appcenter.ms)||
 ._.
