@@ -11,7 +11,7 @@ Aplikácia je dostupná na operačných systémoch **Android**, **Apple iOS**. V
 
 | Android | iOS |
 |-----|--------|
-|<a href="https://play.google.com/store/apps/details?id=com.alphabetpartner.X02"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href="https://apps.apple.com/sk/app/X03"><img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/download_on_app_store_sk.png" alt="iOS" width="300"/></a>|
+|<a href="https://play.google.com/store/apps/details?id=com.alphabetpartner.obmayorapp"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href="https://apps.apple.com/sk/app/online-úrad/id1578027584"><img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/download_on_app_store_sk.png" alt="iOS" width="300"/></a>|
 | Minimum - Android 5.0 Lollipop| Min - iOS 12.4 alebo novší |
 
 Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddelenie](https://onlineobec.sk/kontakt/).
@@ -36,8 +36,7 @@ Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddele
 ### Pridané
 - prvá verzia aplikácie
 
-### Zmeny
-- 
-
-### Opravy
-- 
+### Evidujeme chyby
+- [iOS] pri vytváraní nového odberateľa nie je možné vybrať z viacerých kontaktných údajov kontaktu (napr. mail, tel. čislo). Vyberie sa len prvý v poradí (obvykle tel. číslo)
+- [iOS] príspevkom nie je možné nastaviť publikovanie na neskorší dátum alebo čas
+- [iOS] ak sa nezvolí kategória príspevku, už sa pre daný príspevok nemôže vybrať iná kategória

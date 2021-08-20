@@ -2,7 +2,7 @@
 
 | App | Android | iOS |
 |-----|-----|-----|
-|Mayor|[![Build status](https://build.appcenter.ms/v0.1/apps/5499dbc7-ffe6-46dc-9b25-996939a27c65/branches/master/badge)](https://appcenter.ms)||
+|Online úrad|[![Build status](https://build.appcenter.ms/v0.1/apps/5499dbc7-ffe6-46dc-9b25-996939a27c65/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/6b06a141-a94b-4e5f-ae8e-863c65654853/branches/master/badge)](https://appcenter.ms)|
 |Demo Moderná Ves|[![Build status](https://build.appcenter.ms/v0.1/apps/b1f51bfc-c618-4813-8471-ec5bd3cc5318/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/aa1c0f0e-50ed-47ee-b420-3cef414768a1/branches/master/badge)](https://appcenter.ms)|
 |Beloveža|[![Build status](https://build.appcenter.ms/v0.1/apps/c39c5fd6-843a-4fdc-aaa2-eb40bbff5267/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/cadaa55a-d51e-4355-9dbd-12dba40ea06b/branches/master/badge)](https://appcenter.ms)|
 |Bošáca|[![Build status](https://build.appcenter.ms/v0.1/apps/f1e125d3-9e27-4cc5-a7dc-be49d1a1f89f/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/34f5111f-103e-4ede-814d-290fbfe22b69/branches/master/badge)](https://appcenter.ms)|
