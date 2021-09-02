@@ -71,6 +71,7 @@
 |Boliarov|[![Build status](https://build.appcenter.ms/v0.1/apps/e407810b-94f6-41eb-964a-267ef0b4508c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/5044bde3-53a7-4da0-8d77-2cd735e7fb08/branches/master/badge)](https://appcenter.ms)|
 |Malé Vozokany|[![Build status](https://build.appcenter.ms/v0.1/apps/e6b2e9b9-dbd2-4f47-8aed-36340a8691e1/branches/master/badge)](https://appcenter.ms)||
 |Nová Polhora|[![Build status](https://build.appcenter.ms/v0.1/apps/9ace738e-9c97-4fd4-90a4-7bbed3d10881/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a5866243-8579-4655-be9f-9edc2e06a262/branches/master/badge)](https://appcenter.ms)|
+|Trávnik|||
 ._.
 
 ****

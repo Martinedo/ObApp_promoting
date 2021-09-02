@@ -67,10 +67,11 @@
 |[Bajerovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bajerovce.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.bajerovce)|[1.6.0](https://apps.apple.com/sk/app/bajerovce/id1578653428)|com.alphabetpartner.bajerovce|bajerovce/id1578653428|
 |[Veľký Kamenec](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkykamenec.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkykamenec)|[1.6.0](https://apps.apple.com/sk/app/veľký-kamenec/id1580352034)|com.alphabetpartner.velkykamenec|veľký-kamenec/id1580352034|
 |[Veľké Leváre](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkelevare.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkelevare)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.velkelevare||
-|[Hajtovka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hajtovka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hajtovka)|[-> 1.6.0](https://apps.apple.com/sk/app/hajtovka/id1580377879)|com.alphabetpartner.hajtovka|hajtovka/id1580377879|
+|[Hajtovka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hajtovka.md)|[-> 1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.hajtovka)|[1.6.0](https://apps.apple.com/sk/app/hajtovka/id1580377879)|com.alphabetpartner.hajtovka|hajtovka/id1580377879|
 |[Boliarov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/boliarov.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.boliarov)|[1.6.0](https://apps.apple.com/sk/app/boliarov/id1580699028)|com.alphabetpartner.boliarov|boliarov/id1580699028|
 |[Malé Vozokany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malevozokany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.malevozokany)|[](https://apps.apple.com/sk/app/malé-vozokany/id1581961217)|com.alphabetpartner.malevozokany|malé-vozokany/id1581961217|
-|[Nová Polhora](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novapolhora.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.novapolhora)|[-> 1.6.0](https://apps.apple.com/sk/app/nová-polhora/id1581966540)|com.alphabetpartner.novapolhora|nová-polhora/id1581966540|
+|[Nová Polhora](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novapolhora.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.novapolhora)|[1.6.0](https://apps.apple.com/sk/app/nová-polhora/id1581966540)|com.alphabetpartner.novapolhora|nová-polhora/id1581966540|
+|[Trávnik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/travnik.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.travnik)|[](https://apps.apple.com/sk/app/trávnik/id1583748402)|com.alphabetpartner.travnik|trávnik/id1583748402|
 ._.
 
 ****
@@ -86,6 +87,7 @@
 
 ### Zmeny
 - aktualizovanie emailovej adresy vývojára
+- apka prispôsobená aktualizácií zverejňovania dokumentov na strane web-systému
 
 ### Opravy
 - 
