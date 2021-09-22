@@ -43,7 +43,7 @@
 |[Michaľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/michalany.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.michalany)|[1.6.0](https://apps.apple.com/sk/app/michaľany/id1557764825)|com.alphabetpartner.michalany|michaľany/id1557764825|
 |[Radnovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radnovce.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.radnovce)|[1.6.0](https://apps.apple.com/sk/app/radnovce/id1557766079)|com.alphabetpartner.radnovce|radnovce/id1557766079|
 |[Prietržka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prietrzka.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.prietrzka)|[1.6.0](https://apps.apple.com/sk/app/prietržka/id1559796097)|com.alphabetpartner.prietrzka|prietržka/id1559796097|
-|[Budiná](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/budina.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.budina)|[1.6.0](https://apps.apple.com/sk/app/budiná/id1559795906)|com.alphabetpartner.budina|budiná/id1559795906|
+|[Budiná](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/budina.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.budina)|[-> 1.7.0](https://apps.apple.com/sk/app/budiná/id1559795906)|com.alphabetpartner.budina|budiná/id1559795906|
 |[Orechová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/orechova.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.orechova)|[1.6.0](https://apps.apple.com/sk/app/orechová/id1562749737)|com.alphabetpartner.orechova|orechová/id1562749737|
 |[Letničie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/letnicie.md)|[1.6.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.letnicie)|[1.6.0](https://apps.apple.com/sk/app/letničie/id1562750197)|com.alphabetpartner.letnicie|letničie/id1562750197|
 |[Blhovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/blhovce.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.blhovce)|[1.7.0](https://apps.apple.com/sk/app/blhovce/id1565602224)|com.alphabetpartner.blhovce|blhovce/id1565602224|
@@ -95,6 +95,7 @@
 - prehrávanie hlasových správ z obecného rozhlasu
 - v zozname notifikácií sa pri hlasovej správy zobrazí znak reproduktoru 🔊
 - na Úradnej tabuli pribudlo tlačidlo odkazujúce sa na Archív Úradnej tabuli, teda už zvesené dokumenty
+- doplnený dátum ukončenia udalosti ak ho má udalosť určený
 - [bilkovehumence] je možné prijímať aj ďalšie okruhy notifikácií
 - [blhovce] je možné prijímať aj ďalšie okruhy notifikácií
 - [orechova] je možné prijímať aj ďalšie okruhy notifikácií
@@ -116,6 +117,7 @@
 ### Opravy
 - pri zdieľaní príspevku alebo jeho prezeraní na webe sa zobrazí kompletný príspevok (na stránke), nie len jeho obsah
 - tabuľky sa zobrazujú v správnej šírke (oprava zo strany webu)
+- oprava zobrazovania textu pri niektorých článkoch, ktoré mali v sebe pripnutý aj súbor
 
 ## 1.6.X - 2021-05
 
