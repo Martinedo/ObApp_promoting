@@ -1,3 +1,7 @@
+# ObApp
+
+| App | Android | iOS | ID | iOS link |
+|-----|-----|-----|-----|-----|
 |[Online úrad](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/onlineobec.md)|[1.0.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.obmayorapp)|[1.0.0](https://apps.apple.com/sk/app/online-úrad/id1578027584)|com.alphabetpartner.obmayorapp||
 |[Demo Moderná Ves](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/modernaVes.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.obapp)|XX|com.alphabetpartner.obapp|online-úrad/id1578027584|
 |[Beloveža](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/beloveza.md)|[1.7.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza)|[1.7.0](https://apps.apple.com/sk/app/beloveža/id1536810459?l=sk)|com.alphabetpartner.beloveza|beloveža/id1536810459|
@@ -64,7 +68,243 @@
 |[Veľký Kamenec](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkykamenec.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkykamenec)|[1.6.0](https://apps.apple.com/sk/app/veľký-kamenec/id1580352034)|com.alphabetpartner.velkykamenec|veľký-kamenec/id1580352034|
 |[Veľké Leváre](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkelevare.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkelevare)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.velkelevare||
 |[Hajtovka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hajtovka.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.hajtovka)|[1.6.0](https://apps.apple.com/sk/app/hajtovka/id1580377879)|com.alphabetpartner.hajtovka|hajtovka/id1580377879|
-|[Boliarov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/boliarov.md)|[1.7.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.boliarov)|[1.7.0](https://apps.apple.com/sk/app/boliarov/id1580699028)|com.alphabetpartner.boliarov|boliarov/id1580699028|2
+|[Boliarov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/boliarov.md)|[1.7.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.boliarov)|[1.7.0](https://apps.apple.com/sk/app/boliarov/id1580699028)|com.alphabetpartner.boliarov|boliarov/id1580699028|
 |[Malé Vozokany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malevozokany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.malevozokany)|[](https://apps.apple.com/sk/app/malé-vozokany/id1581961217)|com.alphabetpartner.malevozokany|malé-vozokany/id1581961217|
 |[Nová Polhora](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novapolhora.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.novapolhora)|[1.6.0](https://apps.apple.com/sk/app/nová-polhora/id1581966540)|com.alphabetpartner.novapolhora|nová-polhora/id1581966540|
 |[Trávnik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/travnik.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.travnik)|[](https://apps.apple.com/sk/app/trávnik/id1583748402)|com.alphabetpartner.travnik|trávnik/id1583748402|
+
+._.
+
+****
+
+# Changelog
+
+## 1.8.X - 2021-12 (develop)
+
+### Pridané
+- 
+
+### Zmeny
+- 
+
+### Opravy
+- 
+
+## 1.7.X - 2021-09 (stable)
+
+### Pridané
+- prehrávanie hlasových správ z obecného rozhlasu
+- v zozname notifikácií sa pri hlasovej správy zobrazí znak reproduktoru 🔊
+- na Úradnej tabuli pribudlo tlačidlo odkazujúce sa na Archív Úradnej tabuli, teda už zvesené dokumenty
+- doplnený dátum ukončenia udalosti ak ho má udalosť určený
+- [bilkovehumence] je možné prijímať aj ďalšie okruhy notifikácií
+- [blhovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [orechova] je možné prijímať aj ďalšie okruhy notifikácií
+- [oreske] je možné prijímať aj ďalšie okruhy notifikácií
+- [celovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [kuzmice] je možné prijímať aj ďalšie okruhy notifikácií
+- [dolnastrehova] je možné prijímať aj ďalšie okruhy notifikácií
+- [hurbanovaves] je možné prijímať aj ďalšie okruhy notifikácií
+- [kasov] je možné prijímať aj ďalšie okruhy notifikácií
+- [nitrianskablatnica] je možné prijímať aj ďalšie okruhy notifikácií
+- [stranska] je možné prijímať aj ďalšie okruhy notifikácií
+- [chyzne] je možné prijímať aj ďalšie okruhy notifikácií
+- [hucin] je možné prijímať aj ďalšie okruhy notifikácií
+
+### Zmeny
+- aktualizovanie emailovej adresy vývojára
+- apka prispôsobená aktualizácií zverejňovania dokumentov na strane web-systému 📄
+
+### Opravy
+- pri zdieľaní príspevku alebo jeho prezeraní na webe sa zobrazí kompletný príspevok (na stránke), nie len jeho obsah
+- tabuľky sa zobrazujú v správnej šírke (oprava zo strany webu)
+- oprava zobrazovania textu pri niektorých článkoch, ktoré mali v sebe pripnutý aj súbor
+
+## 1.6.X - 2021-05
+
+### Pridané
+- pri zbere odpadu sa ako prvý zobrazí aktuálny mesiac ♻️
+- nový modul Návody, kde sa dozviete jednoduché, prehľadné a interaktívne návody ako vybaviť úradné záležitosti, výstavbu rodinného domu, narodenie dieťaťa, prepis vozidla, čo robiť pri strate dokladov a iné
+- preklik na návody pridaný aj ku Obecnému úradu
+- notifikácia sa zobrazí aj počas toho ako je aplikácia v popredí
+- ku Službám v okolí pridané aj Atrakcie 🏰
+- [beloveza] pridaný kalendár zberu odpadu ♻️
+- [cecehov] pridaný kalendár zberu odpadu ♻️
+- [celadince] pridaný kalendár zberu odpadu ♻️
+- [budina] je možné prijímať aj ďalšie okruhy notifikácií
+- [sekule] je možné prijímať aj ďalšie okruhy notifikácií
+- [durkova] pridaný kalendár zberu odpadu ♻️
+- [durkova] je možné prijímať aj ďalšie okruhy notifikácií
+- [hatne] je možné prijímať aj ďalšie okruhy notifikácií
+- [hodkovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [hodkovce] pridaný kalendár zberu odpadu ♻️
+- [istebne] je možné prijímať aj ďalšie okruhy notifikácií
+- [istebne] pridaný kalendár zberu odpadu ♻️
+- [kazimir] je možné prijímať aj ďalšie okruhy notifikácií
+- [koskovce] pridaný kalendár zberu odpadu ♻️
+- [koskovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [koskovce] pridaný modul Fotogaléria
+- [kotrcinalucka] je možné prijímať aj ďalšie okruhy notifikácií
+- [kovacovce] pridaný kalendár zberu odpadu ♻️
+- [legnava] je možné prijímať aj ďalšie okruhy notifikácií
+- [legnava] pridaný kalendár zberu odpadu ♻️
+- [letnicie] je možné prijímať aj ďalšie okruhy notifikácií
+- [lipove] je možné prijímať aj ďalšie okruhy notifikácií
+- [lipove] pridaný kalendár zberu odpadu ♻️
+- [malyslivnik] je možné prijímať aj ďalšie okruhy notifikácií
+- [malyslivnik] pridaný kalendár zberu odpadu ♻️
+- [michalany] je možné prijímať aj ďalšie okruhy notifikácií
+- [mytopoddumbierom] je možné prijímať aj ďalšie okruhy notifikácií
+- [mytopoddumbierom] pridaný kalendár zberu odpadu ♻️
+- [orechova] pridaná podstránka pre Katalóg služieb a firiem v obci
+- [podkylava] pridaný kalendár zberu odpadu ♻️
+- [prietrzka] je možné prijímať aj ďalšie okruhy notifikácií
+- [radnovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [radnovce] pridaný kalendár zberu odpadu ♻️
+- [revuckalehota] je možné prijímať aj ďalšie okruhy notifikácií
+- [revuckalehota] pridaný kalendár zberu odpadu ♻️
+- [ruskovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [ruskovce] pridaný kalendár zberu odpadu ♻️
+- [sirk] je možné prijímať aj ďalšie okruhy notifikácií
+- [smolinske] je možné prijímať aj ďalšie okruhy notifikácií
+- [svinica] je možné prijímať aj ďalšie okruhy notifikácií
+- [svinica] pridaný kalendár zberu odpadu ♻️
+- [velkechlievany] je možné prijímať aj ďalšie okruhy notifikácií
+- [velkechlievany] pridaný kalendár zberu odpadu ♻️
+- [zeleznik] pridaný kalendár zberu odpadu ♻️
+- [zemplinskejastrabie] je možné prijímať aj ďalšie okruhy notifikácií
+- [zemplinskejastrabie] pridaný kalendár zberu odpadu ♻️
+- [zliechov] je možné prijímať aj ďalšie okruhy notifikácií
+
+### Zmeny
+- vylepšenie kvality erbov
+- v prípade, že má zariadenie nastavené automatické zväčšovanie/zmenšovanie písma, aplikácia použije štandartnú veľkosť 🗚. Zároveň ale pracujeme na tom, aby mohla byť aplikácia prístupnejšia aj pre ľudí so zrakovými obmedzeniami. Čoskoro v ďalšej aktualizácií.
+- aktualizácia pre najnovšie Android zariadenia
+- vylepšili sme technickú stránku Android verzie aplikácie tak, aby zaberala menej pamäte a mohla sa ešte rýchlejšie stiahnúť do zariadenia
+
+### Opravy
+- opravy doručovania notifikácií pre niektoré zariadenia
+- notifikácie odkazujúce sa na webový článok už zobrazujú vždy správny článok
+- lepšie zobrazovanie niektorých obrázkov v článkoch
+- viacere menšie opravy  
+- [cecehov] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [ducove] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [ducove] opravé zobrazovanie fotogalérie
+- [istebne] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [prietrzka] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [petrovcenadlaborcom] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [sekule] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [svinica] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [trsteneprihornade] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [velkechlievany] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [zliechov] opravé zobrazovanie farských oznamov na iOS verzií ⛪
+- [bosaca] opravené moduly Fotogaléria a História
+- [budina] opravený modul Fotogaléria
+- [sekule] opravený modul Podnety
+- [hrasovik] opravený modul Fotogaléria
+- [durkova] opravený modul Fotogaléria
+- [durkova] opravený modul Obec v kocke
+- [hatne] opravený modul Fotogaléria
+- [legnava] opravený modul Fotogaléria
+- [prietrzka] opravený modul Fotogaléria
+- [radnovce] opravený modul Fotogaléria
+- [velkechlievany] opravený modul Zberu odpadov
+- [zemplinskejastrabie] opravený modul Fotogaléria
+- [rimavskabana] opravený modul Rozhlas
+- [rimavskabana] opravený modul Fotogaléria
+
+
+## 1.5.X - 2021-01
+
+### Pridané
+- možnosť zobrazenia ukážky súboru v príspevku 📄 automatické zobrazovanie je možné vypnúť v nastaveniach aplikácie
+- na úvodnej obrazoke je možné lahšie prechádzať všetky stránky/moduly dookola ↔️
+- nové ikony pre ďalšie moduly
+
+### Zmeny
+- znižená doba uloženia dočasného info zo 1 dňa na 1 hodinu (častejšie sa aktualizuje obsah)
+- dočasne bola odstránená možnosť približovať obrázky z príspevkou kvôli chybe na Android zariadeniach
+
+### Opravy
+- ak bol niektorý modul na stránke vypnutý, obsah aplikácie sa nemohol načítať
+- aplikácia nepadá ak načítavá z webu súbor s diakritikou ✍️
+- pri nepripojení na internet aplikácia nevedela dotiahnúť niektoré obrázky (predsalen bez internetu sa to nedá)
+
+## 1.4.X - 2020-11
+
+V tejto verzii bola vytvorená aj aplikácia pre **iOS Apple zariadenia**. Postupne ak aplikáciu Apple schváli, tak ju pridáme na stiahnutie 🍏
+
+### Pridané
+- NOTIFIKAČNÉ upozornenia! Teraz budete stále informovaný o aktuálnom diani alebo o dôležitých správach od obce 🔔
+- možnosť zobrazenia Twitter časovej osi 🐤
+- info o vydavateľovi správ
+
+### Zmeny
+- znižená doba uloženia dočasného info zo 7 na 1 deň (častejšie sa aktualizuje obsah)
+- odstránené kategórie, v ktorých nie sú príspevky
+- upresnenie nejasných kategórií príspevkov
+
+### Opravy
+- oprava volania obecnej stránky ak už aplikácia zavolala všetko čo mohla
+- hneď po povoleni Lokalizácie sa poloha začne načítavať
+- niekedy nebolo možné prejsť na obrazovku pridania podnetu
+- oprava načítania notifikácií ak zariadenie nebolo pripojené na internet
+
+## 1.3.X - 2020-10
+
+### Pridané
+- kontakt na developera a technického správcu
+
+### Zmeny
+- grafické zmeny úvodnej obrazovky, aby boli dlaždice rovnako veľké aj na malých displejoch 📱 
+- grafické zmeny, aby boli obrazovky rovnaké pre rôzne rozlíšenia (veľkosti zariadení)
+
+### Opravy
+- oprava Počasia. Otvorenie Počasia spôsobovalo pád aplikácie a to privolávalo ďalší dážď 🌦️
+- niekedy po úspešnom odoslaní podnetu ostala aplikácia na bielej obrazovke
+
+## 1.2.X - 2020-10
+
+### Pridané
+- možnosť zobrazenia Facebook-ovej stranký aj inej ako obecnej, napr. farského úradu
+- informácia o získavaní počasia ⛅
+- kontakt na vývojára
+
+### Zmeny
+- ak je na úrade nestránkový deň, tak sa zobrazí popis namiesto prázdneho miesta
+- nezobrazenia FB tlačidla ak obec FB nemá
+- zmena zobrazenia telefoného čísla obce
+- zrýchlenie zobrazenia stránok 🚀
+- vylepšená obrazovka oprávnení
+
+### Opravy
+- oprava načítania dátumov
+- oprava zobrazenia príliš dlhého názvu obce (Mýto pod Ďumbierom 👀)
+- oprava vzdialenosti od miesta ak nie je známa poloha zariadenia
+- oprava nesprávneho nastavovania miesta podnetu, ak sa miesto menilo viackrát
+- opravená chyba, kedy aplikácia padala ak nemohla získať dáta o počasí
+- [Android] oprava neotvárania niektorých prepojení z príspevkov
+- oprava checkboxu na obrazovke oprávnení
+
+## 1.1.X - 2020-09
+
+### Zmeny
+- zrýhlenie načítania webového obsahu o cca 30%-50% 🚀
+- vylepšená grafika pre niektoré moduly
+
+### Pridané
+- odosielanie **podnetu spolu s fotkou a miestom** podnetu
+- pridaná možnosť určiť miesto podnetu podľa aktuálnej polohy 🛰️
+- modul na zobrazovanie **Facebook-ových príspevkov obecnej stránky**
+- pridaná nová grafika pre niektoré moduly
+
+### Opravy
+- menšie opravy pri zobrazovaní vzdialeností miest *"V okolí"*
+- oprava získavania *Počasia* pri niektorých typoch Android zariadení
+- oprava pri určovaní miesta podnetu, kedy sa niektore podnety ocitli doslova v Afrike 🌍
+- oprava určovania povolení pri niektorých typoch Android zariadení
+
+## 1.0.X - 2020-08
+
+### Init
+- pridané úvodné funkcionality
