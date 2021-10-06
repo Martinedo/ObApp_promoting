@@ -10,6 +10,14 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** a *
 
 # Aktualizácie
 
+## 1.7.1 - 2021-10
+
+### Pridané
+- doplnený dátum ukončenia udalosti ak ho má udalosť určený
+
+### Opravy
+- oprava zobrazovania textu pri niektorých článkoch, ktoré mali v sebe pripnutý aj súbor
+
 ## 1.7.0 - 2021-09
 
 ### Pridané

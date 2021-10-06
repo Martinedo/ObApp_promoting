@@ -10,6 +10,23 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** (**
 
 # Aktualizácie
 
+## 1.7.0 - 2021-10
+
+### Pridané
+- prehrávanie hlasových správ z obecného rozhlasu
+- v zozname notifikácií sa pri hlasovej správy zobrazí znak reproduktoru 🔊
+- na Úradnej tabuli pribudlo tlačidlo odkazujúce sa na Archív Úradnej tabuli, teda už zvesené dokumenty
+- doplnený dátum ukončenia udalosti ak ho má udalosť určený
+
+### Zmeny
+- aktualizovanie emailovej adresy vývojára
+- apka prispôsobená aktualizácií zverejňovania dokumentov na strane web-systému 📄
+
+### Opravy
+- pri zdieľaní príspevku alebo jeho prezeraní na webe sa zobrazí kompletný príspevok (na stránke), nie len jeho obsah
+- tabuľky sa zobrazujú v správnej šírke (oprava zo strany webu)
+- oprava zobrazovania textu pri niektorých článkoch, ktoré mali v sebe pripnutý aj súbor
+
 ## 1.6.0 - 2021-07
 
 ### Pridané
