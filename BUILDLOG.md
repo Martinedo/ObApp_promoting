@@ -61,7 +61,7 @@
 |Kysta|[![Build status](https://build.appcenter.ms/v0.1/apps/090dbfc9-70fb-43fc-b321-4a73da8b034c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/d2b36d4a-a2d6-4e67-a90d-20e814256990/branches/master/badge)](https://appcenter.ms)|||
 |Hucín|[![Build status](https://build.appcenter.ms/v0.1/apps/e36f1174-dca0-4d22-a494-9aa15e4c0600/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/76c39c57-d34f-41a1-98be-f6395df84ac8/branches/master/badge)](https://appcenter.ms)|||
 |Kovarce|[![Build status](https://build.appcenter.ms/v0.1/apps/a84795cb-974c-422f-aeba-e957891571f5/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a099c24d-f8da-4109-8069-fcc19a6215d9/branches/master/badge)](https://appcenter.ms)|||
-|Herľany|[![Build status](https://build.appcenter.ms/v0.1/apps/257e10f0-f6b2-4225-a6a8-48e51f41eab7/branches/master/badge)](https://appcenter.ms)||||
+|Herľany|[![Build status](https://build.appcenter.ms/v0.1/apps/257e10f0-f6b2-4225-a6a8-48e51f41eab7/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/be633a42-abab-49c9-be9f-8b09eea3ecf1/branches/master/badge)](https://appcenter.ms)|||
 |Brodské|[![Build status](https://build.appcenter.ms/v0.1/apps/b060395e-f260-497a-b1cb-7637d52e1a94/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/8fd12434-9cae-456f-ac62-0b02176cb1cb/branches/master/badge)](https://appcenter.ms)|||
 |Bajerovce|[![Build status](https://build.appcenter.ms/v0.1/apps/edffa631-66dc-43f4-acda-542d9fe814db/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/236fbbf2-1f52-4df8-ac35-aa466c97b172/branches/master/badge)](https://appcenter.ms)|||
 |Veľký Kamenec|[![Build status](https://build.appcenter.ms/v0.1/apps/d472afff-b717-490d-8f9b-d753462bf3f2/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/da466c8f-fffd-4a8d-99f8-610d73d23fde/branches/master/badge)](https://appcenter.ms)|||
@@ -71,7 +71,7 @@
 |Malé Vozokany|[![Build status](https://build.appcenter.ms/v0.1/apps/e6b2e9b9-dbd2-4f47-8aed-36340a8691e1/branches/master/badge)](https://appcenter.ms)||||
 |Nová Polhora|[![Build status](https://build.appcenter.ms/v0.1/apps/9ace738e-9c97-4fd4-90a4-7bbed3d10881/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a5866243-8579-4655-be9f-9edc2e06a262/branches/master/badge)](https://appcenter.ms)|||
 |Trávnik|[![Build status](https://build.appcenter.ms/v0.1/apps/afd29ae4-2ecc-4b99-a247-19f9d909e07f/branches/master/badge)](https://appcenter.ms)||||
-|Oponice|[![Build status](https://build.appcenter.ms/v0.1/apps/6d9d9b87-51dd-498a-a463-0f7c3d3e5155/branches/master/badge)](https://appcenter.ms)||||
+|Oponice|[![Build status](https://build.appcenter.ms/v0.1/apps/6d9d9b87-51dd-498a-a463-0f7c3d3e5155/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/677a2523-280e-4689-a70c-07c320986603/branches/master/badge)](https://appcenter.ms)|||
 |Švábovce|||||
 |Slovenské Pravno|||||
 ._.
