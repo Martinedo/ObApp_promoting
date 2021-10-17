@@ -72,6 +72,7 @@
 |Nová Polhora|[![Build status](https://build.appcenter.ms/v0.1/apps/9ace738e-9c97-4fd4-90a4-7bbed3d10881/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a5866243-8579-4655-be9f-9edc2e06a262/branches/master/badge)](https://appcenter.ms)|||
 |Trávnik|[![Build status](https://build.appcenter.ms/v0.1/apps/afd29ae4-2ecc-4b99-a247-19f9d909e07f/branches/master/badge)](https://appcenter.ms)||||
 |Oponice|[![Build status](https://build.appcenter.ms/v0.1/apps/6d9d9b87-51dd-498a-a463-0f7c3d3e5155/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/677a2523-280e-4689-a70c-07c320986603/branches/master/badge)](https://appcenter.ms)|||
-|Švábovce|||||
-|Slovenské Pravno|||||
+|Švábovce|[![Build status](https://build.appcenter.ms/v0.1/apps/d289f0bb-c54c-4e26-b196-39860c638f87/branches/master/badge)](https://appcenter.ms)||||
+|Slovenské Pravno|[![Build status](https://build.appcenter.ms/v0.1/apps/f94fef2f-45a6-45d8-bd28-dee3d4fead8d/branches/master/badge)](https://appcenter.ms)||||
+|Vojkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/78503a28-e349-4daa-9720-acd682a3d8d0/branches/master/badge)](https://appcenter.ms)||||
 ._.

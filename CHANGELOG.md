@@ -73,8 +73,9 @@
 |[Nová Polhora](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novapolhora.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.novapolhora)|[1.7.0](https://apps.apple.com/sk/app/nová-polhora/id1581966540)|com.alphabetpartner.novapolhora|nová-polhora/id1581966540|
 |[Trávnik](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/travnik.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.travnik)|[](https://apps.apple.com/sk/app/trávnik/id1583748402)|com.alphabetpartner.travnik|trávnik/id1583748402|
 |[Oponice](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oponice.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.oponice)|[1.7.0](https://apps.apple.com/sk/app/oponice/id1588128228)|com.alphabetpartner.oponice|oponice/id1588128228|
-|[Švábovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svabovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.svabovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.svabovce||
-|[Slovenské Pravno](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/slovenskepravno.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.slovenskepravno)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.slovenskepravno||
+|[Švábovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/svabovce.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.svabovce)|[](https://apps.apple.com/sk/app/švábovce/id1589210052)|com.alphabetpartner.svabovce|švábovce/id1589210052|
+|[Slovenské Pravno](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/slovenskepravno.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.slovenskepravno)|[](https://apps.apple.com/sk/app/slovenské-pravno/id1589216007)|com.alphabetpartner.slovenskepravno|slovenské-pravno/id1589216007|
+|[Vojkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vojkovce.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vojkovce)|[](https://apps.apple.com/sk/app/vojkovce/id1590119948)|com.alphabetpartner.vojkovce|vojkovce/id1590119948|
 ._.
 
 ****
@@ -90,7 +91,7 @@
 - 
 
 ### Opravy
-- 
+- zobrazovanie obrázkov pri niektorých článkoch
 
 ## 1.7.X - 2021-09 (stable)
 
