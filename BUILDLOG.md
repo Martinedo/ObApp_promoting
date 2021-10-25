@@ -74,5 +74,7 @@
 |Oponice|[![Build status](https://build.appcenter.ms/v0.1/apps/6d9d9b87-51dd-498a-a463-0f7c3d3e5155/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/677a2523-280e-4689-a70c-07c320986603/branches/master/badge)](https://appcenter.ms)|||
 |Švábovce|[![Build status](https://build.appcenter.ms/v0.1/apps/d289f0bb-c54c-4e26-b196-39860c638f87/branches/master/badge)](https://appcenter.ms)||||
 |Slovenské Pravno|[![Build status](https://build.appcenter.ms/v0.1/apps/f94fef2f-45a6-45d8-bd28-dee3d4fead8d/branches/master/badge)](https://appcenter.ms)||||
-|Vojkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/78503a28-e349-4daa-9720-acd682a3d8d0/branches/master/badge)](https://appcenter.ms)||||
+|Vojkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/78503a28-e349-4daa-9720-acd682a3d8d0/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/99f63154-5839-4af4-b811-7bec61de807c/branches/master/badge)](https://appcenter.ms)|||
+|Moravský Svätý Ján|[![Build status](https://build.appcenter.ms/v0.1/apps/6f0474a2-3d47-49ee-8dbb-4d30e6eada15/branches/master/badge)](https://appcenter.ms)||||
+|Lesné|[![Build status](https://build.appcenter.ms/v0.1/apps/9241cfc0-390d-4ba4-9646-1e9eb2e4c04e/branches/master/badge)](https://appcenter.ms)||||
 ._.

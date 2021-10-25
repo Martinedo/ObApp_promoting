@@ -10,6 +10,12 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.7.1 - 2021-10
+
+### Pridané
+- odkaz na farnosť evanjelickej cirkvi
+- stránka časopisu Švábovčan - Občasník
+
 ## 1.7.0 - 2021-10
 
 ### Prvá verzia
