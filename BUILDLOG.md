@@ -77,4 +77,5 @@
 |Vojkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/78503a28-e349-4daa-9720-acd682a3d8d0/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/99f63154-5839-4af4-b811-7bec61de807c/branches/master/badge)](https://appcenter.ms)|||
 |Moravský Svätý Ján|[![Build status](https://build.appcenter.ms/v0.1/apps/6f0474a2-3d47-49ee-8dbb-4d30e6eada15/branches/master/badge)](https://appcenter.ms)||||
 |Lesné|[![Build status](https://build.appcenter.ms/v0.1/apps/9241cfc0-390d-4ba4-9646-1e9eb2e4c04e/branches/master/badge)](https://appcenter.ms)||||
+|Nižná Polianka|[![Build status](https://build.appcenter.ms/v0.1/apps/00a13ac8-85cb-499e-85dd-90521cab5991/branches/master/badge)](https://appcenter.ms)||||
 ._.

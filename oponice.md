@@ -10,6 +10,12 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.7.1 - 2021-11
+
+### Pridané
+- modul s informáciami o zbernom dvore
+- odkaz na dokumenty spojené s obecným zastupiteľstvom
+
 ## 1.7.0 - 2021-10
 
 ### Prvá verzia
