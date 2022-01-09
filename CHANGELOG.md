@@ -78,7 +78,13 @@
 |[Vojkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vojkovce.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vojkovce)|[1.7.0](https://apps.apple.com/sk/app/vojkovce/id1590119948)|com.alphabetpartner.vojkovce|vojkovce/id1590119948|
 |[Moravský Svätý Ján](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/moravskysvatyjan.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.moravskysvatyjan)|[](https://apps.apple.com/sk/app/moravský-svätý-ján/id1591379137)|com.alphabetpartner.moravskysvatyjan|moravský-svätý-ján/id1591379137|
 |[Lesné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lesne.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lesne)|[](https://apps.apple.com/sk/app/lesné/id1591382461)|com.alphabetpartner.lesne|lesné/id1591382461|
-|[Nižná Polianka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/niznapolianka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.niznapolianka)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.niznapolianka||
+|[Nižná Polianka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/niznapolianka.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.niznapolianka)|[1.7.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.niznapolianka||
+|[Matejovce nad Hornádom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/matejovcenadhornadom.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.matejovcenadhornadom)|[](https://apps.apple.com/sk/app/matejovce-nad-hornádom/id1599274688)|com.alphabetpartner.matejovcenadhornadom|matejovce-nad-hornádom/id1599274688|
+|[Helcmanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/helcmanovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.helcmanovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.helcmanovce||
+|[Čirč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/circ.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.circ)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.circ||
+|[Mostová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mostova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.mostova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.mostova||
+|[Tisinec](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tisinec.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.tisinec)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.tisinec||
+|[Boľ](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bol.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.bol)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.bol||
 ._.
 
 ****
@@ -89,12 +95,15 @@
 
 ### Pridané
 - rozšírenie zobrazovanie dokumentov pre články, ktoré obsahujú len priložený dokument (napr. PDF)
+- ak stránka (napr. zdravotné stredisko) obshauje číslo, po kliknutí naň sa zobrazí možnošť zavolať na to číslo
 
 ### Zmeny
 - 
 
 ### Opravy
+- zobrazovanie erbu neorezane v prípade ak článok nemá obrazok
 - zobrazovanie obrázkov pri niektorých článkoch
+- preklik na Návody z modulu Obecný úrad
 
 ## 1.7.X - 2021-09 (stable)
 

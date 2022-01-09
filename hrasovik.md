@@ -10,6 +10,11 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.7.1 - 2021-12
+
+### Opravy
+- oprava zobrazovania niektorych obrazkov v aplikácií na Android zariadeniach
+
 ## 1.7.0 - 2021-10
 
 ### Pridané

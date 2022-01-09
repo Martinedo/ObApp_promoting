@@ -10,6 +10,11 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.7.2 - 2021-12
+
+### Pridané
+- odkaz na Zdravotné stredisko - informácie o otváracích hodinách a telefónne čísla
+
 ## 1.7.1 - 2021-10
 
 ### Pridané

@@ -29,7 +29,7 @@ Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddele
 - 
 
 ### Opravy
-- 
+- opravené prehrávanie a analyzovanie hlasovej nahrávky na niektorých typoch Android zariadení
 
 ## 1.1.0 - 2021-08 (aktuálna verzia)
 
