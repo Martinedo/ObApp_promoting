@@ -81,8 +81,9 @@
 |Matejovce nad Hornádom|[![Build status](https://build.appcenter.ms/v0.1/apps/34b4e8b7-724c-4bf3-b158-d73ff73e2014/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/76446917-afa8-462a-bf87-c69e597a1c9d/branches/master/badge)](https://appcenter.ms)|||
 |Helcmanovce|[![Build status](https://build.appcenter.ms/v0.1/apps/51b4c3e7-4080-4e61-8bf3-b81ea5e9e684/branches/master/badge)](https://appcenter.ms)||||
 |Čirč|[![Build status](https://build.appcenter.ms/v0.1/apps/22129124-312b-46e6-a80d-8e2f9c589765/branches/master/badge)](https://appcenter.ms)||||
-|Mostová|[![Build status](https://build.appcenter.ms/v0.1/apps/a2e723b3-03ac-489f-9fed-e6beead6ec6c/branches/master/badge)](https://appcenter.ms)||||
+|Mostová|[![Build status](https://build.appcenter.ms/v0.1/apps/a2e723b3-03ac-489f-9fed-e6beead6ec6c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/d3d03799-6508-44c0-a95a-b4fec318b093/branches/master/badge)](https://appcenter.ms)|||
 |Tisinec|[![Build status](https://build.appcenter.ms/v0.1/apps/8b3de163-00e4-42ab-8cf0-3889f2eaafb6/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/bf49896b-2139-4829-ae57-2b56f262f901/branches/master/badge)](https://appcenter.ms)|||
 |Boľ|[![Build status](https://build.appcenter.ms/v0.1/apps/4b7a1966-17a0-44c8-913d-4d0c661ed998/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/7d8223fb-46f2-480b-8719-1bd72cff4266/branches/master/badge)](https://appcenter.ms)|||
 |Beluj|[![Build status](https://build.appcenter.ms/v0.1/apps/9ed9e6c2-44b1-49af-886e-466566b9543f/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/615f8bb6-1f7a-478c-be62-f363bc08bd5a/branches/master/badge)](https://appcenter.ms)|||
+|Vozokany|[![Build status](https://build.appcenter.ms/v0.1/apps/e648376c-1e7e-4d3a-b045-7ed3ab6cbfa4/branches/master/badge)](https://appcenter.ms)||||
 ._.
