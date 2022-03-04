@@ -66,7 +66,7 @@
 |[Brodské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/brodske.md)|[1.7.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.brodske)|[1.7.2](https://apps.apple.com/sk/app/brodské/id1577949239)|com.alphabetpartner.brodske|brodské/id1577949239|
 |[Bajerovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bajerovce.md)|[1.7.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.bajerovce)|[1.7.1](https://apps.apple.com/sk/app/bajerovce/id1578653428)|com.alphabetpartner.bajerovce|bajerovce/id1578653428|
 |[Veľký Kamenec](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkykamenec.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkykamenec)|[1.7.0](https://apps.apple.com/sk/app/veľký-kamenec/id1580352034)|com.alphabetpartner.velkykamenec|veľký-kamenec/id1580352034|
-|[Veľké Leváre](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkelevare.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkelevare)|[1.7.0](https://apps.apple.com/sk/app/veľké-leváre-aplikácia/id1605116540)|com.alphabetpartner.velkelevare|veľké-leváre-aplikácia/id1605116540|
+|[Veľké Leváre](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkelevare.md)|[1.7.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkelevare)|[1.7.1](https://apps.apple.com/sk/app/veľké-leváre-aplikácia/id1605116540)|com.alphabetpartner.velkelevare|veľké-leváre-aplikácia/id1605116540|
 |[Hajtovka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hajtovka.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.hajtovka)|[1.7.0](https://apps.apple.com/sk/app/hajtovka/id1580377879)|com.alphabetpartner.hajtovka|hajtovka/id1580377879|
 |[Boliarov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/boliarov.md)|[1.7.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.boliarov)|[1.7.1](https://apps.apple.com/sk/app/boliarov/id1580699028)|com.alphabetpartner.boliarov|boliarov/id1580699028|
 |[Malé Vozokany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malevozokany.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.malevozokany)|[1.7.0](https://apps.apple.com/sk/app/malé-vozokany/id1581961217)|com.alphabetpartner.malevozokany|malé-vozokany/id1581961217|
@@ -89,7 +89,7 @@
 |[Vozokany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vozokany.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vozokany)|[1.7.0](https://apps.apple.com/sk/app/vozokany/id1606369803)|com.alphabetpartner.vozokany|vozokany/id1606369803|
 |[Brusnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/brusnica.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.brusnica)|[1.7.0](https://apps.apple.com/sk/app/brusnica/id1607579690)|com.alphabetpartner.brusnica|brusnica/id1607579690|
 |[Krivosúd-Bodovka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/krivosudbodovka.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.krivosudbodovka)|[1.7.0](https://apps.apple.com/sk/app/krivosúd-bodovka/id1607818732)|com.alphabetpartner.krivosudbodovka|krivosúd-bodovka/id1607818732|
-|[Poľanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/polanovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.polanovce)|[](https://apps.apple.com/sk/app/poľanovce/id1607835687)|com.alphabetpartner.polanovce|poľanovce/id1607835687|
+|[Poľanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/polanovce.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.polanovce)|[1.7.0](https://apps.apple.com/sk/app/poľanovce/id1607835687)|com.alphabetpartner.polanovce|poľanovce/id1607835687|
 ._.
 
 ****
@@ -101,11 +101,14 @@
 ### Pridané
 - rozšírenie zobrazovanie dokumentov pre články, ktoré obsahujú len priložený dokument (napr. PDF)
 - ak stránka (napr. zdravotné stredisko) obshauje číslo, po kliknutí naň sa zobrazí možnošť zavolať na to číslo
+- tlačidlo na zdieľanie aplikácie ostatným občanom
+- možnosť pridania hodnotenia aplikácie v Google Play alebo Apple Store
 
 ### Zmeny
 - 
 
 ### Opravy
+- zber odpadu sa zobrazuje správne priamo v aplikácií a nie v externom prehliadači
 - zobrazovanie erbu neorezane v prípade ak článok nemá obrazok
 - zobrazovanie obrázkov pri niektorých článkoch
 - preklik na Návody z modulu Obecný úrad
