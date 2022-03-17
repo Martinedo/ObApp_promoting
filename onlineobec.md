@@ -1,4 +1,4 @@
-Publikujte **aktuality**, **udalosti** alebo **príspevky na vývesku** na Váš obecný web priamo a rýchlo z jednoduchej mobilnej aplikácie. **Odfoťte dokument** alebo **fotografiu** a pošlite ich do admin rozhrania na neskoršie použitie.
+Publikujte **aktuality**, **udalosti** alebo **príspevky na úradnú tabuľu** na Váš obecný web priamo a rýchlo z jednoduchej mobilnej aplikácie. **Odfoťte dokument** alebo **fotografiu** a pošlite ich do admin rozhrania na neskoršie použitie.
 
 Aplikácia taktiež umožňuje **posielať rýchle textové** alebo **hlasové správy** do **obecného rozhlasu**. Hlasové správy premieňa na text a tak nie je potrebné hlasovú správu prepisovať ručne!
 
@@ -18,25 +18,51 @@ Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddele
 
 # Aktualizácie
 
-## 1.2.0 - 2021-09 (vo výrobe)
+## 1.3.0 - 2022-XY (vo výrobe)
 
 ### Pridané
-- pridané publikovenie na obecnú úradnu tabuľu
-- príspevky je možné ukladať ako koncept alebo šablonu
-- vytvorenie príspevku podla preddefinovanej šablony
+- 
 
 ### Zmeny
 - 
 
 ### Opravy
-- opravené prehrávanie a analyzovanie hlasovej nahrávky na niektorých typoch Android zariadení
+- 
 
-## 1.1.0 - 2021-08 (aktuálna verzia)
+## 1.2.0 - 2022-03 (aktuálna verzia)
+
+### Pridané
+- pridané publikovenie na obecnú úradnu tabuľu 📄
+- odhlasovanie odberateľov bolo zjednodušené pridaním odhlasovacieho tlačidla
+- v novinkách sa zobrazujú novinky zo spoločnosti OnlineObec a jej produktoch - napr infomrácie o nových aktualizáciach 📰
+- ak je v texte príspevku napísaný link/odkaz, tak je po publikovaní na web stránke odkaz klikateľný
+- pri vytváraní textových rozhlasových správ je možné použiť aj preddefinované šablony
+- rozhlasové správy je možné ukladať ako šablonu a neskôr použiť aj v aplikácií aj na webe
+- príspevky je možné kategorizovať aj do podkategórií definovaných na webe
+- výber kategórií je možné zavrieť aj tlačidlom na obrazovke
+- pri prvom spustení sa predstavia funkcie aplikácie 🌟
+
+### Zmeny
+- používateľ s rolou 'Odosielateľ rozhlasu' nema prístup ku modulom ako Aktuality alebo Udalosti, ale len ku zasielaniu správ alebo prácu s odberateľmi
+- zrýchlilo sa načítavanie odberateľov 🧑‍🤝‍🧑
+- sprehľadnenie detailov o odberateľovi
+- rozšírenie klikateľných oblastí na niektorých tlačidlách
+
+### Opravy
+- opravené prehrávanie a analyzovanie hlasovej nahrávky na niektorých typoch Android zariadení
+- pri posielaní príspevku sa už nezobrazujú pomocné texty okolo príspevku
+- pri oznamovacích textoch hlasovej správy sa už nezobrazujú oznamovacie texty textovej správy
+- oprava situácie kedy sa odšrtli všetky kategórie alebo oblasti a nebolo možné ich znova zaškrtnúť
+- [iOS] opravené pridávanie nového odberateľa kedy nebolo možné vybrať z viacerých kontaktných údajov kontaktu (napr. mail, tel. čislo)
+- pri rozhlase obci, ktoré majú neobmedzené zasielanie správ sa správne zobrazuje počet ostávajúcich SMS ako nekonečno ♾️
+- zobrazujú sa už všetky kategórie ak existuje viac ako 10
+- aplikácia nepadá pri prihlasovaní bez internetového pripojenia ale ukáže informáciu, že pripojenie chýba ✔️
+- oprava gramatických chýb
+
+## 1.1.0 - 2021-08
 
 ### Pridané
 - prvá verzia aplikácie
 
 ### Evidujeme chyby
-- [iOS] pri vytváraní nového odberateľa nie je možné vybrať z viacerých kontaktných údajov kontaktu (napr. mail, tel. čislo). Vyberie sa len prvý v poradí (obvykle tel. číslo)
-- [iOS] príspevkom nie je možné nastaviť publikovanie na neskorší dátum alebo čas
-- [iOS] ak sa nezvolí kategória príspevku, už sa pre daný príspevok nemôže vybrať iná kategória
+- príspevkom nie je možné nastaviť publikovanie na neskorší dátum alebo čas
