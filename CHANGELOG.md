@@ -90,22 +90,38 @@
 |[Brusnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/brusnica.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.brusnica)|[1.8.0](https://apps.apple.com/sk/app/brusnica/id1607579690)|com.alphabetpartner.brusnica|brusnica/id1607579690|
 |[Krivosúd-Bodovka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/krivosudbodovka.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.krivosudbodovka)|[1.8.0](https://apps.apple.com/sk/app/krivosúd-bodovka/id1607818732)|com.alphabetpartner.krivosudbodovka|krivosúd-bodovka/id1607818732|
 |[Poľanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/polanovce.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.polanovce)|[1.8.0](https://apps.apple.com/sk/app/poľanovce/id1607835687)|com.alphabetpartner.polanovce|poľanovce/id1607835687|
-|[Benkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/benkovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.benkovce)|[](https://apps.apple.com/sk/app/benkovce/id1616173120)|com.alphabetpartner.benkovce|benkovce/id1616173120|
-|[Bzince pod Javorinou](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bzincepodjavorinou.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.bzincepodjavorinou)|[](https://apps.apple.com/sk/app/bzince-pod-javorinou/id1616649710)|com.alphabetpartner.bzincepodjavorinou|bzince-pod-javorinou/id1616649710|
-|[Brehov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/brehov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.brehov)|[](https://apps.apple.com/sk/app/brehov/id1616854772)|com.alphabetpartner.brehov|brehov/id1616854772|
-|[Tarnov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tarnov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.tarnov)|[](https://apps.apple.com/sk/app/tarnov/id1618438146)|com.alphabetpartner.tarnov|tarnov/id1618438146|
-|[Majere](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/majere.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.majere)|[](https://apps.apple.com/sk/app/majere/id1618760852)|com.alphabetpartner.majere|majere/id1618760852|
-|[Stráňany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/stranany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.stranany)|[](https://apps.apple.com/sk/app/stráňany/id1618765904)|com.alphabetpartner.stranany|stráňany/id1618765904|
-|[Buzitka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/buzitka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.buzitka)|[](https://apps.apple.com/sk/app/buzitka/id1618936340)|com.alphabetpartner.buzitka|buzitka/id1618936340|
-|[Čierny Brod](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ciernybrod.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.ciernybrod)|[](https://apps.apple.com/sk/app/čierny-brod/id1618943411)|com.alphabetpartner.ciernybrod|čierny-brod/id1618943411|
+|[Benkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/benkovce.md)|[-> 1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.benkovce)|[1.8.0](https://apps.apple.com/sk/app/benkovce/id1616173120)|com.alphabetpartner.benkovce|benkovce/id1616173120|
+|[Bzince pod Javorinou](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bzincepodjavorinou.md)|[1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.bzincepodjavorinou)|[1.8.0](https://apps.apple.com/sk/app/bzince-pod-javorinou/id1616649710)|com.alphabetpartner.bzincepodjavorinou|bzince-pod-javorinou/id1616649710|
+|[Brehov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/brehov.md)|[1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.brehov)|[1.8.0](https://apps.apple.com/sk/app/brehov/id1616854772)|com.alphabetpartner.brehov|brehov/id1616854772|
+|[Tarnov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tarnov.md)|[1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.tarnov)|[](https://apps.apple.com/sk/app/tarnov/id1618438146)|com.alphabetpartner.tarnov|tarnov/id1618438146|
+|[Majere](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/majere.md)|[1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.majere)|[](https://apps.apple.com/sk/app/majere/id1618760852)|com.alphabetpartner.majere|majere/id1618760852|
+|[Stráňany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/stranany.md)|[1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.stranany)|[-> 1.8.0](https://apps.apple.com/sk/app/stráňany/id1618765904)|com.alphabetpartner.stranany|stráňany/id1618765904|
+|[Buzitka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/buzitka.md)|[1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.buzitka)|[](https://apps.apple.com/sk/app/buzitka/id1618936340)|com.alphabetpartner.buzitka|buzitka/id1618936340|
+|[Čierny Brod](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ciernybrod.md)|[-> 1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.ciernybrod)|[1.8.0](https://apps.apple.com/sk/app/čierny-brod/id1618943411)|com.alphabetpartner.ciernybrod|čierny-brod/id1618943411|
 |[Jamník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/jamnik.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.jamnik)|[](https://apps.apple.com/sk/app/jamník/id1621060301)|com.alphabetpartner.jamnik|jamník/id1621060301|
+|[Hincovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hincovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hincovce)|[](https://apps.apple.com/sk/app/hincovce/id1624543288)|com.alphabetpartner.hincovce|hincovce/id1624543288|
+|[Bacúch](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bacuch.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.bacuch)|[](https://apps.apple.com/sk/app/bacúch/id1625044909)|com.alphabetpartner.bacuch|bacúch/id1625044909|
+|[Bátka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/batka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.batka)|[](https://apps.apple.com/sk/app/bátka/id1625049378)|com.alphabetpartner.batka|bátka/id1625049378|
+|[Vyšná Jedľová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vysnajedlova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.vysnajedlova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.vysnajedlova||
 ._.
 
 ****
 
 # Changelog
 
-## 1.8.X - 2022-04 (develop)
+## 1.9.X - 2022-06 (develop)
+
+### Pridané
+-
+
+### Zmeny
+- 
+
+### Opravy
+- nezobrazujú sa už notifikácie, ktoré boli odstránené
+- padanie aplikácie v prípade nekorektného obrázku na web stránke
+
+## 1.8.X - 2022-04 (stable)
 
 ### Pridané
 - jazyk aplikácie je možné si nastaviť už aj na angličtinu, maďarčinu aj ukrajinčinu. V prípade ak existuje aj obsah napr. články v cudzom jazyku, bude zobrazovaný v cudzom jazyku 🌍
@@ -164,7 +180,7 @@
 - [durkova] oprava počasie na niektorých iOS zariadeniach
 
 
-## 1.7.X - 2021-09 (stable)
+## 1.7.X - 2021-09
 
 ### Pridané
 - prehrávanie hlasových správ z obecného rozhlasu

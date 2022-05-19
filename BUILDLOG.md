@@ -89,13 +89,17 @@
 |Brusnica|[![Build status](https://build.appcenter.ms/v0.1/apps/fc6c9d4d-d5ac-4a4e-9b23-947faaecc3d6/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/eecd8d5b-d586-4ef5-aead-6143d95a1035/branches/master/badge)](https://appcenter.ms)|R||
 |Krivosúd-Bodovka|[![Build status](https://build.appcenter.ms/v0.1/apps/f72ba356-8a9a-4aa5-a630-e31e43c60f66/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/64d0f622-6a24-4cbe-8b05-410badbca6b7/branches/master/badge)](https://appcenter.ms)|R||
 |Poľanovce|[![Build status](https://build.appcenter.ms/v0.1/apps/b236eca2-71e4-4c1c-95f5-d711c965f9b6/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/b193e354-99ce-493f-8b9f-0770d7d4ddf3/branches/master/badge)](https://appcenter.ms)|R||
-|Benkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/4ef43ad8-af88-4009-9559-2ed4ba2083fc/branches/master/badge)](https://appcenter.ms)||||
-|Bzince pod Javorinou|[![Build status](https://build.appcenter.ms/v0.1/apps/995a5a74-164e-4dd8-812d-ae0bedd0f57a/branches/master/badge)](https://appcenter.ms)||||
-|Brehov|[![Build status](https://build.appcenter.ms/v0.1/apps/2f33d2d2-757a-4367-839f-f912f65713ed/branches/master/badge)](https://appcenter.ms)||||
+|Benkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/4ef43ad8-af88-4009-9559-2ed4ba2083fc/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/b1ad72bf-dda3-4dba-bcd3-a8fa2b0c3ab9/branches/master/badge)](https://appcenter.ms)|||
+|Bzince pod Javorinou|[![Build status](https://build.appcenter.ms/v0.1/apps/995a5a74-164e-4dd8-812d-ae0bedd0f57a/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/12ae581a-66c7-40ae-854c-0ab39f721739/branches/master/badge)](https://appcenter.ms)|||
+|Brehov|[![Build status](https://build.appcenter.ms/v0.1/apps/2f33d2d2-757a-4367-839f-f912f65713ed/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/3ee57e6d-1218-4fb6-968e-65089591cd85/branches/master/badge)](https://appcenter.ms)|||
 |Tarnov|[![Build status](https://build.appcenter.ms/v0.1/apps/19398263-ac59-470f-b0a1-01244ecacb0f/branches/master/badge)](https://appcenter.ms)||||
 |Majere|[![Build status](https://build.appcenter.ms/v0.1/apps/4be1f866-4c43-4bb4-b530-1c23cc663a90/branches/master/badge)](https://appcenter.ms)||||
-|Stráňany|[![Build status](https://build.appcenter.ms/v0.1/apps/68a2cd1a-cd20-480e-a9e4-7f12fe643e12/branches/master/badge)](https://appcenter.ms)||||
-|Buzitka|[![Build status](https://build.appcenter.ms/v0.1/apps/77152bfe-5b00-4453-a103-96c4cd607c75/branches/master/badge)](https://appcenter.ms)||||
-|Čierny Brod|[![Build status](https://build.appcenter.ms/v0.1/apps/e9e085ca-aebd-4bba-9c9e-8ab160b50d76/branches/master/badge)](https://appcenter.ms)||||
+|Stráňany|[![Build status](https://build.appcenter.ms/v0.1/apps/68a2cd1a-cd20-480e-a9e4-7f12fe643e12/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/1233c914-6175-4c87-a76c-549bc94d1a01/branches/master/badge)](https://appcenter.ms)|||
+|Buzitka|[![Build status](https://build.appcenter.ms/v0.1/apps/77152bfe-5b00-4453-a103-96c4cd607c75/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/8a0a4f49-8ec8-43f8-ab2f-b53ddb77d744/branches/master/badge)](https://appcenter.ms)|||
+|Čierny Brod|[![Build status](https://build.appcenter.ms/v0.1/apps/e9e085ca-aebd-4bba-9c9e-8ab160b50d76/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/30103342-616b-407f-b9a1-1122f2a12eaa/branches/master/badge)](https://appcenter.ms)|||
 |Jamník|[![Build status](https://build.appcenter.ms/v0.1/apps/a4fabd97-597a-4578-ac3e-8061f235b723/branches/master/badge)](https://appcenter.ms)||||
+|Hincovce|[![Build status](https://build.appcenter.ms/v0.1/apps/274c2f19-35b8-4d6e-a2c5-6e93e396e69a/branches/master/badge)](https://appcenter.ms)||||
+|Bacúch|[![Build status](https://build.appcenter.ms/v0.1/apps/e016ced5-508c-4c07-9d8a-278116cb2df1/branches/master/badge)](https://appcenter.ms)||||
+|Bátka|[![Build status](https://build.appcenter.ms/v0.1/apps/4c0fdfe5-d22b-4879-8178-9c42a627cfdf/branches/master/badge)](https://appcenter.ms)||||
+|Vyšná Jedľová|||||
 ._.
