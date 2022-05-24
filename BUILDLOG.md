@@ -101,5 +101,7 @@
 |Hincovce|[![Build status](https://build.appcenter.ms/v0.1/apps/274c2f19-35b8-4d6e-a2c5-6e93e396e69a/branches/master/badge)](https://appcenter.ms)||||
 |Bacúch|[![Build status](https://build.appcenter.ms/v0.1/apps/e016ced5-508c-4c07-9d8a-278116cb2df1/branches/master/badge)](https://appcenter.ms)||||
 |Bátka|[![Build status](https://build.appcenter.ms/v0.1/apps/4c0fdfe5-d22b-4879-8178-9c42a627cfdf/branches/master/badge)](https://appcenter.ms)||||
-|Vyšná Jedľová|||||
+|Vyšná Jedľová|[![Build status](https://build.appcenter.ms/v0.1/apps/c0d34501-0c42-4238-bf43-43ea5dd4186e/branches/master/badge)](https://appcenter.ms)||||
+|Mokrá Lúka|[![Build status](https://build.appcenter.ms/v0.1/apps/5d4c3e46-67d3-45cc-8047-ac35030b56fc/branches/master/badge)](https://appcenter.ms)||||
+|Domaňovce|[![Build status](https://build.appcenter.ms/v0.1/apps/064ffa19-2660-4eba-b3a4-4b989a2f9718/branches/master/badge)](https://appcenter.ms)||||
 ._.
