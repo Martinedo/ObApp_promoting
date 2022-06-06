@@ -104,4 +104,6 @@
 |Vyšná Jedľová|[![Build status](https://build.appcenter.ms/v0.1/apps/c0d34501-0c42-4238-bf43-43ea5dd4186e/branches/master/badge)](https://appcenter.ms)||||
 |Mokrá Lúka|[![Build status](https://build.appcenter.ms/v0.1/apps/5d4c3e46-67d3-45cc-8047-ac35030b56fc/branches/master/badge)](https://appcenter.ms)||||
 |Domaňovce|[![Build status](https://build.appcenter.ms/v0.1/apps/064ffa19-2660-4eba-b3a4-4b989a2f9718/branches/master/badge)](https://appcenter.ms)||||
+|Rimavské Janovce|[![Build status](https://build.appcenter.ms/v0.1/apps/841619de-5e8f-42fd-92ec-c4933d58e713/branches/master/badge)](https://appcenter.ms)||||
+|Malý Slavkov|[![Build status](https://build.appcenter.ms/v0.1/apps/0f83f757-0fa6-4535-aa29-0d11d9fb20ab/branches/master/badge)](https://appcenter.ms)||||
 ._.
