@@ -106,4 +106,5 @@
 |Domaňovce|[![Build status](https://build.appcenter.ms/v0.1/apps/064ffa19-2660-4eba-b3a4-4b989a2f9718/branches/master/badge)](https://appcenter.ms)||||
 |Rimavské Janovce|[![Build status](https://build.appcenter.ms/v0.1/apps/841619de-5e8f-42fd-92ec-c4933d58e713/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a086985d-d4db-4dc2-b637-47f6e34486f3/branches/master/badge)](https://appcenter.ms)|||
 |Malý Slavkov|[![Build status](https://build.appcenter.ms/v0.1/apps/0f83f757-0fa6-4535-aa29-0d11d9fb20ab/branches/master/badge)](https://appcenter.ms)||||
+|Sečovská Polianka|[![Build status](https://build.appcenter.ms/v0.1/apps/564e62d2-6c5d-498b-87c9-4c706a8ebc32/branches/master/badge)](https://appcenter.ms)||||
 ._.

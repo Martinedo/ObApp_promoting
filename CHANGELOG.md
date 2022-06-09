@@ -105,8 +105,9 @@
 |[Vyšná Jedľová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vysnajedlova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.vysnajedlova)|[](https://apps.apple.com/sk/app/vyšná-jedľová/id1625675975)|com.alphabetpartner.vysnajedlova|vyšná-jedľová/id1625675975|
 |[Mokrá Lúka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mokraluka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.mokraluka)|[](https://apps.apple.com/sk/app/mokrá-lúka/id1626060996)|com.alphabetpartner.mokraluka|mokrá-lúka/id1626060996|
 |[Domaňovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/domanovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.domanovce)|[](https://apps.apple.com/sk/app/domaňovce/id1626071618)|com.alphabetpartner.domanovce|domaňovce/id1626071618|
-|[Rimavské Janovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskejanovce.md)|[-> 1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskejanovce)|[-> 1.8.0](https://apps.apple.com/sk/app/rimavské-janovce/id1626983632)|com.alphabetpartner.rimavskejanovce|rimavské-janovce/id1626983632|
+|[Rimavské Janovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskejanovce.md)|[1.8.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskejanovce)|[1.8.0](https://apps.apple.com/sk/app/rimavské-janovce/id1626983632)|com.alphabetpartner.rimavskejanovce|rimavské-janovce/id1626983632|
 |[Malý Slavkov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malyslavkov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.malyslavkov)|[](https://apps.apple.com/sk/app/malý-slavkov/id1627006772)|com.alphabetpartner.malyslavkov|malý-slavkov/id1627006772|
+|[Sečovská Polianka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/secovskapolianka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.secovskapolianka)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.secovskapolianka||
 ._.
 
 ****
