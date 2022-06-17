@@ -29,7 +29,13 @@ Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddele
 ### Opravy
 - 
 
-## 1.2.0 - 2022-03 (aktuálna verzia)
+## 1.2.1 - 2022-06 (aktuálna verzia)
+
+### Opravy
+- opravené sprístupnenie Rozhlasu aj pre tých používateľov, ktorí nemajú aktívne posielanie SMS správ
+- zároveň pre nich nebude možnosť zaslania textovej správy skrz SMS kanál
+
+## 1.2.0 - 2022-03
 
 ### Pridané
 - pridané publikovenie na obecnú úradnu tabuľu 📄
