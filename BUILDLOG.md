@@ -106,6 +106,7 @@
 |Domaňovce|[![Build status](https://build.appcenter.ms/v0.1/apps/064ffa19-2660-4eba-b3a4-4b989a2f9718/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/b54e608f-c303-4fcf-a0f9-837bbdb67f91/branches/master/badge)](https://appcenter.ms)|||
 |Rimavské Janovce|[![Build status](https://build.appcenter.ms/v0.1/apps/841619de-5e8f-42fd-92ec-c4933d58e713/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a086985d-d4db-4dc2-b637-47f6e34486f3/branches/master/badge)](https://appcenter.ms)|R||
 |Malý Slavkov|[![Build status](https://build.appcenter.ms/v0.1/apps/0f83f757-0fa6-4535-aa29-0d11d9fb20ab/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/5622eee6-371f-4011-bb9a-26d89e44c6ef/branches/master/badge)](https://appcenter.ms)|||
-|Sečovská Polianka|[![Build status](https://build.appcenter.ms/v0.1/apps/564e62d2-6c5d-498b-87c9-4c706a8ebc32/branches/master/badge)](https://appcenter.ms)||||
-|Fiľakovské Kováče|[![Build status](https://build.appcenter.ms/v0.1/apps/7a2c2f97-ce4f-496c-91e1-4f634941af20/branches/master/badge)](https://appcenter.ms)||||
+|Sečovská Polianka|[![Build status](https://build.appcenter.ms/v0.1/apps/564e62d2-6c5d-498b-87c9-4c706a8ebc32/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/1a02b7e6-6306-4b84-9524-f3dd66d8f754/branches/master/badge)](https://appcenter.ms)|||
+|Fiľakovské Kováče|[![Build status](https://build.appcenter.ms/v0.1/apps/7a2c2f97-ce4f-496c-91e1-4f634941af20/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a23ec81e-3bd6-4cef-bcd9-9008d146e405/branches/master/badge)](https://appcenter.ms)|||
+|Tušice|||||
 ._.
