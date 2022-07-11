@@ -29,7 +29,12 @@ Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddele
 ### Opravy
 - 
 
-## 1.2.1 - 2022-06 (aktuálna verzia)
+## 1.2.2 - 2022-07 (aktuálna verzia)
+
+### Pridané
+- správy do rozhlasu je možné kategorizovať aj podľa manuálne vytvorených kategórií na webe
+
+## 1.2.1 - 2022-06
 
 ### Opravy
 - opravené sprístupnenie Rozhlasu aj pre tých používateľov, ktorí nemajú aktívne posielanie SMS správ
