@@ -10,6 +10,11 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.8.1 - 2022-07
+
+### Pridané
+- modul Kontakty
+
 ## 1.8.0 - 2022-05
 
 ### Prvá verzia
