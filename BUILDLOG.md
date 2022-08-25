@@ -109,4 +109,12 @@
 |Sečovská Polianka|[![Build status](https://build.appcenter.ms/v0.1/apps/564e62d2-6c5d-498b-87c9-4c706a8ebc32/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/1a02b7e6-6306-4b84-9524-f3dd66d8f754/branches/master/badge)](https://appcenter.ms)|||
 |Fiľakovské Kováče|[![Build status](https://build.appcenter.ms/v0.1/apps/7a2c2f97-ce4f-496c-91e1-4f634941af20/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a23ec81e-3bd6-4cef-bcd9-9008d146e405/branches/master/badge)](https://appcenter.ms)|||
 |Tušice|[![Build status](https://build.appcenter.ms/v0.1/apps/8ce9ae32-fac6-4202-8e15-03652058c870/branches/master/badge)](https://appcenter.ms)||||
+|Slavkovce|[![Build status](https://build.appcenter.ms/v0.1/apps/02110d72-9a31-4fdb-a02c-3f6f05bc07eb/branches/master/badge)](https://appcenter.ms)||||
+|Voľa|[![Build status](https://build.appcenter.ms/v0.1/apps/9fd4ee0c-1a33-4766-b9dc-e79eb7f820a8/branches/master/badge)](https://appcenter.ms)||||
+|Kaľava|[![Build status](https://build.appcenter.ms/v0.1/apps/181548a9-769f-4f3d-8ee4-73d15b844e93/branches/master/badge)](https://appcenter.ms)||||
+|Stará Voda|[![Build status](https://build.appcenter.ms/v0.1/apps/bf3b44dd-57cf-4efc-9efd-446ea3c768d3/branches/master/badge)](https://appcenter.ms)||||
+|Krásnohorská Dlhá Lúka|[![Build status](https://build.appcenter.ms/v0.1/apps/9909e93f-c871-43cd-90c6-9442d683d24f/branches/master/badge)](https://appcenter.ms)||||
+|Stretavka|[![Build status](https://build.appcenter.ms/v0.1/apps/6ec5b8b8-4967-4495-9073-40988a44bd6f/branches/master/badge)](https://appcenter.ms)||||
+|Vyšný Kručov|[![Build status](https://build.appcenter.ms/v0.1/apps/1e33dc24-9fd8-43c9-b866-9b0824cddeb8/branches/master/badge)](https://appcenter.ms)||||
+|Ložín|[![Build status](https://build.appcenter.ms/v0.1/apps/75022a29-142a-49d7-b8c4-8c7365620225/branches/master/badge)](https://appcenter.ms)||||
 ._.
