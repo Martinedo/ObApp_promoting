@@ -115,6 +115,7 @@
 |Stará Voda|[![Build status](https://build.appcenter.ms/v0.1/apps/bf3b44dd-57cf-4efc-9efd-446ea3c768d3/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/580075e4-af1b-42f1-879f-115fd0728fb2/branches/master/badge)](https://appcenter.ms)|||
 |Krásnohorská Dlhá Lúka|[![Build status](https://build.appcenter.ms/v0.1/apps/9909e93f-c871-43cd-90c6-9442d683d24f/branches/master/badge)](https://appcenter.ms)||||
 |Stretavka|[![Build status](https://build.appcenter.ms/v0.1/apps/6ec5b8b8-4967-4495-9073-40988a44bd6f/branches/master/badge)](https://appcenter.ms)||||
-|Vyšný Kručov|[![Build status](https://build.appcenter.ms/v0.1/apps/1e33dc24-9fd8-43c9-b866-9b0824cddeb8/branches/master/badge)](https://appcenter.ms)||||
-|Ložín|[![Build status](https://build.appcenter.ms/v0.1/apps/75022a29-142a-49d7-b8c4-8c7365620225/branches/master/badge)](https://appcenter.ms)||||
+|Vyšný Kručov|[![Build status](https://build.appcenter.ms/v0.1/apps/1e33dc24-9fd8-43c9-b866-9b0824cddeb8/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/fd843b0f-6e87-4ab5-82c7-0c252e3f3ff8/branches/master/badge)](https://appcenter.ms)|||
+|Ložín|[![Build status](https://build.appcenter.ms/v0.1/apps/75022a29-142a-49d7-b8c4-8c7365620225/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/6cb1a082-149f-487e-bc00-9ce393c5bb20/branches/master/badge)](https://appcenter.ms)|||
+|ZŠ Poráč|[![Build status](https://build.appcenter.ms/v0.1/apps/2c813b1c-150d-4864-bb49-a2c4b84e5f33/branches/master/badge)](https://appcenter.ms)||||
 ._.
