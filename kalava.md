@@ -10,7 +10,12 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
-## 1.8.0 - 2022-08
+## 1.8.2 - 2022-09
+
+### Opravené
+- padanie aplikácie na niektorých najnovších verziách Androidu
+
+## 1.8.1 - 2022-08
 
 ### Prvá verzia
 - úvodné vydanie aplikácie
