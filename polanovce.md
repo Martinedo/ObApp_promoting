@@ -10,6 +10,32 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.8.0 - 2022-09
+
+### Pridané
+- jazyk aplikácie je možné si nastaviť už aj na angličtinu, maďarčinu aj ukrajinčinu. V prípade ak existuje aj obsah napr. články v cudzom jazyku, bude zobrazovaný v cudzom jazyku 🌍
+- rozšírenie a zlepšenie zobrazovania dokumentov z článkov a stránok, ktoré obsahujú napr. PDF dokument 📄
+- ak stránka (napr. zdravotné stredisko) obshauje číslo, po kliknutí naň sa zobrazí možnošť zavolať na to číslo
+- tlačidlo na zdieľanie aplikácie ostatným občanom 🔗
+- možnosť pridania hodnotenia aplikácie v Google Play alebo Apple Store ⭐
+- príspevky je možné filtrovat aj cez podkategórie
+
+
+### Zmeny
+- ak je na úradnej tabuly dátum zverejnenia rovnaký ako dátum úpravy, dátum úpravy sa nezobrazuje
+
+### Opravy
+- nezobrazovanie upozorení
+- zber odpadu sa zobrazuje správne priamo v aplikácií a nie v externom prehliadači ♻️
+- dátum zverejnenia príspevku sa zobrazuje správne pre obce, ktoré majú externý webový systém
+- zobrazovanie erbu neorezane v prípade ak článok nemá obrazok
+- zobrazovanie obrázkov pri niektorých článkoch
+- preklik na Návody z modulu Obecný úrad
+- v Úradnej tabuli sa zobrazujú správne a aktuálne kategórie
+- úvodná stránka cestovných poriadkov sa zobrazuje na celú výšku
+- oprava prijímania PUSH notifikácií o príspevkoch na niektorých typoch Android zariadení
+
+
 ## 1.7.0 - 2022-03
 
 ### Prvá verzia
