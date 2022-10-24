@@ -118,7 +118,9 @@
 |[Stretavka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/stretavka.md)|[1.8.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.stretavka)|[1.8.0](https://apps.apple.com/sk/app/stretavka/id1643291940)|com.alphabetpartner.stretavka|stretavka/id1643291940|
 |[Vyšný Kručov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vysnykrucov.md)|[1.8.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.vysnykrucov)|[1.8.0](https://apps.apple.com/sk/app/vyšný-kručov/id1643290273)|com.alphabetpartner.vysnykrucov|vyšný-kručov/id1643290273|
 |[Ložín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lozin.md)|[1.8.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lozin)|[1.8.0](https://apps.apple.com/sk/app/ložín/id1640221904)|com.alphabetpartner.lozin|ložín/id1640221904|
-|[ZŠ Poráč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zsporac.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zsporac)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.zsporac||
+|[ZŠ Poráč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zsporac.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zsporac)|[](https://apps.apple.com/sk/app/zš-poráč/id6443715894)|com.alphabetpartner.zsporac|zš-poráč/id6443715894|
+|[Mlynky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mlynky.md)|[1.8.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.mlynky)|[1.8.1](https://apps.apple.com/sk/app/mlynky/id6443777201)|com.alphabetpartner.mlynky|mlynky/id6443777201|
+|[Popudinské Močidľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/popudinskemocidlany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.popudinskemocidlany)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.popudinskemocidlany||
 ._.
 
 ****
@@ -131,9 +133,10 @@
 -
 
 ### Zmeny
-- 
+- pri niektorých typoch dokumentov nebolo možné zobraziť ukážku priamo v aplikácií a preto sa dokument otvorí v prehliadači
 
 ### Opravy
+- po príchode push notifikácie sa správa v aplikácií zobrazuje hneď
 - nezobrazujú sa už notifikácie, ktoré boli odstránené
 - padanie aplikácie v prípade nekorektného obrázku na web stránke
 
