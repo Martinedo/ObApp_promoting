@@ -119,5 +119,6 @@
 |Ložín|[![Build status](https://build.appcenter.ms/v0.1/apps/75022a29-142a-49d7-b8c4-8c7365620225/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/6cb1a082-149f-487e-bc00-9ce393c5bb20/branches/master/badge)](https://appcenter.ms)|||
 |ZŠ Poráč|[![Build status](https://build.appcenter.ms/v0.1/apps/2c813b1c-150d-4864-bb49-a2c4b84e5f33/branches/master/badge)](https://appcenter.ms)||||
 |Mlynky|[![Build status](https://build.appcenter.ms/v0.1/apps/acc66922-970f-47bd-b188-d8c3e1953c60/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/7a9cc1a9-7ab8-44ce-9f13-0bb936617f62/branches/master/badge)](https://appcenter.ms)|||
-|Popudinské Močidľany|||||
+|Popudinské Močidľany|[![Build status](https://build.appcenter.ms/v0.1/apps/e7bb700e-ab00-40d8-aba9-4815d884cf18/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/cbfaf6c4-8dd2-4681-9462-751518170d3d/branches/master/badge)](https://appcenter.ms)|||
+|Jelka|[![Build status](https://build.appcenter.ms/v0.1/apps/6a5581ab-1437-43fe-a4d8-d10202086147/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/ab5eea73-2a78-4392-a7b5-becb72949505/branches/master/badge)](https://appcenter.ms)|||
 ._.

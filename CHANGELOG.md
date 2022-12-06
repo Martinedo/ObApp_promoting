@@ -120,25 +120,63 @@
 |[Ložín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lozin.md)|[1.8.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lozin)|[1.8.0](https://apps.apple.com/sk/app/ložín/id1640221904)|com.alphabetpartner.lozin|ložín/id1640221904|
 |[ZŠ Poráč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zsporac.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zsporac)|[](https://apps.apple.com/sk/app/zš-poráč/id6443715894)|com.alphabetpartner.zsporac|zš-poráč/id6443715894|
 |[Mlynky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mlynky.md)|[1.8.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.mlynky)|[1.8.1](https://apps.apple.com/sk/app/mlynky/id6443777201)|com.alphabetpartner.mlynky|mlynky/id6443777201|
-|[Popudinské Močidľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/popudinskemocidlany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.popudinskemocidlany)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.popudinskemocidlany||
+|[Popudinské Močidľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/popudinskemocidlany.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.popudinskemocidlany)|[1.9.0](https://apps.apple.com/sk/app/popudinské-močidľany/id6443918816)|com.alphabetpartner.popudinskemocidlany|popudinské-močidľany/id6443918816|
+|[Jelka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/jelka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.jelka)|[1.9.0](https://apps.apple.com/sk/app/jelka/id6444156006)|com.alphabetpartner.jelka|jelka/id6444156006|
 ._.
 
 ****
 
 # Changelog
 
-## 1.9.X - 2022-06 (develop)
+## 1.9.X - 2022-11 (develop)
 
 ### Pridané
--
+- aplikácia je kompatibilná s najnovšími Android zariadeniami
+- chodia notifikácie aj na nové-špecifické kategórie obce 📣
+- doplnené ďalšie preklady do ostatných jazykov
+- [secovskapolianka] pridané stránky na FB Rím. a Greg. katolíckych cirkví
+- [secovskapolianka] pridaná stránka na rezerváciu kultúrneho domu
+- [olsavce] pridaný modul s odkazom na FB obce
+- [vchlievany] pridaný modul s odkazom na FB obce
+- [kuzmice] pridaný modul s odkazom na FB obce
+- [novapolhora] pridaný modul s odkazom na FB obce
+- [vojkovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [lesne] pridaný modul s odkazom na FB obce
+- [matejovcenadhornadom] pridaný modul s odkazom na FB obce
+- [jamnik] pridaný modul s odkazom na FB obce
+- [bacuch] je možné prijímať aj ďalšie okruhy notifikácií
+- [bacuch] pridaný kalendár zberu odpadu ♻️
+- [vysnajedlova] pridaný modul s odkazom na FB obce
+- [mokraluka] pridaný modul s odkazom na FB obce
+- [mokraluka] pridaný modul s odkazom na FB obce
+- [tusice] je možné prijímať aj ďalšie okruhy notifikácií
+- [tusice] pridaná možnosť zaslať podnet starostovy
+- [slavkovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [vola] je možné prijímať aj ďalšie okruhy notifikácií
+- [kalava] je možné prijímať aj ďalšie okruhy notifikácií
+- [staravoda] je možné prijímať aj ďalšie okruhy notifikácií
+- [krasnohorskadlhaluka] je možné prijímať aj ďalšie okruhy notifikácií
+- [stretavka] je možné prijímať aj ďalšie okruhy notifikácií
+- [lozin] je možné prijímať aj ďalšie okruhy notifikácií
+- [jelka] pridaný modul s odkazom na FB obce
+- [malyslavkov] pridaná možnosť zaslať podnet starostovy
+- [celovce] pridaná podstránka pre Multifunkčné ihrisko
+- [kazimir] pridané Cirkevné oznamy
 
 ### Zmeny
+- zrýchlené získavanie údajov o počasí 🌞
 - pri niektorých typoch dokumentov nebolo možné zobraziť ukážku priamo v aplikácií a preto sa dokument otvorí v prehliadači
+- graficke doladenia aby boli všetky prvky jednotné
+- [malyslavkov] zmena odkazu na fotogalériu
 
 ### Opravy
+- upozornenia sa správne zapínajú/vypínajú v prípade kliknutia na prepínač
 - po príchode push notifikácie sa správa v aplikácií zobrazuje hneď
 - nezobrazujú sa už notifikácie, ktoré boli odstránené
 - padanie aplikácie v prípade nekorektného obrázku na web stránke
+- oprava gramatických chýb v texte 👌
+- pri niektorých článkoch nebolo možné doscrolovať na koniec stranky
+- [staravoda] oprevené prepojenie na obec v kocke
 
 ## 1.8.X - 2022-04 (stable)
 
