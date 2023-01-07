@@ -78,11 +78,11 @@
 |[Vojkovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vojkovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vojkovce)|[1.9.0](https://apps.apple.com/sk/app/vojkovce/id1590119948)|com.alphabetpartner.vojkovce|vojkovce/id1590119948|
 |[Moravský Svätý Ján](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/moravskysvatyjan.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.moravskysvatyjan)|[1.9.0](https://apps.apple.com/sk/app/moravský-svätý-ján/id1591379137)|com.alphabetpartner.moravskysvatyjan|moravský-svätý-ján/id1591379137|
 |[Lesné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lesne.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lesne)|[1.9.0](https://apps.apple.com/sk/app/lesné/id1591382461)|com.alphabetpartner.lesne|lesné/id1591382461|
-|[Nižná Polianka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/niznapolianka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.niznapolianka)|[-> 1.9.0 X](https://apps.apple.com/sk/app/nižná-polianka/id1596666446)|com.alphabetpartner.niznapolianka|nižná-polianka/id1596666446|
+|[Nižná Polianka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/niznapolianka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.niznapolianka)|[1.9.0](https://apps.apple.com/sk/app/nižná-polianka/id1596666446)|com.alphabetpartner.niznapolianka|nižná-polianka/id1596666446|
 |[Matejovce nad Hornádom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/matejovcenadhornadom.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.matejovcenadhornadom)|[1.9.0](https://apps.apple.com/sk/app/matejovce-nad-hornádom/id1599274688)|com.alphabetpartner.matejovcenadhornadom|matejovce-nad-hornádom/id1599274688|
 |[Helcmanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/helcmanovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.helcmanovce)|[1.9.0](https://apps.apple.com/sk/app/helcmanovce/id1601105178)|com.alphabetpartner.helcmanovce|helcmanovce/id1601105178|
 |[Čirč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/circ.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.circ)|[1.9.0](https://apps.apple.com/sk/app/čirč/id1604093726)|com.alphabetpartner.circ|čirč/id1604093726|
-|[Mostová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mostova.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mostova)|[-> 1.9.0](https://apps.apple.com/sk/app/mostová/id1604174634)|com.alphabetpartner.mostova|mostová/id1604174634|
+|[Mostová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mostova.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mostova)|[1.9.0](https://apps.apple.com/sk/app/mostová/id1604174634)|com.alphabetpartner.mostova|mostová/id1604174634|
 |[Tisinec](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tisinec.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.tisinec)|[1.9.0](https://apps.apple.com/sk/app/tisinec/id1604565692)|com.alphabetpartner.tisinec|tisinec/id1604565692|
 |[Boľ](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bol.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.bol)|[1.9.0](https://apps.apple.com/sk/app/boľ/id1604768702)|com.alphabetpartner.bol|boľ/id1604768702|
 |[Beluj](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/beluj.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.beluj)|[1.9.0](https://apps.apple.com/sk/app/beluj/id1606131578)|com.alphabetpartner.beluj|beluj/id1606131578|
@@ -118,7 +118,7 @@
 |[Stretavka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/stretavka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.stretavka)|[1.9.0](https://apps.apple.com/sk/app/stretavka/id1643291940)|com.alphabetpartner.stretavka|stretavka/id1643291940|
 |[Vyšný Kručov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vysnykrucov.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vysnykrucov)|[1.9.0](https://apps.apple.com/sk/app/vyšný-kručov/id1643290273)|com.alphabetpartner.vysnykrucov|vyšný-kručov/id1643290273|
 |[Ložín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lozin.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lozin)|[1.9.0](https://apps.apple.com/sk/app/ložín/id1640221904)|com.alphabetpartner.lozin|ložín/id1640221904|
-|[ZŠ Poráč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zsporac.md)|[-> 1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zsporac)|[-> 1.9.0](https://apps.apple.com/sk/app/zš-poráč/id6443715894)|com.alphabetpartner.zsporac|zš-poráč/id6443715894|
+|[ZŠ Poráč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zsporac.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zsporac)|[1.9.0](https://apps.apple.com/sk/app/zš-poráč/id6443715894)|com.alphabetpartner.zsporac|zš-poráč/id6443715894|
 |[Mlynky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mlynky.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mlynky)|[1.9.0](https://apps.apple.com/sk/app/mlynky/id6443777201)|com.alphabetpartner.mlynky|mlynky/id6443777201|
 |[Popudinské Močidľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/popudinskemocidlany.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.popudinskemocidlany)|[1.9.0](https://apps.apple.com/sk/app/popudinské-močidľany/id6443918816)|com.alphabetpartner.popudinskemocidlany|popudinské-močidľany/id6443918816|
 |[Jelka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/jelka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.jelka)|[1.9.0](https://apps.apple.com/sk/app/jelka/id6444156006)|com.alphabetpartner.jelka|jelka/id6444156006|
@@ -126,9 +126,20 @@
 
 ****
 
+## 1.10.X - 2023-X (develop)
+
+### Pridané
+-
+
+### Zmeny
+- 
+
+### Opravy
+- 
+
 # Changelog
 
-## 1.9.X - 2022-11 (develop)
+## 1.9.X - 2022-11 (stable)
 
 ### Pridané
 - aplikácia je kompatibilná s najnovšími Android zariadeniami
@@ -180,7 +191,7 @@
 - pri niektorých článkoch nebolo možné doscrolovať na koniec stranky
 - [staravoda] oprevené prepojenie na obec v kocke
 
-## 1.8.X - 2022-04 (stable)
+## 1.8.X - 2022-04
 
 ### Pridané
 - jazyk aplikácie je možné si nastaviť už aj na angličtinu, maďarčinu aj ukrajinčinu. V prípade ak existuje aj obsah napr. články v cudzom jazyku, bude zobrazovaný v cudzom jazyku 🌍
