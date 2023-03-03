@@ -126,4 +126,8 @@
 |Závadka|[![Build status](https://build.appcenter.ms/v0.1/apps/47623a14-8478-420d-85df-c129b857fe0e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/fcce2256-3254-4a7b-be22-4e591c3b1504/branches/master/badge)](https://appcenter.ms)|||
 |Dubovce|[![Build status](https://build.appcenter.ms/v0.1/apps/61d99626-6a83-45bc-a2f8-d14f60537292/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/77cfd952-5703-4345-912c-523a4e7814ff/branches/master/badge)](https://appcenter.ms)|||
 |Borová|[![Build status](https://build.appcenter.ms/v0.1/apps/36b3b645-5f88-40d9-8288-deb28910f14f/branches/master/badge)](https://appcenter.ms)||||
+|Nemešany|[![Build status](https://build.appcenter.ms/v0.1/apps/47422199-e7a3-404a-9ed4-330d141868d9/branches/master/badge)](https://appcenter.ms)||||
+|Unín|[![Build status](https://build.appcenter.ms/v0.1/apps/0c727e3e-4c07-430d-af7e-8a3905355ca0/branches/master/badge)](https://appcenter.ms)||||
+|Radošovce|[![Build status](https://build.appcenter.ms/v0.1/apps/e546e64f-f707-4d29-aba5-65f71e59d3c3/branches/master/badge)](https://appcenter.ms)||||
+|Vislava|[![Build status](https://build.appcenter.ms/v0.1/apps/8d4c58fd-36b8-456f-9227-05a082362e38/branches/master/badge)](https://appcenter.ms)||||
 ._.

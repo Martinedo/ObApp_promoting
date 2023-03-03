@@ -29,6 +29,17 @@ Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddele
 ### Opravy
 - 
 
+## 1.2.3 - 2023-02
+
+### Pridané
+- doplnené informácie v prípade výskytu chýb v aplikácie
+- ak sa zasiela rozhlasová správa aplikácia upozorní na prekročený maximalný počet znakov textu pre SMS správy. Obsah textu sa oreže s webovým odkazom na celú správu. Správy v aplikácií a emaile budú zobrazené celé
+- pridané ďalšie obce do zoznamu počas prihlasovania
+
+### Opravy
+- opravené zobrazenie externého webového prehliadača pre najnovšie Android verzie 
+- aplikácia je kompatibilná s najnovšími Android zariadeniami
+
 ## 1.2.2 - 2022-07 (aktuálna verzia)
 
 ### Pridané

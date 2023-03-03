@@ -118,7 +118,7 @@
 |[Stretavka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/stretavka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.stretavka)|[1.9.0](https://apps.apple.com/sk/app/stretavka/id1643291940)|com.alphabetpartner.stretavka|stretavka/id1643291940|
 |[Vyšný Kručov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vysnykrucov.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.vysnykrucov)|[1.9.0](https://apps.apple.com/sk/app/vyšný-kručov/id1643290273)|com.alphabetpartner.vysnykrucov|vyšný-kručov/id1643290273|
 |[Ložín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lozin.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lozin)|[1.9.0](https://apps.apple.com/sk/app/ložín/id1640221904)|com.alphabetpartner.lozin|ložín/id1640221904|
-|[ZŠ Poráč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zsporac.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zsporac)|[1.9.0](https://apps.apple.com/sk/app/zš-poráč/id6443715894)|com.alphabetpartner.zsporac|zš-poráč/id6443715894|
+|[ZŠ Poráč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zsporac.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zsporac)|[1.9.0](https://apps.apple.com/sk/app/zš-poráč/id6443715894)|com.alphabetpartner.zsporac|zš-poráč/id6443715894|
 |[Mlynky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mlynky.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mlynky)|[1.9.0](https://apps.apple.com/sk/app/mlynky/id6443777201)|com.alphabetpartner.mlynky|mlynky/id6443777201|
 |[Popudinské Močidľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/popudinskemocidlany.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.popudinskemocidlany)|[1.9.0](https://apps.apple.com/sk/app/popudinské-močidľany/id6443918816)|com.alphabetpartner.popudinskemocidlany|popudinské-močidľany/id6443918816|
 |[Jelka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/jelka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.jelka)|[1.9.0](https://apps.apple.com/sk/app/jelka/id6444156006)|com.alphabetpartner.jelka|jelka/id6444156006|
@@ -126,7 +126,11 @@
 |[Spišský Hrhov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/spisskyhrhov.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.spisskyhrhov)|[1.9.0](https://apps.apple.com/sk/app/spišský-hrhov/id1668077861)|com.alphabetpartner.spisskyhrhov|spišský-hrhov/id1668077861|
 |[Závadka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zavadka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zavadka)|[1.9.0](https://apps.apple.com/sk/app/závadka/id1668986903)|com.alphabetpartner.zavadka|závadka/id1668986903|
 |[Dubovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dubovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.dubovce)|[1.9.0](https://apps.apple.com/sk/app/dubovce/id1669689243)|com.alphabetpartner.dubovce|dubovce/id1669689243|
-|[Borová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/borova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.borova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.borova||
+|[Borová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/borova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.borova)|[](https://apps.apple.com/sk/app/borová/id1671604050)|com.alphabetpartner.borova|borová/id1671604050|
+|[Nemešany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/nemesany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.nemesany)|[](https://apps.apple.com/sk/app/nemešany/id6445964978)|com.alphabetpartner.nemesany|nemešany/id6445964978|
+|[Unín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/unin.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.unin)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.unin||
+|[Radošovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radosovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.radosovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.radosovce||
+|[Vislava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vislava.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.vislava)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.vislava||
 ._.
 
 ****
@@ -140,6 +144,7 @@
 - 
 
 ### Opravy
+- Opravené otváranie webového prehliadaču na novších Android verziách.
 - 
 
 # Changelog
