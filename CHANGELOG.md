@@ -129,8 +129,12 @@
 |[Borová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/borova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.borova)|[](https://apps.apple.com/sk/app/borová/id1671604050)|com.alphabetpartner.borova|borová/id1671604050|
 |[Nemešany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/nemesany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.nemesany)|[](https://apps.apple.com/sk/app/nemešany/id6445964978)|com.alphabetpartner.nemesany|nemešany/id6445964978|
 |[Unín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/unin.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.unin)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.unin||
-|[Radošovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radosovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.radosovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.radosovce||
-|[Vislava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vislava.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.vislava)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.vislava||
+|[Radošovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radosovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.radosovce)|[](https://apps.apple.com/sk/app/radošovce/id6446092795)|com.alphabetpartner.radosovce|radošovce/id6446092795|
+|[Vislava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vislava.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.vislava)|[](https://apps.apple.com/sk/app/vislava/id6446093497)|com.alphabetpartner.vislava|vislava/id6446093497|
+|[Rožňavské Bystré](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/roznavskebystre.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.roznavskebystre)|[](https://apps.apple.com/sk/app/rožňavské-bystré/id6446284397)|com.alphabetpartner.roznavskebystre|rožňavské-bystré/id6446284397|
+|[Lukov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lukov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.lukov)|[](https://apps.apple.com/sk/app/lukov/id6446286215)|com.alphabetpartner.lukov|lukov/id6446286215|
+|[Oreské MI](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oreskemi.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.oreskemi)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.oreskemi||
+|[Danišovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/danisovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.danisovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.danisovce||
 ._.
 
 ****

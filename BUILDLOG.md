@@ -130,4 +130,8 @@
 |Unín|[![Build status](https://build.appcenter.ms/v0.1/apps/0c727e3e-4c07-430d-af7e-8a3905355ca0/branches/master/badge)](https://appcenter.ms)||||
 |Radošovce|[![Build status](https://build.appcenter.ms/v0.1/apps/e546e64f-f707-4d29-aba5-65f71e59d3c3/branches/master/badge)](https://appcenter.ms)||||
 |Vislava|[![Build status](https://build.appcenter.ms/v0.1/apps/8d4c58fd-36b8-456f-9227-05a082362e38/branches/master/badge)](https://appcenter.ms)||||
+|Rožňavské Bystré|[![Build status](https://build.appcenter.ms/v0.1/apps/e8b7a5dd-1e95-418f-91f1-95acf36c8687/branches/master/badge)](https://appcenter.ms)||||
+|Lukov|[![Build status](https://build.appcenter.ms/v0.1/apps/f75d7c2a-6eb9-4d4d-b675-b8c22d1ad8da/branches/master/badge)](https://appcenter.ms)||||
+|Oreské MI|[![Build status](https://build.appcenter.ms/v0.1/apps/1caa71da-ed49-41bc-bd02-8cdd7ede5575/branches/master/badge)](https://appcenter.ms)||||
+|Danišovce|[![Build status](https://build.appcenter.ms/v0.1/apps/b3a7b852-f509-47cf-8174-b345397964f9/branches/master/badge)](https://appcenter.ms)||||
 ._.
