@@ -125,7 +125,7 @@
 |[Slatvina](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/slatvina.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.slatvina)|[1.9.0](https://apps.apple.com/sk/app/slatvina/id1665725723)|com.alphabetpartner.slatvina|slatvina/id1665725723|
 |[Spišský Hrhov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/spisskyhrhov.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.spisskyhrhov)|[1.9.0](https://apps.apple.com/sk/app/spišský-hrhov/id1668077861)|com.alphabetpartner.spisskyhrhov|spišský-hrhov/id1668077861|
 |[Závadka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zavadka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zavadka)|[1.9.0](https://apps.apple.com/sk/app/závadka/id1668986903)|com.alphabetpartner.zavadka|závadka/id1668986903|
-|[Dubovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dubovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.dubovce)|[1.9.0](https://apps.apple.com/sk/app/dubovce/id1669689243)|com.alphabetpartner.dubovce|dubovce/id1669689243|
+|[Dubovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dubovce.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.dubovce)|[1.9.0](https://apps.apple.com/sk/app/dubovce/id1669689243)|com.alphabetpartner.dubovce|dubovce/id1669689243|
 |[Borová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/borova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.borova)|[](https://apps.apple.com/sk/app/borová/id1671604050)|com.alphabetpartner.borova|borová/id1671604050|
 |[Nemešany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/nemesany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.nemesany)|[](https://apps.apple.com/sk/app/nemešany/id6445964978)|com.alphabetpartner.nemesany|nemešany/id6445964978|
 |[Unín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/unin.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.unin)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.unin||
@@ -142,7 +142,7 @@
 ## 1.10.X - 2023-X (develop)
 
 ### Pridané
--
+- [zliechov] pridaný odkaz na virtálny cintorín
 
 ### Zmeny
 - 
