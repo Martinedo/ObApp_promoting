@@ -125,13 +125,13 @@
 |Spišský Hrhov|[![Build status](https://build.appcenter.ms/v0.1/apps/3418ad05-4909-4068-95db-c0c56dec41d9/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/1c83590e-0f47-4e09-afdd-067b6455cce7/branches/master/badge)](https://appcenter.ms)|||
 |Závadka|[![Build status](https://build.appcenter.ms/v0.1/apps/47623a14-8478-420d-85df-c129b857fe0e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/fcce2256-3254-4a7b-be22-4e591c3b1504/branches/master/badge)](https://appcenter.ms)|||
 |Dubovce|[![Build status](https://build.appcenter.ms/v0.1/apps/61d99626-6a83-45bc-a2f8-d14f60537292/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/77cfd952-5703-4345-912c-523a4e7814ff/branches/master/badge)](https://appcenter.ms)|||
-|Borová|[![Build status](https://build.appcenter.ms/v0.1/apps/36b3b645-5f88-40d9-8288-deb28910f14f/branches/master/badge)](https://appcenter.ms)||||
-|Nemešany|[![Build status](https://build.appcenter.ms/v0.1/apps/47422199-e7a3-404a-9ed4-330d141868d9/branches/master/badge)](https://appcenter.ms)||||
+|Borová|[![Build status](https://build.appcenter.ms/v0.1/apps/36b3b645-5f88-40d9-8288-deb28910f14f/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/38b9e631-1944-4cd1-9ba5-9e3c7fc834e3/branches/master/badge)](https://appcenter.ms)|||
+|Nemešany|[![Build status](https://build.appcenter.ms/v0.1/apps/47422199-e7a3-404a-9ed4-330d141868d9/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/0bb18a74-627d-4cbf-aa08-eae948e3c5ee/branches/master/badge)](https://appcenter.ms)|||
 |Unín|[![Build status](https://build.appcenter.ms/v0.1/apps/0c727e3e-4c07-430d-af7e-8a3905355ca0/branches/master/badge)](https://appcenter.ms)||||
-|Radošovce|[![Build status](https://build.appcenter.ms/v0.1/apps/e546e64f-f707-4d29-aba5-65f71e59d3c3/branches/master/badge)](https://appcenter.ms)||||
+|Radošovce|[![Build status](https://build.appcenter.ms/v0.1/apps/e546e64f-f707-4d29-aba5-65f71e59d3c3/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/62a7eb7b-b78c-415c-a328-7c8b21344ef4/branches/master/badge)](https://appcenter.ms)|||
 |Vislava|[![Build status](https://build.appcenter.ms/v0.1/apps/8d4c58fd-36b8-456f-9227-05a082362e38/branches/master/badge)](https://appcenter.ms)||||
 |Rožňavské Bystré|[![Build status](https://build.appcenter.ms/v0.1/apps/e8b7a5dd-1e95-418f-91f1-95acf36c8687/branches/master/badge)](https://appcenter.ms)||||
-|Lukov|[![Build status](https://build.appcenter.ms/v0.1/apps/f75d7c2a-6eb9-4d4d-b675-b8c22d1ad8da/branches/master/badge)](https://appcenter.ms)||||
-|Oreské MI|[![Build status](https://build.appcenter.ms/v0.1/apps/1caa71da-ed49-41bc-bd02-8cdd7ede5575/branches/master/badge)](https://appcenter.ms)||||
-|Danišovce|[![Build status](https://build.appcenter.ms/v0.1/apps/b3a7b852-f509-47cf-8174-b345397964f9/branches/master/badge)](https://appcenter.ms)||||
+|Lukov|[![Build status](https://build.appcenter.ms/v0.1/apps/f75d7c2a-6eb9-4d4d-b675-b8c22d1ad8da/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/e932db26-8e8c-4e4c-9e4d-29c0f7296730/branches/master/badge)](https://appcenter.ms)|||
+|Oreské MI|[![Build status](https://build.appcenter.ms/v0.1/apps/1caa71da-ed49-41bc-bd02-8cdd7ede5575/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/33ea7d7e-de63-49ed-9ac1-b6bdb6a7bdcc/branches/master/badge)](https://appcenter.ms)|||
+|Danišovce|[![Build status](https://build.appcenter.ms/v0.1/apps/b3a7b852-f509-47cf-8174-b345397964f9/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/68dbfb85-6f5a-474f-ac44-580d6de68a07/branches/master/badge)](https://appcenter.ms)|||
 ._.
