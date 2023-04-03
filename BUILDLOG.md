@@ -129,9 +129,11 @@
 |Nemešany|[![Build status](https://build.appcenter.ms/v0.1/apps/47422199-e7a3-404a-9ed4-330d141868d9/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/0bb18a74-627d-4cbf-aa08-eae948e3c5ee/branches/master/badge)](https://appcenter.ms)|||
 |Unín|[![Build status](https://build.appcenter.ms/v0.1/apps/0c727e3e-4c07-430d-af7e-8a3905355ca0/branches/master/badge)](https://appcenter.ms)||||
 |Radošovce|[![Build status](https://build.appcenter.ms/v0.1/apps/e546e64f-f707-4d29-aba5-65f71e59d3c3/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/62a7eb7b-b78c-415c-a328-7c8b21344ef4/branches/master/badge)](https://appcenter.ms)|||
-|Vislava|[![Build status](https://build.appcenter.ms/v0.1/apps/8d4c58fd-36b8-456f-9227-05a082362e38/branches/master/badge)](https://appcenter.ms)||||
+|Vislava|[![Build status](https://build.appcenter.ms/v0.1/apps/8d4c58fd-36b8-456f-9227-05a082362e38/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/520f112c-c244-4ec4-a1ed-5b916fb92556/branches/master/badge)](https://appcenter.ms)|||
 |Rožňavské Bystré|[![Build status](https://build.appcenter.ms/v0.1/apps/e8b7a5dd-1e95-418f-91f1-95acf36c8687/branches/master/badge)](https://appcenter.ms)||||
 |Lukov|[![Build status](https://build.appcenter.ms/v0.1/apps/f75d7c2a-6eb9-4d4d-b675-b8c22d1ad8da/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/e932db26-8e8c-4e4c-9e4d-29c0f7296730/branches/master/badge)](https://appcenter.ms)|||
 |Oreské MI|[![Build status](https://build.appcenter.ms/v0.1/apps/1caa71da-ed49-41bc-bd02-8cdd7ede5575/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/33ea7d7e-de63-49ed-9ac1-b6bdb6a7bdcc/branches/master/badge)](https://appcenter.ms)|||
 |Danišovce|[![Build status](https://build.appcenter.ms/v0.1/apps/b3a7b852-f509-47cf-8174-b345397964f9/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/68dbfb85-6f5a-474f-ac44-580d6de68a07/branches/master/badge)](https://appcenter.ms)|||
+|Smrdáky|[![Build status](https://build.appcenter.ms/v0.1/apps/a2180f8b-0d15-4d84-9dcc-ecabc09d2e5d/branches/master/badge)](https://appcenter.ms)||||
+|Nová Kelča|[![Build status](https://build.appcenter.ms/v0.1/apps/ba7dd560-c6de-4975-b048-a509d8ddf54e/branches/master/badge)](https://appcenter.ms)||||
 ._.
