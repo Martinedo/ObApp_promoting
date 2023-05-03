@@ -121,7 +121,7 @@
 |[ZŠ Poráč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zsporac.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zsporac)|[1.9.0](https://apps.apple.com/sk/app/zš-poráč/id6443715894)|com.alphabetpartner.zsporac|zš-poráč/id6443715894|
 |[Mlynky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mlynky.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.mlynky)|[1.9.0](https://apps.apple.com/sk/app/mlynky/id6443777201)|com.alphabetpartner.mlynky|mlynky/id6443777201|
 |[Popudinské Močidľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/popudinskemocidlany.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.popudinskemocidlany)|[1.9.0](https://apps.apple.com/sk/app/popudinské-močidľany/id6443918816)|com.alphabetpartner.popudinskemocidlany|popudinské-močidľany/id6443918816|
-|[Jelka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/jelka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.jelka)|[1.9.0](https://apps.apple.com/sk/app/jelka/id6444156006)|com.alphabetpartner.jelka|jelka/id6444156006|
+|[Jelka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/jelka.md)|[1.9.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.jelka)|[1.9.1](https://apps.apple.com/sk/app/jelka/id6444156006)|com.alphabetpartner.jelka|jelka/id6444156006|
 |[Slatvina](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/slatvina.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.slatvina)|[1.9.0](https://apps.apple.com/sk/app/slatvina/id1665725723)|com.alphabetpartner.slatvina|slatvina/id1665725723|
 |[Spišský Hrhov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/spisskyhrhov.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.spisskyhrhov)|[1.9.0](https://apps.apple.com/sk/app/spišský-hrhov/id1668077861)|com.alphabetpartner.spisskyhrhov|spišský-hrhov/id1668077861|
 |[Závadka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zavadka.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zavadka)|[1.9.1](https://apps.apple.com/sk/app/závadka/id1668986903)|com.alphabetpartner.zavadka|závadka/id1668986903|
@@ -134,10 +134,12 @@
 |[Rožňavské Bystré](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/roznavskebystre.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.roznavskebystre)|[1.9.0](https://apps.apple.com/sk/app/rožňavské-bystré/id6446284397)|com.alphabetpartner.roznavskebystre|rožňavské-bystré/id6446284397|
 |[Lukov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lukov.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lukov)|[1.9.0](https://apps.apple.com/sk/app/lukov/id6446286215)|com.alphabetpartner.lukov|lukov/id6446286215|
 |[Oreské MI](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oreskemi.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.oreskemi)|[1.9.0](https://apps.apple.com/sk/app/oreské-mi/id6446902831)|com.alphabetpartner.oreskemi|oreské-mi/id6446902831|
-|[Danišovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/danisovce.md)|[-> 1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.danisovce)|[1.9.0](https://apps.apple.com/sk/app/danišovce/id6446602140)|com.alphabetpartner.danisovce|danišovce/id6446602140|
-|[Smrdáky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/smrdaky.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.smrdaky)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.smrdaky||
-|[Nová Kelča](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novakelca.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.novakelca)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.novakelca||
-|[Sveržov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sverzov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sverzov)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.sverzov||
+|[Danišovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/danisovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.danisovce)|[1.9.0](https://apps.apple.com/sk/app/danišovce/id6446602140)|com.alphabetpartner.danisovce|danišovce/id6446602140|
+|[Smrdáky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/smrdaky.md)|[-> 1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.smrdaky)|[-> 1.9.0](https://apps.apple.com/sk/app/smrdáky/id6447800483)|com.alphabetpartner.smrdaky|smrdáky/id6447800483|
+|[Nová Kelča](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novakelca.md)|[-> 1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.novakelca)|[-> 1.9.0](https://apps.apple.com/sk/app/nová-kelča/id6447800725)|com.alphabetpartner.novakelca|nová-kelča/id6447800725|
+|[Sveržov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sverzov.md)|[-> 1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.sverzov)|[-> 1.9.0](https://apps.apple.com/sk/app/sveržov/id6447801467)|com.alphabetpartner.sverzov|sveržov/id6447801467|
+|[Prievaly](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prievaly.md)|[-> 1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.prievaly)|[-> 1.9.1](https://apps.apple.com/sk/app/prievaly/id6448579494)|com.alphabetpartner.prievaly|prievaly/id6448579494|
+|[Rozhanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rozhanovce.md)|[-> 1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.rozhanovce)|[-> 1.9.1](https://apps.apple.com/sk/app/rozhanovce/id6448580003)|com.alphabetpartner.rozhanovce|rozhanovce/id6448580003|
 ._.
 
 ****
@@ -178,7 +180,7 @@
 - [mokraluka] pridaný modul s odkazom na FB obce
 - [mokraluka] pridaný modul s odkazom na FB obce
 - [tusice] je možné prijímať aj ďalšie okruhy notifikácií
-- [tusice] pridaná možnosť zaslať podnet starostovy
+- [tusice] pridaná možnosť zaslať podnet starostovi
 - [slavkovce] je možné prijímať aj ďalšie okruhy notifikácií
 - [vola] je možné prijímať aj ďalšie okruhy notifikácií
 - [kalava] je možné prijímať aj ďalšie okruhy notifikácií
@@ -187,7 +189,7 @@
 - [stretavka] je možné prijímať aj ďalšie okruhy notifikácií
 - [lozin] je možné prijímať aj ďalšie okruhy notifikácií
 - [jelka] pridaný modul s odkazom na FB obce
-- [malyslavkov] pridaná možnosť zaslať podnet starostovy
+- [malyslavkov] pridaná možnosť zaslať podnet starostovi
 - [celovce] pridaná podstránka pre Multifunkčné ihrisko
 - [kazimir] pridané Cirkevné oznamy
 - [hodkovce] pridané podnety pre starostu
@@ -222,7 +224,7 @@
 - [boliarov] je možné prijímať aj ďalšie okruhy notifikácií
 - [kovarce] je možné prijímať aj ďalšie okruhy notifikácií
 - [brodske] je možné prijímať aj ďalšie okruhy notifikácií
-- [velkelevare] pridaná možnosť zaslať podnet starostovy
+- [velkelevare] pridaná možnosť zaslať podnet starostovi
 - [novapolhora] je možné prijímať aj ďalšie okruhy notifikácií
 - [travnik] je možné prijímať aj ďalšie okruhy notifikácií
 - [circ] je možné prijímať aj ďalšie okruhy notifikácií
