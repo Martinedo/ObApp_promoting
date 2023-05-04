@@ -139,4 +139,5 @@
 |Sveržov|[![Build status](https://build.appcenter.ms/v0.1/apps/d57d5a4e-1024-4d3f-aa9d-cbd4322f0bf0/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/bfcc2636-df1d-48f1-a5bc-763dbfa3843b/branches/master/badge)](https://appcenter.ms)|||
 |Prievaly|[![Build status](https://build.appcenter.ms/v0.1/apps/e7ffc85e-85ce-4e1c-806b-18d572cb5b65/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/a6b49903-8038-436b-b3a6-0128c076528c/branches/master/badge)](https://appcenter.ms)|||
 |Rozhanovce|[![Build status](https://build.appcenter.ms/v0.1/apps/904a27f1-4266-4eff-b53b-5a7faacb4edc/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/8c4b3b88-4ec6-4ebc-a7f4-aaf66952eb82/branches/master/badge)](https://appcenter.ms)|||
+|Župčany|[![Build status](https://build.appcenter.ms/v0.1/apps/299a0a33-78ac-4cf3-b473-433c1f76dc09/branches/master/badge)](https://appcenter.ms)||||
 ._.
