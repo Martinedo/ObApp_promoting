@@ -140,7 +140,11 @@
 |[Sveržov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sverzov.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.sverzov)|[1.9.0](https://apps.apple.com/sk/app/sveržov/id6447801467)|com.alphabetpartner.sverzov|sveržov/id6447801467|
 |[Prievaly](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prievaly.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.prievaly)|[1.9.1](https://apps.apple.com/sk/app/prievaly/id6448579494)|com.alphabetpartner.prievaly|prievaly/id6448579494|
 |[Rozhanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rozhanovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.rozhanovce)|[1.9.1](https://apps.apple.com/sk/app/rozhanovce/id6448580003)|com.alphabetpartner.rozhanovce|rozhanovce/id6448580003|
-|[Župčany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zupcany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zupcany)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.zupcany||
+|[Župčany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zupcany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zupcany)|[](https://apps.apple.com/sk/app/župčany/id6448924522)|com.alphabetpartner.zupcany|župčany/id6448924522|
+|[Adidovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/adidovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.adidovce)|[-> 1.9.0](https://apps.apple.com/sk/app/adidovce/id6449394428)|com.alphabetpartner.adidovce|adidovce/id6449394428|
+|[ZMO Južný Zemplín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zmojuznyzemplin.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zmojuznyzemplin)|[](https://apps.apple.com/sk/app/zmo-južný-zemplín/id6449625818)|com.alphabetpartner.zmojuznyzemplin|zmo-južný-zemplín/id6449625818|
+|[Tatranská Javorina](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tatranskajavorina.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.tatranskajavorina)|[-> 1.9.0](https://apps.apple.com/sk/app/tatranská-javorina/id6449625773)|com.alphabetpartner.tatranskajavorina|tatranská-javorina/id6449625773|
+|[Žabokreky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zabokreky.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zabokreky)|[](https://apps.apple.com/sk/app/žabokreky/id6449502323)|com.alphabetpartner.zabokreky|žabokreky/id6449502323|
 ._.
 
 ****
@@ -148,6 +152,7 @@
 ## 1.10.X - 2023-X (develop)
 
 ### Pridané
+- Priamy odkaz na Zásady ochrany osobných údajov
 - [zliechov] pridaný odkaz na virtálny cintorín
 - [roznavskebystre] je možné prijímať aj ďalšie okruhy notifikácií
 - [lukov] pridané odkazy na informácie o Materskej a Základnej škole
@@ -156,7 +161,8 @@
 - 
 
 ### Opravy
-- Opravené otváranie webového prehliadaču na novších Android verziách.
+- opravené otváranie webového prehliadaču na novších Android verziách.
+- zobrazovanie zoznamu podnetov
 - [radosovce] Oprava súradníc obecného úradu
 
 # Changelog

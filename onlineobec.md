@@ -18,16 +18,18 @@ Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddele
 
 # Aktualizácie
 
-## 1.3.0 - 2022-XY (vo výrobe)
+## 1.2.4 - 2023-XY (vo výrobe)
 
 ### Pridané
-- 
+- Možnosť nastaviť dátum a čas odoslania textovej a hlasovej nahrávky
 
 ### Zmeny
-- 
+- Maximálna povolená dĺžka nahrávky je 1 minút a 30 sekúnd
 
 ### Opravy
-- 
+- textové polia sa už nezobrazujú tmavé na novších verziách Androidu, ktoré majú zapnutý tmavý režim
+- oprava analyzovania hlasu na text v prípade dlhšej hlasovej nahrávky a jej publikovanie
+- keď sa nahráva nová nahrávka aby bola pôvodná nahradená, tak sa správne vynuluje počítadlo dĺžky nahrávky
 
 ## 1.2.3 - 2023-02
 
