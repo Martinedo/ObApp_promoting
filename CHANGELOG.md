@@ -2,7 +2,7 @@
 
 | App | Android | iOS | ID | iOS link |
 |-----|-----|-----|-----|-----|
-|[Online úrad](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/onlineobec.md)|[1.2.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.obmayorapp)|[1.2.2](https://apps.apple.com/sk/app/online-úrad/id1578027584)|com.alphabetpartner.obmayorapp||
+|[Online úrad](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/onlineobec.md)|[1.2.4](https://play.google.com/store/apps/details?id=com.alphabetpartner.obmayorapp)|[1.2.4](https://apps.apple.com/sk/app/online-úrad/id1578027584)|com.alphabetpartner.obmayorapp||
 |[Demo Moderná Ves](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/modernaVes.md)|[1.5.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.obapp)|XX|com.alphabetpartner.obapp|online-úrad/id1578027584|
 |[Beloveža](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/beloveza.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza)|[1.9.0](https://apps.apple.com/sk/app/beloveža/id1536810459?l=sk)|com.alphabetpartner.beloveza|beloveža/id1536810459|
 |[Bošáca](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/bosaca.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.bosaca)|[1.9.0](https://apps.apple.com/sk/app/bošáca/id1539218953)|com.alphabetpartner.bosaca|bošáca/id1539218953|
@@ -135,16 +135,18 @@
 |[Lukov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lukov.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lukov)|[1.9.1](https://apps.apple.com/sk/app/lukov/id6446286215)|com.alphabetpartner.lukov|lukov/id6446286215|
 |[Oreské MI](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oreskemi.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.oreskemi)|[1.9.0](https://apps.apple.com/sk/app/oreské-mi/id6446902831)|com.alphabetpartner.oreskemi|oreské-mi/id6446902831|
 |[Danišovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/danisovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.danisovce)|[1.9.0](https://apps.apple.com/sk/app/danišovce/id6446602140)|com.alphabetpartner.danisovce|danišovce/id6446602140|
-|[Smrdáky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/smrdaky.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.smrdaky)|[1.9.0](https://apps.apple.com/sk/app/smrdáky/id6447800483)|com.alphabetpartner.smrdaky|smrdáky/id6447800483|
+|[Smrdáky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/smrdaky.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.smrdaky)|[-> 1.9.1](https://apps.apple.com/sk/app/smrdáky/id6447800483)|com.alphabetpartner.smrdaky|smrdáky/id6447800483|
 |[Nová Kelča](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novakelca.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.novakelca)|[1.9.0](https://apps.apple.com/sk/app/nová-kelča/id6447800725)|com.alphabetpartner.novakelca|nová-kelča/id6447800725|
 |[Sveržov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sverzov.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.sverzov)|[1.9.0](https://apps.apple.com/sk/app/sveržov/id6447801467)|com.alphabetpartner.sverzov|sveržov/id6447801467|
 |[Prievaly](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prievaly.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.prievaly)|[1.9.1](https://apps.apple.com/sk/app/prievaly/id6448579494)|com.alphabetpartner.prievaly|prievaly/id6448579494|
-|[Rozhanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rozhanovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.rozhanovce)|[1.9.1](https://apps.apple.com/sk/app/rozhanovce/id6448580003)|com.alphabetpartner.rozhanovce|rozhanovce/id6448580003|
-|[Župčany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zupcany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zupcany)|[](https://apps.apple.com/sk/app/župčany/id6448924522)|com.alphabetpartner.zupcany|župčany/id6448924522|
+|[Rozhanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rozhanovce.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.rozhanovce)|[1.9.2](https://apps.apple.com/sk/app/rozhanovce/id6448580003)|com.alphabetpartner.rozhanovce|rozhanovce/id6448580003|
+|[Župčany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zupcany.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zupcany)|[1.9.0](https://apps.apple.com/sk/app/župčany/id6448924522)|com.alphabetpartner.zupcany|župčany/id6448924522|
 |[Adidovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/adidovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.adidovce)|[1.9.0](https://apps.apple.com/sk/app/adidovce/id6449394428)|com.alphabetpartner.adidovce|adidovce/id6449394428|
 |[ZMO Južný Zemplín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zmojuznyzemplin.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zmojuznyzemplin)|[](https://apps.apple.com/sk/app/zmo-južný-zemplín/id6449625818)|com.alphabetpartner.zmojuznyzemplin|zmo-južný-zemplín/id6449625818|
 |[Tatranská Javorina](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tatranskajavorina.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.tatranskajavorina)|[1.9.0](https://apps.apple.com/sk/app/tatranská-javorina/id6449625773)|com.alphabetpartner.tatranskajavorina|tatranská-javorina/id6449625773|
-|[Žabokreky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zabokreky.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zabokreky)|[](https://apps.apple.com/sk/app/žabokreky/id6449502323)|com.alphabetpartner.zabokreky|žabokreky/id6449502323|
+|[Žabokreky](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zabokreky.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zabokreky)|[1.9.0](https://apps.apple.com/sk/app/žabokreky/id6449502323)|com.alphabetpartner.zabokreky|žabokreky/id6449502323|
+|[Mojzesovo](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/mojzesovo.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.mojzesovo)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.mojzesovo||
+|[Ruskov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ruskov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.ruskov)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.ruskov||
 ._.
 
 ****
@@ -156,9 +158,13 @@
 - [zliechov] pridaný odkaz na virtálny cintorín
 - [roznavskebystre] je možné prijímať aj ďalšie okruhy notifikácií
 - [lukov] pridané odkazy na informácie o Materskej a Základnej škole
+- [smrdaky] pridaná fotogaléria
+- [smrdaky] pridané farské oznamy
+- [rozhanovce] je možné prijímať aj ďalšie okruhy notifikácií
 
 ### Zmeny
-- 
+- [smrdaky] odstránenie prepojenia na Facebook
+- [rozhanovce] zmena prepojenia na farské oznamy aby boli zobrazené všetky cirkvy
 
 ### Opravy
 - opravené otváranie webového prehliadaču na novších Android verziách.

@@ -18,7 +18,18 @@ Ak máte záujem o aplikáciu pre Vašu obec kontaktujte naše [obchodné oddele
 
 # Aktualizácie
 
-## 1.2.4 - 2023-XY (vo výrobe)
+## 1.2.5 - 2023-XY (vo výrobe)
+
+### Pridané
+- 
+
+### Zmeny
+- 
+
+### Opravy
+- 
+
+## 1.2.4 - 2023-06
 
 ### Pridané
 - Možnosť nastaviť dátum a čas odoslania textovej a hlasovej nahrávky
