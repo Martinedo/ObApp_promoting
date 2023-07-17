@@ -6,6 +6,7 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android** a *
 | Android | iOS |
 |-----|--------|
 |<a href="https://play.google.com/store/apps/details?id=com.alphabetpartner.beloveza"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href="https://apps.apple.com/sk/app/beloveža/id1536810459?l=sk"><img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/download_on_app_store_sk.png" alt="iOS" width="300"/></a>|
+|<img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/QR_images/beloveza_android.png" alt="qr_android" width="300"/>|<img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/QR_images/beloveza_ios.png" alt="qr_iOS" width="300"/>|
 | Min - Android 5.0 Lollipop | Min - iOS 12.4 alebo novší |
 
 # Aktualizácie

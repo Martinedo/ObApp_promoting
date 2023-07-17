@@ -6,6 +6,7 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 | Android | iOS |
 |-----|--------|
 |<a href="https://play.google.com/store/apps/details?id=com.alphabetpartner.vislava"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/sk_badge_web_generic.png" alt="Android" width="350"/></a>|<a href="https://apps.apple.com/sk/app/vislava/id6446093497"><img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/download_on_app_store_sk.png" alt="iOS" width="300"/></a>|
+|<img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/QR_images/vislava_android.png" alt="qr_android" width="300"/>|<img src="https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/resources/QR_images/vislava_ios.png" alt="qr_iOS" width="300"/>|
 | Minimum - Android 5.0 Lollipop| Min - iOS 12.4 alebo novší |
 
 # Aktualizácie
