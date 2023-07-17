@@ -167,7 +167,10 @@
 
 ### Zmeny
 - [smrdaky] odstránenie prepojenia na Facebook
+- [trsteneprihornade] odstránenie prepojenia na Facebook
 - [rozhanovce] zmena prepojenia na farské oznamy aby boli zobrazené všetky cirkvy
+- zrýchlenie aplikácie pri slabšom internetovom pripojení
+- upravené texty aplikácie
 
 ### Opravy
 - opravené otváranie webového prehliadaču na novších Android verziách.
