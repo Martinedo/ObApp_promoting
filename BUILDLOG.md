@@ -150,4 +150,6 @@
 |Oľšavica|[![Build status](https://build.appcenter.ms/v0.1/apps/4780e75d-1290-4898-8b17-5c38b78cce23/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/1e88f95a-b6a5-4679-a445-1c12477c88c4/branches/master/badge)](https://appcenter.ms)|||
 |Podhradie|[![Build status](https://build.appcenter.ms/v0.1/apps/3913a3ac-ffbc-43da-8813-52bd51183727/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/dc7079fc-d56e-4fbf-8cd5-386102935ccb/branches/master/badge)](https://appcenter.ms)|||
 |Lenartov|[![Build status](https://build.appcenter.ms/v0.1/apps/475df60f-e0bf-4128-af33-a8f0403bbe7e/branches/master/badge)](https://appcenter.ms)||||
+|Horňany|[![Build status](https://build.appcenter.ms/v0.1/apps/fd589b3c-21ef-46ec-9415-23ff97506b99/branches/master/badge)](https://appcenter.ms)||||
+|Kanianka|[![Build status](https://build.appcenter.ms/v0.1/apps/620b13d9-a4ca-4553-8e37-a144997f2359/branches/master/badge)](https://appcenter.ms)||||
 ._.

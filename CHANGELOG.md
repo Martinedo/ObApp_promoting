@@ -150,6 +150,8 @@
 |[Oľšavica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/olsavica.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavica)|[1.9.0](https://apps.apple.com/sk/app/oľšavica/id6450856728)|com.alphabetpartner.olsavica|oľšavica/id6450856728|
 |[Podhradie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/podhradie.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.podhradie)|[1.9.0](https://apps.apple.com/sk/app/podhradie/id6450718560)|com.alphabetpartner.podhradie|podhradie/id6450718560|
 |[Lenartov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lenartov.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.lenartov)|[](https://apps.apple.com/sk/app/lenartov/id6451156866)|com.alphabetpartner.lenartov|lenartov/id6451156866|
+|[Horňany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hornany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.hornany)|[](https://apps.apple.com/sk/app/horňany/id6452840185)|com.alphabetpartner.hornany|horňany/id6452840185|
+|[Kanianka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kanianka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kanianka)|[](https://apps.apple.com/sk/app/kanianka/id6453604929)|com.alphabetpartner.kanianka|kanianka/id6453604929|
 ._.
 
 ****
@@ -157,7 +159,7 @@
 ## 1.10.X - 2023-X (develop)
 
 ### Pridané
-- Priamy odkaz na Zásady ochrany osobných údajov
+- priamy odkaz na Zásady ochrany osobných údajov
 - [zliechov] pridaný odkaz na virtálny cintorín
 - [roznavskebystre] je možné prijímať aj ďalšie okruhy notifikácií
 - [lukov] pridané odkazy na informácie o Materskej a Základnej škole
@@ -171,10 +173,13 @@
 - [rozhanovce] zmena prepojenia na farské oznamy aby boli zobrazené všetky cirkvy
 - zrýchlenie aplikácie pri slabšom internetovom pripojení
 - upravené texty aplikácie
+- nie je potrebná aktualizácia aplikácie v prípade zapnutia rozhlasu zo strany obce
+- [unin] zmena FB prepojenia
 
 ### Opravy
-- opravené otváranie webového prehliadaču na novších Android verziách.
+- opravené otváranie webového prehliadaču na novších Android verziách
 - zobrazovanie zoznamu podnetov
+- oprava zobrazovania notifikácia na novších Android verziách
 - [radosovce] Oprava súradníc obecného úradu
 
 # Changelog
@@ -229,6 +234,7 @@
 - padanie aplikácie v prípade nekorektného obrázku na web stránke
 - oprava gramatických chýb v texte 👌
 - pri niektorých článkoch nebolo možné doscrolovať na koniec stranky
+- oprava zobrazovania notifikácií ak je aplikácia zapnutá na najnovších Android zariadeniach
 - [staravoda] oprevené prepojenie na obec v kocke
 
 ## 1.8.X - 2022-04
