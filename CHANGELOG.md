@@ -39,7 +39,7 @@
 |[Hrašovík](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/hrasovik.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.hrasovik)|[1.9.0](https://apps.apple.com/sk/app/hrašovík/id1548547446)|com.alphabetpartner.hrasovik|hrašovík/id1548547446|
 |[Smolinské](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/smolinske.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.smolinske)|[1.9.0](https://apps.apple.com/sk/app/smolinské/id1552777234)|com.alphabetpartner.smolinske|smolinské/id1552777234|
 |[Zliechov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zliechov.md)|[1.7.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.zliechov2)|[1.9.0](https://apps.apple.com/sk/app/zliechov/id1552779355)|com.alphabetpartner.zliechov2|zliechov/id1552779355|
-|[Trstené pri Hornáde](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/trsteneprihornade.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.trsteneprihornade)|[1.9.0](https://apps.apple.com/sk/app/trstené-pri-hornáde/id1554933723)|com.alphabetpartner.trsteneprihornade|trstené-pri-hornáde/id1554933723|
+|[Trstené pri Hornáde](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/trsteneprihornade.md)|[1.9.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.trsteneprihornade)|[1.9.1](https://apps.apple.com/sk/app/trstené-pri-hornáde/id1554933723)|com.alphabetpartner.trsteneprihornade|trstené-pri-hornáde/id1554933723|
 |[Michaľany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/michalany.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.michalany)|[1.9.0](https://apps.apple.com/sk/app/michaľany/id1557764825)|com.alphabetpartner.michalany|michaľany/id1557764825|
 |[Radnovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radnovce.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.radnovce)|[1.9.0](https://apps.apple.com/sk/app/radnovce/id1557766079)|com.alphabetpartner.radnovce|radnovce/id1557766079|
 |[Prietržka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/prietrzka.md)|[1.9.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.prietrzka)|[1.9.0](https://apps.apple.com/sk/app/prietržka/id1559796097)|com.alphabetpartner.prietrzka|prietržka/id1559796097|
@@ -162,10 +162,33 @@
 - priamy odkaz na Zásady ochrany osobných údajov
 - [zliechov] pridaný odkaz na virtálny cintorín
 - [roznavskebystre] je možné prijímať aj ďalšie okruhy notifikácií
+- [oreskemi] je možné prijímať aj ďalšie okruhy notifikácií
 - [lukov] pridané odkazy na informácie o Materskej a Základnej škole
 - [smrdaky] pridaná fotogaléria
 - [smrdaky] pridané farské oznamy
 - [rozhanovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [olsavce] pridaný kalendár zberu odpadu ♻️
+- [zliechov] pridaná fotogaléria
+- [novapolhora] pridaná fotogaléria
+- [slovenskepravno] je možné prijímať aj ďalšie okruhy notifikácií
+- [tisinec] pridaná fotogaléria
+- [bol] pridaná fotogaléria
+- [vola] pridaná fotogaléria
+- [staravoda] pridaná fotogaléria
+- [borova] je možné prijímať aj ďalšie okruhy notifikácií
+- [nemesany] je možné prijímať aj ďalšie okruhy notifikácií
+- [radosovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [lukov] je možné prijímať aj ďalšie okruhy notifikácií
+- [novakelca] je možné prijímať aj ďalšie okruhy notifikácií
+- [sverzov] je možné prijímať aj ďalšie okruhy notifikácií
+- [prievali] je možné prijímať aj ďalšie okruhy notifikácií
+- [adidovce] je možné prijímať aj ďalšie okruhy notifikácií
+- [tatranskajavorina] je možné prijímať aj ďalšie okruhy notifikácií
+- [mojzesovo] je možné prijímať aj ďalšie okruhy notifikácií
+- [ruskov] je možné prijímať aj ďalšie okruhy notifikácií
+- [olsavica] je možné prijímať aj ďalšie okruhy notifikácií
+- [podhradie] je možné prijímať aj ďalšie okruhy notifikácií
+
 
 ### Zmeny
 - [smrdaky] odstránenie prepojenia na Facebook
@@ -175,12 +198,30 @@
 - upravené texty aplikácie
 - nie je potrebná aktualizácia aplikácie v prípade zapnutia rozhlasu zo strany obce
 - [unin] zmena FB prepojenia
+- [prievaly] odstránenie nefunkčného prepojenia na farské oznamy
+- [buzitka] odstránenie nefunkčného prepojenia na farské oznamy
 
 ### Opravy
 - opravené otváranie webového prehliadaču na novších Android verziách
 - zobrazovanie zoznamu podnetov
 - oprava zobrazovania notifikácia na novších Android verziách
-- [radosovce] Oprava súradníc obecného úradu
+- [radosovce] oprava súradníc obecného úradu
+- [beloveza] oprava zobrazovania fotogalérie
+- [beloveza] oprava zobrazovania histórie obce
+- [cecehov] oprava zobrazovania fotogalérie
+- [cecehov] oprava zobrazovania histórie obce
+- [vchlievany] oprava zobrazovania farských oznamov
+- [sekule] oprava zobrazovania farských oznamov
+- [kotrcinalucka] oprava prepojenia na históriu/kroniku
+- [kotrcinalucka] oprava zobrazovania farských oznamov
+- [kotrcinalucka] oprava zobrazovania fotogalérie
+- [hrasovik] oprava zobrazovania farských oznamov
+- [radosovce] oprava zobrazovania Facebooku
+- [helcmanovce] oprava zobrazovania farských oznamov
+- [oponice] oprava zobrazovania farských oznamov
+- [slavkovce] oprava zobrazovania farských oznamov
+- [vozokany] oprava zobrazovania Facebooku
+
 
 # Changelog
 
