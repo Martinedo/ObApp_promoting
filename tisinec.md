@@ -11,6 +11,43 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.10.0 - 2023-08
+
+### Pridané
+- priamy odkaz na Zásady ochrany osobných údajov
+- pridaná fotogaléria
+
+### Zmeny
+- zrýchlenie aplikácie pri slabšom internetovom pripojení
+- upravené texty aplikácie
+- nie je potrebná aktualizácia aplikácie v prípade zapnutia rozhlasu zo strany obce
+
+### Opravy
+- opravené otváranie webového prehliadaču na novších Android verziách
+- zobrazovanie zoznamu podnetov
+- oprava zobrazovania notifikácia na novších Android verziách
+
+## 1.9.0 - 2022-11
+
+### Pridané
+- aplikácia je kompatibilná s najnovšími Android zariadeniami
+- chodia notifikácie aj na nové-špecifické kategórie obce 📣
+- doplnené ďalšie preklady do ostatných jazykov
+
+### Zmeny
+- zrýchlené získavanie údajov o počasí 🌞
+- pri niektorých typoch dokumentov nebolo možné zobraziť ukážku priamo v aplikácií a preto sa dokument otvorí v prehliadači
+- graficke doladenia aby boli všetky prvky jednotné
+
+### Opravy
+- upozornenia sa správne zapínajú/vypínajú v prípade kliknutia na prepínač
+- po príchode push notifikácie sa správa v aplikácií zobrazuje hneď
+- nezobrazujú sa už notifikácie, ktoré boli odstránené
+- padanie aplikácie v prípade nekorektného obrázku na web stránke
+- oprava gramatických chýb v texte 👌
+- pri niektorých článkoch nebolo možné doscrolovať na koniec stranky
+- oprava zobrazovania notifikácií ak je aplikácia zapnutá na najnovších Android zariadeniach
+
 ## 1.8.0 - 2022-09
 
 ### Pridané

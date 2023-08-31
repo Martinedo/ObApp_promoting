@@ -159,6 +159,8 @@
 
 ****
 
+# Changelog
+
 ## 1.11.X - 2023-X (develop)
 
 ### Pridané
@@ -196,7 +198,6 @@
 - [olsavica] je možné prijímať aj ďalšie okruhy notifikácií
 - [podhradie] je možné prijímať aj ďalšie okruhy notifikácií
 
-
 ### Zmeny
 - [smrdaky] odstránenie prepojenia na Facebook
 - [trsteneprihornade] odstránenie prepojenia na Facebook
@@ -229,10 +230,7 @@
 - [slavkovce] oprava zobrazovania farských oznamov
 - [vozokany] oprava zobrazovania Facebooku
 
-
-# Changelog
-
-## 1.9.X - 2022-11 (stable)
+## 1.9.X - 2022-11
 
 ### Pridané
 - aplikácia je kompatibilná s najnovšími Android zariadeniami
@@ -267,7 +265,6 @@
 - [celovce] pridaná podstránka pre Multifunkčné ihrisko
 - [kazimir] pridané Cirkevné oznamy
 - [hodkovce] pridané podnety pre starostu
-
 
 ### Zmeny
 - zrýchlené získavanie údajov o počasí 🌞

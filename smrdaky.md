@@ -11,6 +11,24 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
+## 1.10.0 - 2023-08
+
+### Pridané
+- priamy odkaz na Zásady ochrany osobných údajov
+- pridaná fotogaléria
+- pridané farské oznamy
+
+### Zmeny
+- odstránenie prepojenia na Facebook
+- zrýchlenie aplikácie pri slabšom internetovom pripojení
+- upravené texty aplikácie
+- nie je potrebná aktualizácia aplikácie v prípade zapnutia rozhlasu zo strany obce
+
+### Opravy
+- opravené otváranie webového prehliadaču na novších Android verziách
+- zobrazovanie zoznamu podnetov
+- oprava zobrazovania notifikácia na novších Android verziách
+
 ## 1.9.0 - 2023-04
 
 ### Prvá verzia
