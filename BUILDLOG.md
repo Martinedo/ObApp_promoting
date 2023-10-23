@@ -159,4 +159,6 @@
 |Oľšavka|[![Build status](https://build.appcenter.ms/v0.1/apps/38a0d7ea-6f80-41e4-847e-831b6d9d5a91/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/5683ae2e-6d53-4658-98b2-620c93d4e344/branches/master/badge)](https://appcenter.ms)|||
 |Nový Ruskov|[![Build status](https://build.appcenter.ms/v0.1/apps/f06f0432-7a62-43c3-8b5b-227fe8cbcb9e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/52f928e2-68c3-4060-ae8a-6b953b020aa4/branches/master/badge)](https://appcenter.ms)|||
 |Trnovec|[![Build status](https://build.appcenter.ms/v0.1/apps/28ad3486-6f39-432c-b4ba-280252c0a62a/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/92a112ad-cd34-429f-a37e-dcb8d6e312c0/branches/master/badge)](https://appcenter.ms)|||
+|Krásnovce|[![Build status](https://build.appcenter.ms/v0.1/apps/40fe030f-4a4f-4b84-85c2-4216f912f445/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/421bb43d-3b64-4825-8b3f-bc5eea55dbae/branches/master/badge)](https://appcenter.ms)|||
+|Dolná Mičiná|[![Build status](https://build.appcenter.ms/v0.1/apps/0c16831a-864e-404a-ad8e-7ea65daf66d6/branches/master/badge)](https://appcenter.ms)||||
 ._.

@@ -159,6 +159,8 @@
 |[Oľšavka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/olsavka.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.olsavka)|[1.10.0](https://apps.apple.com/sk/app/oľšavka/id6469048702)|com.alphabetpartner.olsavka|oľšavka/id6469048702|
 |[Nový Ruskov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/novyruskov.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.novyruskov)|[1.10.0](https://apps.apple.com/sk/app/nový-ruskov/id6467429421)|com.alphabetpartner.novyruskov|nový-ruskov/id6467429421|
 |[Trnovec](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/trnovec.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.trnovec)|[1.10.0](https://apps.apple.com/sk/app/trnovec/id6468965030)|com.alphabetpartner.trnovec|trnovec/id6468965030|
+|[Krásnovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/krasnovce.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.krasnovce)|[-> 1.10.0](https://apps.apple.com/sk/app/krásnovce/id6470204359)|com.alphabetpartner.krasnovce|krásnovce/id6470204359|
+|[Dolná Mičiná](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dolnamicina.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.dolnamicina)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.dolnamicina||
 ._.
 
 ****
