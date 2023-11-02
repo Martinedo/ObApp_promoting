@@ -161,4 +161,6 @@
 |Trnovec|[![Build status](https://build.appcenter.ms/v0.1/apps/28ad3486-6f39-432c-b4ba-280252c0a62a/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/92a112ad-cd34-429f-a37e-dcb8d6e312c0/branches/master/badge)](https://appcenter.ms)|||
 |Krásnovce|[![Build status](https://build.appcenter.ms/v0.1/apps/40fe030f-4a4f-4b84-85c2-4216f912f445/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/421bb43d-3b64-4825-8b3f-bc5eea55dbae/branches/master/badge)](https://appcenter.ms)|||
 |Dolná Mičiná|[![Build status](https://build.appcenter.ms/v0.1/apps/0c16831a-864e-404a-ad8e-7ea65daf66d6/branches/master/badge)](https://appcenter.ms)||||
+|OLÚP Predná Hora|[![Build status](https://build.appcenter.ms/v0.1/apps/e7d9ca61-9461-4e2b-ad05-ec55b345b0cc/branches/master/badge)](https://appcenter.ms)||||
+|Veľká Tŕňa|[![Build status](https://build.appcenter.ms/v0.1/apps/3336f06e-065a-4dd2-ad7f-d8a0768c4dc4/branches/master/badge)](https://appcenter.ms)||||
 ._.
