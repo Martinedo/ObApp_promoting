@@ -1,4 +1,4 @@
-Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, kalendár zberu odpadu, farské oznamy, história, podnety, fotogaléria, užitočné návody, zasielanie dôležitých notifikácií a všetky ostatné informácie pre občana.
+Obecná aplikácia do mobilných telefónov. Na jednom mieste aktuality, udalosti, informácie z obecného úradu, počasie, kalendár zberu odpadu, história, užitočné návody, zasielanie dôležitých notifikácií a všetky ostatné informácie pre občana.
 
 # Kde sa dá aplikácia stiahnúť?
 Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **Apple iOS**. V prípade, že si nie ste istý, ktorý operačný systém máte na svojom mobile, opýtajte sa svojích známych.
@@ -11,7 +11,7 @@ Aplikácia je dostupná **bezplatne** na operačných systémoch **Android**, **
 
 # Aktualizácie
 
-## 1.8.0 - 2022-08
+## 1.10.0 - 2023-11
 
 ### Prvá verzia
 - úvodné vydanie aplikácie

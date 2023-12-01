@@ -114,7 +114,7 @@
 |Voľa|[![Build status](https://build.appcenter.ms/v0.1/apps/9fd4ee0c-1a33-4766-b9dc-e79eb7f820a8/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/cca8edc4-949f-401e-bacd-dc95a3310a6e/branches/master/badge)](https://appcenter.ms)|||
 |Kaľava|[![Build status](https://build.appcenter.ms/v0.1/apps/181548a9-769f-4f3d-8ee4-73d15b844e93/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/026f7b76-5125-4bb3-b86b-d2a2c5a9f065/branches/master/badge)](https://appcenter.ms)|||
 |Stará Voda|[![Build status](https://build.appcenter.ms/v0.1/apps/bf3b44dd-57cf-4efc-9efd-446ea3c768d3/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/580075e4-af1b-42f1-879f-115fd0728fb2/branches/master/badge)](https://appcenter.ms)|||
-|Krásnohorská Dlhá Lúka|[![Build status](https://build.appcenter.ms/v0.1/apps/9909e93f-c871-43cd-90c6-9442d683d24f/branches/master/badge)](https://appcenter.ms)||||
+|Krásnohorská Dlhá Lúka|[![Build status](https://build.appcenter.ms/v0.1/apps/9909e93f-c871-43cd-90c6-9442d683d24f/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/17df77aa-e444-40a1-aaa1-eb26376f8460/branches/master/badge)](https://appcenter.ms)|||
 |Stretavka|[![Build status](https://build.appcenter.ms/v0.1/apps/6ec5b8b8-4967-4495-9073-40988a44bd6f/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/ef69337d-23e5-447c-851f-656bafeda222/branches/master/badge)](https://appcenter.ms)|||
 |Vyšný Kručov|[![Build status](https://build.appcenter.ms/v0.1/apps/1e33dc24-9fd8-43c9-b866-9b0824cddeb8/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/fd843b0f-6e87-4ab5-82c7-0c252e3f3ff8/branches/master/badge)](https://appcenter.ms)|||
 |Ložín|[![Build status](https://build.appcenter.ms/v0.1/apps/75022a29-142a-49d7-b8c4-8c7365620225/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/6cb1a082-149f-487e-bc00-9ce393c5bb20/branches/master/badge)](https://appcenter.ms)|||
@@ -163,4 +163,8 @@
 |Dolná Mičiná|[![Build status](https://build.appcenter.ms/v0.1/apps/0c16831a-864e-404a-ad8e-7ea65daf66d6/branches/master/badge)](https://appcenter.ms)||||
 |OLÚP Predná Hora|[![Build status](https://build.appcenter.ms/v0.1/apps/e7d9ca61-9461-4e2b-ad05-ec55b345b0cc/branches/master/badge)](https://appcenter.ms)||||
 |Veľká Tŕňa|[![Build status](https://build.appcenter.ms/v0.1/apps/3336f06e-065a-4dd2-ad7f-d8a0768c4dc4/branches/master/badge)](https://appcenter.ms)||||
+|Malá Tŕňa|[![Build status](https://build.appcenter.ms/v0.1/apps/d350cc14-ea72-4698-8197-e7f05fec8c3e/branches/master/badge)](https://appcenter.ms)||||
+|Zádiel|[![Build status](https://build.appcenter.ms/v0.1/apps/77949972-d610-4df7-b9a7-b626375a2610/branches/master/badge)](https://appcenter.ms)||||
+|Ubd Ťahanovce|[![Build status](https://build.appcenter.ms/v0.1/apps/beb7d123-b0ef-4ee5-b6ca-81bd454b5141/branches/master/badge)](https://appcenter.ms)||||
+|Kamenec pod Vtáčnikom|[![Build status](https://build.appcenter.ms/v0.1/apps/b5ed1f75-074b-47c4-b0c0-b98afdb08b3e/branches/master/badge)](https://appcenter.ms)||||
 ._.
