@@ -160,11 +160,11 @@
 |Nový Ruskov|[![Build status](https://build.appcenter.ms/v0.1/apps/f06f0432-7a62-43c3-8b5b-227fe8cbcb9e/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/52f928e2-68c3-4060-ae8a-6b953b020aa4/branches/master/badge)](https://appcenter.ms)|||
 |Trnovec|[![Build status](https://build.appcenter.ms/v0.1/apps/28ad3486-6f39-432c-b4ba-280252c0a62a/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/92a112ad-cd34-429f-a37e-dcb8d6e312c0/branches/master/badge)](https://appcenter.ms)|||
 |Krásnovce|[![Build status](https://build.appcenter.ms/v0.1/apps/40fe030f-4a4f-4b84-85c2-4216f912f445/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/421bb43d-3b64-4825-8b3f-bc5eea55dbae/branches/master/badge)](https://appcenter.ms)|||
-|Dolná Mičiná|[![Build status](https://build.appcenter.ms/v0.1/apps/0c16831a-864e-404a-ad8e-7ea65daf66d6/branches/master/badge)](https://appcenter.ms)||||
+|Dolná Mičiná|[![Build status](https://build.appcenter.ms/v0.1/apps/0c16831a-864e-404a-ad8e-7ea65daf66d6/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/1b11d14d-9f4b-4f4a-a70a-4499263cfb02/branches/master/badge)](https://appcenter.ms)|||
 |OLÚP Predná Hora|[![Build status](https://build.appcenter.ms/v0.1/apps/e7d9ca61-9461-4e2b-ad05-ec55b345b0cc/branches/master/badge)](https://appcenter.ms)||||
-|Veľká Tŕňa|[![Build status](https://build.appcenter.ms/v0.1/apps/3336f06e-065a-4dd2-ad7f-d8a0768c4dc4/branches/master/badge)](https://appcenter.ms)||||
+|Veľká Tŕňa|[![Build status](https://build.appcenter.ms/v0.1/apps/3336f06e-065a-4dd2-ad7f-d8a0768c4dc4/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/499a216b-6ce4-43aa-a8a6-f10cde040d21/branches/master/badge)](https://appcenter.ms)|||
 |Malá Tŕňa|[![Build status](https://build.appcenter.ms/v0.1/apps/d350cc14-ea72-4698-8197-e7f05fec8c3e/branches/master/badge)](https://appcenter.ms)||||
-|Zádiel|[![Build status](https://build.appcenter.ms/v0.1/apps/77949972-d610-4df7-b9a7-b626375a2610/branches/master/badge)](https://appcenter.ms)||||
+|Zádiel|[![Build status](https://build.appcenter.ms/v0.1/apps/77949972-d610-4df7-b9a7-b626375a2610/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/4a27692f-2128-4557-a12d-18e485d7e2a7/branches/master/badge)](https://appcenter.ms)|||
 |Ubd Ťahanovce|[![Build status](https://build.appcenter.ms/v0.1/apps/beb7d123-b0ef-4ee5-b6ca-81bd454b5141/branches/master/badge)](https://appcenter.ms)||||
 |Kamenec pod Vtáčnikom|[![Build status](https://build.appcenter.ms/v0.1/apps/b5ed1f75-074b-47c4-b0c0-b98afdb08b3e/branches/master/badge)](https://appcenter.ms)||||
 ._.
