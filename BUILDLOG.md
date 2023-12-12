@@ -167,4 +167,5 @@
 |Zádiel|[![Build status](https://build.appcenter.ms/v0.1/apps/77949972-d610-4df7-b9a7-b626375a2610/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/4a27692f-2128-4557-a12d-18e485d7e2a7/branches/master/badge)](https://appcenter.ms)|||
 |Ubd Ťahanovce|[![Build status](https://build.appcenter.ms/v0.1/apps/beb7d123-b0ef-4ee5-b6ca-81bd454b5141/branches/master/badge)](https://appcenter.ms)||||
 |Kamenec pod Vtáčnikom|[![Build status](https://build.appcenter.ms/v0.1/apps/b5ed1f75-074b-47c4-b0c0-b98afdb08b3e/branches/master/badge)](https://appcenter.ms)||||
+|Slančík|||||
 ._.
