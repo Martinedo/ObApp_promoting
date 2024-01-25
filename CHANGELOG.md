@@ -125,7 +125,7 @@
 |[Slatvina](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/slatvina.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.slatvina)|[1.10.0](https://apps.apple.com/sk/app/slatvina/id1665725723)|com.alphabetpartner.slatvina|slatvina/id1665725723|
 |[Spišský Hrhov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/spisskyhrhov.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.spisskyhrhov)|[1.10.0](https://apps.apple.com/sk/app/spišský-hrhov/id1668077861)|com.alphabetpartner.spisskyhrhov|spišský-hrhov/id1668077861|
 |[Závadka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zavadka.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zavadka)|[1.10.0](https://apps.apple.com/sk/app/závadka/id1668986903)|com.alphabetpartner.zavadka|závadka/id1668986903|
-|[Dubovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dubovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.dubovce)|[1.10.0](https://apps.apple.com/sk/app/dubovce/id1669689243)|com.alphabetpartner.dubovce|dubovce/id1669689243|
+|[Dubovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dubovce.md)|[-> 1.10.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.dubovce)|[1.10.1](https://apps.apple.com/sk/app/dubovce/id1669689243)|com.alphabetpartner.dubovce|dubovce/id1669689243|
 |[Borová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/borova.md)|[1.10.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.borova)|[1.10.1](https://apps.apple.com/sk/app/borová/id1671604050)|com.alphabetpartner.borova|borová/id1671604050|
 |[Nemešany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/nemesany.md)|[1.10.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.nemesany)|[1.10.1](https://apps.apple.com/sk/app/nemešany/id6445964978)|com.alphabetpartner.nemesany|nemešany/id6445964978|
 |[Unín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/unin.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.unin)|[1.10.0](https://apps.apple.com/sk/app/unín/id6451190095)|com.alphabetpartner.unin|unín/id6451190095|
@@ -169,8 +169,11 @@
 |[Kamenec pod Vtáčnikom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kamenecpodvtacnikom.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.kamenecpodvtacnikom)|[1.10.0](https://apps.apple.com/sk/app/kamenec-pod-vtáčnikom/id6473790887)|com.alphabetpartner.kamenecpodvtacnikom|kamenec-pod-vtáčnikom/id6473790887|
 |[Slančík](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/slancik.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.slancik)|[1.10.0](https://apps.apple.com/sk/app/slančík/id6474440445)|com.alphabetpartner.slancik|slančík/id6474440445|
 |[Kráľovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kralovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.kralovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.kralovce||
-|[Plaveč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/plavec.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.plavec)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.plavec||
-|[Hôrka nad Váhom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/horkanadvahom.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.horkanadvahom)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.horkanadvahom||
+|[Plaveč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/plavec.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.plavec)|[](https://apps.apple.com/sk/app/plaveč/id6475312503)|com.alphabetpartner.plavec|plaveč/id6475312503|
+|[Hôrka nad Váhom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/horkanadvahom.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.horkanadvahom)|[](https://apps.apple.com/sk/app/hôrka-nad-váhom/id6475313004)|com.alphabetpartner.horkanadvahom|hôrka-nad-váhom/id6475313004|
+|[Bašovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/basovce.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.basovce)|[-> 1.10.0](https://apps.apple.com/sk/app/bašovce/id6475772858)|com.alphabetpartner.basovce|bašovce/id6475772858|
+|[Poproč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/poproc.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.poproc)|[](https://apps.apple.com/sk/app/poproč/id6476145038)|com.alphabetpartner.poproc|poproč/id6476145038|
+|[Priekopa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/priekopa.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.priekopa)|[](https://apps.apple.com/sk/app/priekopa/id6476560849)|com.alphabetpartner.priekopa|priekopa/id6476560849|
 ._.
 
 ****
@@ -182,6 +185,7 @@
 ### Pridané
 - [zsporac] pridaný odkaz na jedálny lístok
 - [domanovce] pridaný odkaz na rezerváciu multifunkčného ihriska
+- [dubovce] pridaná podstránka rezervácii kultúrneho domu
 
 ### Zmeny
 - 
