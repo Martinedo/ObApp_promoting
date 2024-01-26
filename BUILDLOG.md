@@ -172,6 +172,6 @@
 |Plaveč|[![Build status](https://build.appcenter.ms/v0.1/apps/c30f6ab4-616d-4d1d-a9a3-ab42f81aa08c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/47a5aeb7-d33d-4865-adf3-4d399ac8360a/branches/master/badge)](https://appcenter.ms)|||
 |Hôrka nad Váhom|[![Build status](https://build.appcenter.ms/v0.1/apps/e586f910-2c44-45a3-8ecf-0b504d6f3608/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/9bc87f13-b294-4f40-b9ea-bd04675c2d7e/branches/master/badge)](https://appcenter.ms)|||
 |Bašovce|[![Build status](https://build.appcenter.ms/v0.1/apps/c8152390-e952-4725-b3c0-5702abbb6e70/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/21ba170c-d733-4367-bd2b-bee277966143/branches/master/badge)](https://appcenter.ms)|||
-|Poproč|[![Build status](https://build.appcenter.ms/v0.1/apps/cf30ec71-b27c-46e6-b1b0-1a5e366c5633/branches/master/badge)](https://appcenter.ms)||||
+|Poproč|[![Build status](https://build.appcenter.ms/v0.1/apps/cf30ec71-b27c-46e6-b1b0-1a5e366c5633/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/fe135e2e-bb3b-48a1-99c1-119e2387ff9a/branches/master/badge)](https://appcenter.ms)|||
 |Priekopa|[![Build status](https://build.appcenter.ms/v0.1/apps/afe0de5e-cebb-4272-9d27-609e4e11e669/branches/master/badge)](https://appcenter.ms)||||
 ._.
