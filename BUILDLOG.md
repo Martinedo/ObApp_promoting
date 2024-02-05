@@ -174,4 +174,6 @@
 |Bašovce|[![Build status](https://build.appcenter.ms/v0.1/apps/c8152390-e952-4725-b3c0-5702abbb6e70/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/21ba170c-d733-4367-bd2b-bee277966143/branches/master/badge)](https://appcenter.ms)|||
 |Poproč|[![Build status](https://build.appcenter.ms/v0.1/apps/cf30ec71-b27c-46e6-b1b0-1a5e366c5633/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/fe135e2e-bb3b-48a1-99c1-119e2387ff9a/branches/master/badge)](https://appcenter.ms)|||
 |Priekopa|[![Build status](https://build.appcenter.ms/v0.1/apps/afe0de5e-cebb-4272-9d27-609e4e11e669/branches/master/badge)](https://appcenter.ms)||||
+|Lipník|[![Build status](https://build.appcenter.ms/v0.1/apps/e43895a0-fea2-4ce2-9bb3-d47090dd8e7c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/c31fc68a-906c-49ea-9f56-5fa8fa887fed/branches/master/badge)](https://appcenter.ms)|||
+|Komárany|[![Build status](https://build.appcenter.ms/v0.1/apps/86a1db39-f497-4ccc-9400-7b60e5e022ca/branches/master/badge)](https://appcenter.ms)||||
 ._.

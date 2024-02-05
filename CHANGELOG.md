@@ -131,7 +131,7 @@
 |[Unín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/unin.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.unin)|[1.10.0](https://apps.apple.com/sk/app/unín/id6451190095)|com.alphabetpartner.unin|unín/id6451190095|
 |[Radošovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/radosovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.radosovce)|[1.10.0](https://apps.apple.com/sk/app/radošovce/id6446092795)|com.alphabetpartner.radosovce|radošovce/id6446092795|
 |[Vislava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/vislava.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.vislava)|[](https://apps.apple.com/sk/app/vislava/id6446093497)|com.alphabetpartner.vislava|vislava/id6446093497|
-|[Rožňavské Bystré](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/roznavskebystre.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.roznavskebystre)|[1.10.0](https://apps.apple.com/sk/app/rožňavské-bystré/id6446284397)|com.alphabetpartner.roznavskebystre|rožňavské-bystré/id6446284397|
+|[Rožňavské Bystré](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/roznavskebystre.md)|[1.10.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.roznavskebystre)|[1.10.1](https://apps.apple.com/sk/app/rožňavské-bystré/id6446284397)|com.alphabetpartner.roznavskebystre|rožňavské-bystré/id6446284397|
 |[Lukov](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lukov.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lukov)|[1.10.0](https://apps.apple.com/sk/app/lukov/id6446286215)|com.alphabetpartner.lukov|lukov/id6446286215|
 |[Oreské MI](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/oreskemi.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.oreskemi)|[1.10.0](https://apps.apple.com/sk/app/oreské-mi/id6446902831)|com.alphabetpartner.oreskemi|oreské-mi/id6446902831|
 |[Danišovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/danisovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.danisovce)|[1.10.0](https://apps.apple.com/sk/app/danišovce/id6446602140)|com.alphabetpartner.danisovce|danišovce/id6446602140|
@@ -174,6 +174,8 @@
 |[Bašovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/basovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.basovce)|[1.10.0](https://apps.apple.com/sk/app/bašovce/id6475772858)|com.alphabetpartner.basovce|bašovce/id6475772858|
 |[Poproč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/poproc.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.poproc)|[1.10.0](https://apps.apple.com/sk/app/poproč/id6476145038)|com.alphabetpartner.poproc|poproč/id6476145038|
 |[Priekopa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/priekopa.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.priekopa)|[](https://apps.apple.com/sk/app/priekopa/id6476560849)|com.alphabetpartner.priekopa|priekopa/id6476560849|
+|[Lipník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipnik.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipnik)|[-> 1.10.0](https://apps.apple.com/sk/app/lipník/id6476978021)|com.alphabetpartner.lipnik|lipník/id6476978021|
+|[Komárany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/komarany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.komarany)|[](https://apps.apple.com/sk/app/komárany/id6476978270)|com.alphabetpartner.komarany|komárany/id6476978270|
 ._.
 
 ****
@@ -186,6 +188,7 @@
 - [zsporac] pridaný odkaz na jedálny lístok
 - [domanovce] pridaný odkaz na rezerváciu multifunkčného ihriska
 - [dubovce] pridaná podstránka rezervácii kultúrneho domu
+- ak existuje viacero kontaktných čísel zobrazí sa aj viacero tlačidiel na kontakt
 
 ### Zmeny
 - 
