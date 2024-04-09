@@ -176,5 +176,5 @@
 |Priekopa|[![Build status](https://build.appcenter.ms/v0.1/apps/afe0de5e-cebb-4272-9d27-609e4e11e669/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/027e4126-3d64-4a7e-aef7-c3e4653aec4c/branches/master/badge)](https://appcenter.ms)|||
 |Lipník|[![Build status](https://build.appcenter.ms/v0.1/apps/e43895a0-fea2-4ce2-9bb3-d47090dd8e7c/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/c31fc68a-906c-49ea-9f56-5fa8fa887fed/branches/master/badge)](https://appcenter.ms)|||
 |Komárany|[![Build status](https://build.appcenter.ms/v0.1/apps/86a1db39-f497-4ccc-9400-7b60e5e022ca/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/e56ecf1d-95bf-4642-aae2-b60cd90f9933/branches/master/badge)](https://appcenter.ms)|||
-|Medzany|[![Build status](https://build.appcenter.ms/v0.1/apps/e6ac5ec5-5fda-473a-8844-1c80b91e4623/branches/master/badge)](https://appcenter.ms)||||
+|Medzany|[![Build status](https://build.appcenter.ms/v0.1/apps/e6ac5ec5-5fda-473a-8844-1c80b91e4623/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/3ced05c1-f5d4-4655-b55f-e4591c50c6eb/branches/master/badge)](https://appcenter.ms)|||
 ._.

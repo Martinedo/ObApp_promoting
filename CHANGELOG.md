@@ -173,10 +173,10 @@
 |[Hôrka nad Váhom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/horkanadvahom.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.horkanadvahom)|[1.10.0](https://apps.apple.com/sk/app/hôrka-nad-váhom/id6475313004)|com.alphabetpartner.horkanadvahom|hôrka-nad-váhom/id6475313004|
 |[Bašovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/basovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.basovce)|[1.10.0](https://apps.apple.com/sk/app/bašovce/id6475772858)|com.alphabetpartner.basovce|bašovce/id6475772858|
 |[Poproč](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/poproc.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.poproc)|[1.10.0](https://apps.apple.com/sk/app/poproč/id6476145038)|com.alphabetpartner.poproc|poproč/id6476145038|
-|[Priekopa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/priekopa.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.priekopa)|[-> 1.10.0](https://apps.apple.com/sk/app/priekopa/id6476560849)|com.alphabetpartner.priekopa|priekopa/id6476560849|
+|[Priekopa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/priekopa.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.priekopa)|[1.10.0](https://apps.apple.com/sk/app/priekopa/id6476560849)|com.alphabetpartner.priekopa|priekopa/id6476560849|
 |[Lipník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipnik.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipnik)|[1.10.0](https://apps.apple.com/sk/app/lipník/id6476978021)|com.alphabetpartner.lipnik|lipník/id6476978021|
 |[Komárany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/komarany.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.komarany)|[1.10.0](https://apps.apple.com/sk/app/komárany/id6476978270)|com.alphabetpartner.komarany|komárany/id6476978270|
-|[Medzany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/medzany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.medzany)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.medzany||
+|[Medzany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/medzany.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.medzany)|[-> 1.10.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.medzany||
 ._.
 
 ****
