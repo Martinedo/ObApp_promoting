@@ -176,7 +176,11 @@
 |[Priekopa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/priekopa.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.priekopa)|[1.10.0](https://apps.apple.com/sk/app/priekopa/id6476560849)|com.alphabetpartner.priekopa|priekopa/id6476560849|
 |[Lipník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipnik.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipnik)|[1.10.0](https://apps.apple.com/sk/app/lipník/id6476978021)|com.alphabetpartner.lipnik|lipník/id6476978021|
 |[Komárany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/komarany.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.komarany)|[1.10.0](https://apps.apple.com/sk/app/komárany/id6476978270)|com.alphabetpartner.komarany|komárany/id6476978270|
-|[Medzany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/medzany.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.medzany)|[-> 1.10.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.medzany||
+|[Medzany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/medzany.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.medzany)|[-> 1.10.1](https://apps.apple.com/sk/app/)|com.alphabetpartner.medzany||
+|[Zálesie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zalesie.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zalesie)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.zalesie||
+|[Haligovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/haligovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.haligovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.haligovce||
+|[Tovarné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tovarne.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.tovarne)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.tovarne||
+|[Zlatá Idka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zlataidka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zlataidka)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.zlataidka||
 ._.
 
 ****
