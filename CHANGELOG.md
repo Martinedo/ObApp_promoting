@@ -23,7 +23,7 @@
 |[Revúcka Lehota](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/revuckalehota.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.revuckalehota)|[1.10.0](https://apps.apple.com/sk/app/revúcka-lehota/id1542685825)|com.alphabetpartner.revuckalehota|revúcka-lehota/id1542685825|
 |[Koškovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/koskovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.koskovce)|[1.10.0](https://apps.apple.com/sk/app/koškovce/id1542686095)|com.alphabetpartner.koskovce|koškovce/id1542686095|
 |[Legnava](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/legnava.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.legnava)|[1.10.0](https://apps.apple.com/sk/app/legnava/id1547320103)|com.alphabetpartner.legnava|legnava/id1547320103|
-|[Rimavská Baňa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskabana.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskabana2)|[1.10.0](https://apps.apple.com/sk/app/rimavská-baňa/id1547318462)|com.alphabetpartner.rimavskabana2|rimavská-baňa/id1547318462|
+|[Rimavská Baňa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rimavskabana.md)|[-> 1.10.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.rimavskabana2)|[-> 1.10.1](https://apps.apple.com/sk/app/rimavská-baňa/id1547318462)|com.alphabetpartner.rimavskabana2|rimavská-baňa/id1547318462|
 |[Ďurková](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/durkova.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.durkova)|[1.10.0](https://apps.apple.com/sk/app/ďurková/id1547328697)|com.alphabetpartner.durkova|ďurková/id1547328697|
 |[Sekule](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sekule.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.sekule)|[1.10.0](https://apps.apple.com/sk/app/sekule/id1547317829)|com.alphabetpartner.sekule|sekule/id1547317829|
 |[Zemplínske Jastrabie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zemplinskejastrabie.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zemplinskejastrabie)|[1.10.0](https://apps.apple.com/sk/app/zemplínske-jastrabie/id1547315749)|com.alphabetpartner.zemplinskejastrabie|zemplínske-jastrabie/id1547315749|
@@ -176,11 +176,13 @@
 |[Priekopa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/priekopa.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.priekopa)|[1.10.0](https://apps.apple.com/sk/app/priekopa/id6476560849)|com.alphabetpartner.priekopa|priekopa/id6476560849|
 |[Lipník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipnik.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipnik)|[1.10.0](https://apps.apple.com/sk/app/lipník/id6476978021)|com.alphabetpartner.lipnik|lipník/id6476978021|
 |[Komárany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/komarany.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.komarany)|[1.10.0](https://apps.apple.com/sk/app/komárany/id6476978270)|com.alphabetpartner.komarany|komárany/id6476978270|
-|[Medzany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/medzany.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.medzany)|[-> 1.10.1](https://apps.apple.com/sk/app/)|com.alphabetpartner.medzany||
+|[Medzany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/medzany.md)|[1.10.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.medzany)|[1.10.1](https://apps.apple.com/sk/app/medzany/id6480014235)|com.alphabetpartner.medzany|medzany/id6480014235|
 |[Zálesie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zalesie.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zalesie)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.zalesie||
-|[Haligovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/haligovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.haligovce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.haligovce||
-|[Tovarné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tovarne.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.tovarne)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.tovarne||
-|[Zlatá Idka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zlataidka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zlataidka)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.zlataidka||
+|[Haligovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/haligovce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.haligovce)|[](https://apps.apple.com/sk/app/haligovce/id6499055019)|com.alphabetpartner.haligovce|haligovce/id6499055019|
+|[Tovarné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tovarne.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.tovarne)|[](https://apps.apple.com/sk/app/tovarné/id6499055335)|com.alphabetpartner.tovarne|tovarné/id6499055335|
+|[Zlatá Idka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zlataidka.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.zlataidka)|[](https://apps.apple.com/sk/app/zlatá-idka/id6499074416)|com.alphabetpartner.zlataidka|zlatá-idka/id6499074416|
+|[Abrahám](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/abraham.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.abraham)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.abraham||
+|[Pružina](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/pruzina.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.pruzina)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.pruzina||
 ._.
 
 ****
@@ -202,6 +204,7 @@
 - [sneznica] oprava prepojenia na Facebook
 - [nemesany] oprava prepojenia na farské oznamy
 - [borova] oprava prepojenia na Facebook
+- [rimavskabana] oprava prepojenia na Facebook
 
 ### Pridané
 
