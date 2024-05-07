@@ -180,7 +180,7 @@
 |Zálesie|[![Build status](https://build.appcenter.ms/v0.1/apps/767d1011-4680-404f-9333-f83f156fb533/branches/master/badge)](https://appcenter.ms)||||
 |Haligovce|[![Build status](https://build.appcenter.ms/v0.1/apps/16361485-c834-4cc1-9b1e-5c1cb8303fb7/branches/master/badge)](https://appcenter.ms)||||
 |Tovarné|[![Build status](https://build.appcenter.ms/v0.1/apps/b05fbb5f-e86f-49fa-b666-8b571d8a8714/branches/master/badge)](https://appcenter.ms)||||
-|Zlatá Idka|[![Build status](https://build.appcenter.ms/v0.1/apps/b2fd3781-3468-4d67-9614-b0de96e2b353/branches/master/badge)](https://appcenter.ms)||||
+|Zlatá Idka|[![Build status](https://build.appcenter.ms/v0.1/apps/b2fd3781-3468-4d67-9614-b0de96e2b353/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/aa88b04a-5fd2-4e0d-8455-0ee80575d62c/branches/master/badge)](https://appcenter.ms)|||
 |Abrahám|[![Build status](https://build.appcenter.ms/v0.1/apps/43313c9c-e637-4fa6-975a-7f8b01cf31ac/branches/master/badge)](https://appcenter.ms)||||
 |Pružina|[![Build status](https://build.appcenter.ms/v0.1/apps/04b42fc8-50bc-4b13-9e6e-5f2a721119ad/branches/master/badge)](https://appcenter.ms)||||
 ._.
