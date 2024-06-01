@@ -183,4 +183,5 @@
 |Zlatá Idka|[![Build status](https://build.appcenter.ms/v0.1/apps/b2fd3781-3468-4d67-9614-b0de96e2b353/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/aa88b04a-5fd2-4e0d-8455-0ee80575d62c/branches/master/badge)](https://appcenter.ms)|||
 |Abrahám|[![Build status](https://build.appcenter.ms/v0.1/apps/43313c9c-e637-4fa6-975a-7f8b01cf31ac/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/953a8c81-7e52-488f-9393-80915865ecdf/branches/master/badge)](https://appcenter.ms)|||
 |Pružina|[![Build status](https://build.appcenter.ms/v0.1/apps/04b42fc8-50bc-4b13-9e6e-5f2a721119ad/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/590ed309-a7db-4b46-bc91-919c5bdf50cb/branches/master/badge)](https://appcenter.ms)|||
+|ECAV Švábovce|[![Build status](https://build.appcenter.ms/v0.1/apps/2a2d2a62-1457-405d-957c-c906b3bcbc36/branches/master/badge)](https://appcenter.ms)||||
 ._.
