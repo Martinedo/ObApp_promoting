@@ -184,6 +184,6 @@
 |Abrahám|[![Build status](https://build.appcenter.ms/v0.1/apps/43313c9c-e637-4fa6-975a-7f8b01cf31ac/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/953a8c81-7e52-488f-9393-80915865ecdf/branches/master/badge)](https://appcenter.ms)|||
 |Pružina|[![Build status](https://build.appcenter.ms/v0.1/apps/04b42fc8-50bc-4b13-9e6e-5f2a721119ad/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/590ed309-a7db-4b46-bc91-919c5bdf50cb/branches/master/badge)](https://appcenter.ms)|||
 |ECAV Švábovce|[![Build status](https://build.appcenter.ms/v0.1/apps/2a2d2a62-1457-405d-957c-c906b3bcbc36/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/87de2a78-a504-4fb4-aa24-8ccf2c2a9e4e/branches/master/badge)](https://appcenter.ms)|||
-|Duplín|||||
-|Čereňany|||||
+|Duplín|[![Build status](https://build.appcenter.ms/v0.1/apps/70ddab6f-de3d-4a9f-8aa5-967816156bd6/branches/master/badge)](https://appcenter.ms)||||
+|Čereňany|[![Build status](https://build.appcenter.ms/v0.1/apps/27039239-4aac-46ea-a7ec-00cdbcca1817/branches/master/badge)](https://appcenter.ms)||||
 ._.
