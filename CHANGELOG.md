@@ -165,7 +165,7 @@
 |[Veľká Tŕňa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/velkatrna.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.velkatrna)|[1.10.0](https://apps.apple.com/sk/app/veľká-tŕňa/id6470943473)|com.alphabetpartner.velkatrna|veľká-tŕňa/id6470943473|
 |[Malá Tŕňa](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/malatrna.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.malatrna)|[1.10.1](https://apps.apple.com/sk/app/malá-tŕňa/id6471845043)|com.alphabetpartner.malatrna|malá-tŕňa/id6471845043|
 |[Zádiel](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zadiel.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zadiel)|[1.10.0](https://apps.apple.com/sk/app/zádiel/id6471869113)|com.alphabetpartner.zadiel|zádiel/id6471869113|
-|[Ubd Ťahanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ubdtahanovce.md)|[ 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.ubdtahanovce)|[1.10.0](https://apps.apple.com/sk/app/ubd-ťahanovce/id6474137653)|com.alphabetpartner.ubdtahanovce|ubd-ťahanovce/id6474137653|
+|[Ubd Ťahanovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ubdtahanovce.md)|[-> 1.10.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.ubdtahanovce)|[-> 1.10.1](https://apps.apple.com/sk/app/ubd-ťahanovce/id6474137653)|com.alphabetpartner.ubdtahanovce|ubd-ťahanovce/id6474137653|
 |[Kamenec pod Vtáčnikom](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kamenecpodvtacnikom.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.kamenecpodvtacnikom)|[1.10.0](https://apps.apple.com/sk/app/kamenec-pod-vtáčnikom/id6473790887)|com.alphabetpartner.kamenecpodvtacnikom|kamenec-pod-vtáčnikom/id6473790887|
 |[Slančík](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/slancik.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.slancik)|[1.10.0](https://apps.apple.com/sk/app/slančík/id6474440445)|com.alphabetpartner.slancik|slančík/id6474440445|
 |[Kráľovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/kralovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.kralovce)|[1.10.0](https://apps.apple.com/sk/app/kráľovce/id6477741826)|com.alphabetpartner.kralovce|kráľovce/id6477741826|
@@ -177,15 +177,16 @@
 |[Lipník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lipnik.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.lipnik)|[1.10.0](https://apps.apple.com/sk/app/lipník/id6476978021)|com.alphabetpartner.lipnik|lipník/id6476978021|
 |[Komárany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/komarany.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.komarany)|[1.10.0](https://apps.apple.com/sk/app/komárany/id6476978270)|com.alphabetpartner.komarany|komárany/id6476978270|
 |[Medzany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/medzany.md)|[1.10.2](https://play.google.com/store/apps/details?id=com.alphabetpartner.medzany)|[1.10.1](https://apps.apple.com/sk/app/medzany/id6480014235)|com.alphabetpartner.medzany|medzany/id6480014235|
-|[Zálesie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zalesie.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zalesie)|[1.10.0](https://apps.apple.com/sk/app/obec-zálesie/id6499528616)|com.alphabetpartner.zalesie|obec-zálesie/id6499528616|
+|[Zálesie](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zalesie.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zalesie)|[1.10.0](https://apps.apple.com/sk/app/obec-zálesie/id6499528616)|com.alphabetpartner.zalesie|obec-zálesie/id6499528616|
 |[Haligovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/haligovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.haligovce)|[1.10.0](https://apps.apple.com/sk/app/haligovce/id6499055019)|com.alphabetpartner.haligovce|haligovce/id6499055019|
 |[Tovarné](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/tovarne.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.tovarne)|[1.10.0](https://apps.apple.com/sk/app/tovarné/id6499055335)|com.alphabetpartner.tovarne|tovarné/id6499055335|
 |[Zlatá Idka](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zlataidka.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zlataidka)|[1.10.0](https://apps.apple.com/sk/app/zlatá-idka/id6499074416)|com.alphabetpartner.zlataidka|zlatá-idka/id6499074416|
 |[Abrahám](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/abraham.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.abraham)|[1.10.0](https://apps.apple.com/sk/app/abrahám/id6499540605)|com.alphabetpartner.abraham|abrahám/id6499540605|
 |[Pružina](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/pruzina.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.pruzina)|[1.10.0](https://apps.apple.com/sk/app/pružina/id6499539596)|com.alphabetpartner.pruzina|pružina/id6499539596|
 |[ECAV Švábovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ecavsvabovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.ecavsvabovce)|[1.10.0](https://apps.apple.com/sk/app/ecav-švábovce/id6503618742)|com.alphabetpartner.ecavsvabovce|ecav-švábovce/id6503618742|
-|[Duplín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/duplin.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.duplin)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.duplin||
-|[Čereňany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerenany.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerenany)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.cerenany||
+|[Duplín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/duplin.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.duplin)|[1.10.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.duplin|duplín/id6504873484|
+|[Čereňany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerenany.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerenany)|[1.10.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.cerenany|čereňany/id6596741232|
+|[Petrová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/petrova.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.petrova)|[1.10.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.petrova|petrová/id6529546698|
 ._.
 
 ****
@@ -200,15 +201,17 @@
 - [dubovce] pridaná podstránka rezervácii kultúrneho domu
 - ak existuje viacero kontaktných čísel zobrazí sa aj viacero tlačidiel na kontakt
 - [roznavskebystre] pridaný odkaz na Školskú jedáleň
+- [ubdtahanovce] pridanie zobrazovania udalosti
 
 ### Zmeny
-- 
+- [ubdtahanovce] zmena názvu aplikácie
 
 ### Opravy
 - [sneznica] oprava prepojenia na Facebook
 - [nemesany] oprava prepojenia na farské oznamy
 - [borova] oprava prepojenia na Facebook
 - [rimavskabana] oprava prepojenia na Facebook
+- [ubdtahanovce] oprava gramatických chýb
 
 ### Pridané
 
