@@ -187,4 +187,8 @@
 |Duplín|[![Build status](https://build.appcenter.ms/v0.1/apps/70ddab6f-de3d-4a9f-8aa5-967816156bd6/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/7d042e0f-8816-4bf1-bbdc-66d9f9f6abad/branches/master/badge)](https://appcenter.ms)|||
 |Čereňany|[![Build status](https://build.appcenter.ms/v0.1/apps/27039239-4aac-46ea-a7ec-00cdbcca1817/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/9f6009e9-3174-4620-b292-0d16aca2b60a/branches/master/badge)](https://appcenter.ms)|||
 |Petrová|[![Build status](https://build.appcenter.ms/v0.1/apps/deb0ac66-7bf6-42c1-bade-84b3d9579f27/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/d0467d87-58dc-428c-a8c5-8a58034478f5/branches/master/badge)](https://appcenter.ms)|||
+|Dúbravica|[![Build status](https://build.appcenter.ms/v0.1/apps/54617fd2-402e-41c5-9434-07e37d80e438/branches/master/badge)](https://appcenter.ms)||||
+|Závod|[![Build status](https://build.appcenter.ms/v0.1/apps/c7334092-6410-436f-af5b-c6eca369f1ce/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/11fa93af-78e3-4fdc-878d-dd4b7f3a5d44/branches/master/badge)](https://appcenter.ms)|||
+|Lesnica|[![Build status](https://build.appcenter.ms/v0.1/apps/ac5edd98-d912-44dd-afaa-d0e1950bffd3/branches/master/badge)](https://appcenter.ms)||||
+|Markuška|[![Build status](https://build.appcenter.ms/v0.1/apps/2da4f364-05f0-4bd1-8c7e-20930c3676f6/branches/master/badge)](https://appcenter.ms)||||
 ._.

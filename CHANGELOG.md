@@ -187,6 +187,10 @@
 |[Duplín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/duplin.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.duplin)|[1.10.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.duplin|duplín/id6504873484|
 |[Čereňany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerenany.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerenany)|[1.10.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.cerenany|čereňany/id6596741232|
 |[Petrová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/petrova.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.petrova)|[1.10.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.petrova|petrová/id6529546698|
+|[Dúbravica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dubravica.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.dubravica)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.dubravica||
+|[Závod](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zavod.md)|[-> 1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zavod)|[1.10.1](https://apps.apple.com/sk/app/závod/id6636554072)|com.alphabetpartner.zavod|závod/id6636554072|
+|[Lesnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lesnica.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.lesnica)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.lesnica||
+|[Markuška](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/markuska.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.markuska)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.markuska||
 ._.
 
 ****
