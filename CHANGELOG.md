@@ -191,6 +191,8 @@
 |[Závod](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zavod.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zavod)|[1.10.1](https://apps.apple.com/sk/app/závod/id6636554072)|com.alphabetpartner.zavod|závod/id6636554072|
 |[Lesnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lesnica.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.lesnica)|[](https://apps.apple.com/sk/app/lesnica/id6667115316)|com.alphabetpartner.lesnica|lesnica/id6667115316|
 |[Markuška](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/markuska.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.markuska)|[](https://apps.apple.com/sk/app/markuška/id6667115908)|com.alphabetpartner.markuska|markuška/id6667115908|
+|[Rohožník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rohoznik.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.rohoznik)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.rohoznik||
+|[Moravské Lieskové](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/moravskelieskove.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.moravskelieskove)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.moravskelieskove||
 ._.
 
 ****
@@ -223,7 +225,7 @@
 
 ### Pridané
 - priamy odkaz na Zásady ochrany osobných údajov
-- [zliechov] pridaný odkaz na virtálny cintorín
+- [zliechov] pridaný odkaz na virtuálny cintorín
 - [roznavskebystre] je možné prijímať aj ďalšie okruhy notifikácií
 - [oreskemi] je možné prijímať aj ďalšie okruhy notifikácií
 - [lukov] pridané odkazy na informácie o Materskej a Základnej škole

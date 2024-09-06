@@ -191,4 +191,6 @@
 |Závod|[![Build status](https://build.appcenter.ms/v0.1/apps/c7334092-6410-436f-af5b-c6eca369f1ce/branches/master/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/11fa93af-78e3-4fdc-878d-dd4b7f3a5d44/branches/master/badge)](https://appcenter.ms)|||
 |Lesnica|[![Build status](https://build.appcenter.ms/v0.1/apps/ac5edd98-d912-44dd-afaa-d0e1950bffd3/branches/master/badge)](https://appcenter.ms)||||
 |Markuška|[![Build status](https://build.appcenter.ms/v0.1/apps/2da4f364-05f0-4bd1-8c7e-20930c3676f6/branches/master/badge)](https://appcenter.ms)||||
+|Rohožník|[![Build status](https://build.appcenter.ms/v0.1/apps/6d384588-7e5f-427b-9ef4-40a6ada5b1d6/branches/master/badge)](https://appcenter.ms)||||
+|Moravské Lieskové|[![Build status](https://build.appcenter.ms/v0.1/apps/2235b7f0-46b3-4e06-af45-89536b0a708f/branches/master/badge)](https://appcenter.ms)||||
 ._.
