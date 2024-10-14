@@ -193,4 +193,6 @@
 |Markuška|[![Build status](https://build.appcenter.ms/v0.1/apps/2da4f364-05f0-4bd1-8c7e-20930c3676f6/branches/master/badge)](https://appcenter.ms)||||
 |Rohožník|[![Build status](https://build.appcenter.ms/v0.1/apps/6d384588-7e5f-427b-9ef4-40a6ada5b1d6/branches/master/badge)](https://appcenter.ms)||||
 |Moravské Lieskové|[![Build status](https://build.appcenter.ms/v0.1/apps/2235b7f0-46b3-4e06-af45-89536b0a708f/branches/master/badge)](https://appcenter.ms)||||
+|Sedliacka Dubová|[![Build status](https://build.appcenter.ms/v0.1/apps/0b3cbd1e-93db-4fb5-8ab1-cee1ba87b348/branches/master/badge)](https://appcenter.ms)||||
+|Rudník|[![Build status](https://build.appcenter.ms/v0.1/apps/c9eab68c-5ae0-42cd-a46b-42a2661cb186/branches/master/badge)](https://appcenter.ms)||||
 ._.
