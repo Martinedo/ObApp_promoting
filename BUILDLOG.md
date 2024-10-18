@@ -195,4 +195,5 @@
 |Moravské Lieskové|[![Build status](https://build.appcenter.ms/v0.1/apps/2235b7f0-46b3-4e06-af45-89536b0a708f/branches/master/badge)](https://appcenter.ms)||||
 |Sedliacka Dubová|[![Build status](https://build.appcenter.ms/v0.1/apps/0b3cbd1e-93db-4fb5-8ab1-cee1ba87b348/branches/master/badge)](https://appcenter.ms)||||
 |Rudník|[![Build status](https://build.appcenter.ms/v0.1/apps/c9eab68c-5ae0-42cd-a46b-42a2661cb186/branches/master/badge)](https://appcenter.ms)||||
+|Honce|||||
 ._.

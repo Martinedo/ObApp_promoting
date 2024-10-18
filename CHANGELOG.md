@@ -185,16 +185,17 @@
 |[Pružina](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/pruzina.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.pruzina)|[1.11.0](https://apps.apple.com/sk/app/pružina/id6499539596)|com.alphabetpartner.pruzina|pružina/id6499539596|
 |[ECAV Švábovce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/ecavsvabovce.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.ecavsvabovce)|[-> 1.11.0](https://apps.apple.com/sk/app/ecav-švábovce/id6503618742)|com.alphabetpartner.ecavsvabovce|ecav-švábovce/id6503618742|
 |[Duplín](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/duplin.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.duplin)|[-> 1.11.0](https://apps.apple.com/sk/app/duplín/id6504873484)|com.alphabetpartner.duplin|duplín/id6504873484|
-|[Čereňany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerenany.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerenany)|[1.11.0](https://apps.apple.com/sk/app/čereňany/id6596741232)|com.alphabetpartner.cerenany|čereňany/id6596741232|
+|[Čereňany](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/cerenany.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.cerenany)|[1.11.1](https://apps.apple.com/sk/app/čereňany/id6596741232)|com.alphabetpartner.cerenany|čereňany/id6596741232|
 |[Petrová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/petrova.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.petrova)|[1.11.0](https://apps.apple.com/sk/app/petrová/id6529546698)|com.alphabetpartner.petrova|petrová/id6529546698|
-|[Dúbravica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dubravica.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.dubravica)|[](https://apps.apple.com/sk/app/dúbravica/id6636553858)|com.alphabetpartner.dubravica|dúbravica/id6636553858|
+|[Dúbravica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/dubravica.md)|[-> 1.11.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.dubravica)|[1.11.0](https://apps.apple.com/sk/app/dúbravica/id6636553858)|com.alphabetpartner.dubravica|dúbravica/id6636553858|
 |[Závod](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/zavod.md)|[1.10.1](https://play.google.com/store/apps/details?id=com.alphabetpartner.zavod)|[1.11.0](https://apps.apple.com/sk/app/závod/id6636554072)|com.alphabetpartner.zavod|závod/id6636554072|
-|[Lesnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lesnica.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.lesnica)|[](https://apps.apple.com/sk/app/lesnica/id6667115316)|com.alphabetpartner.lesnica|lesnica/id6667115316|
-|[Markuška](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/markuska.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.markuska)|[](https://apps.apple.com/sk/app/markuška/id6667115908)|com.alphabetpartner.markuska|markuška/id6667115908|
-|[Rohožník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rohoznik.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.rohoznik)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.rohoznik||
-|[Moravské Lieskové](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/moravskelieskove.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.moravskelieskove)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.moravskelieskove||
-|[Sedliacka Dubová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sedliackadubova.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.sedliackadubova)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.sedliackadubova||
-|[Rudník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rudnik.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.rudnik)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.rudnik||
+|[Lesnica](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/lesnica.md)|[-> 1.11.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.lesnica)|[1.11.0](https://apps.apple.com/sk/app/lesnica/id6667115316)|com.alphabetpartner.lesnica|lesnica/id6667115316|
+|[Markuška](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/markuska.md)|[-> 1.11.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.markuska)|[-> 1.11.0](https://apps.apple.com/sk/app/markuška/id6667115908)|com.alphabetpartner.markuska|markuška/id6667115908|
+|[Rohožník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rohoznik.md)|[-> 1.11.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.rohoznik)|[-> 1.11.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.rohoznik||
+|[Moravské Lieskové](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/moravskelieskove.md)|[-> 1.11.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.moravskelieskove)|[-> 1.11.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.moravskelieskove||
+|[Sedliacka Dubová](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/sedliackadubova.md)|[-> 1.11.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.sedliackadubova)|[1.11.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.sedliackadubova||
+|[Rudník](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/rudnik.md)|[-> 1.11.0](https://play.google.com/store/apps/details?id=com.alphabetpartner.rudnik)|[1.11.0](https://apps.apple.com/sk/app/)|com.alphabetpartner.rudnik||
+|[Honce](https://raw.githubusercontent.com/Martinedo/ObApp_promoting/master/honce.md)|[](https://play.google.com/store/apps/details?id=com.alphabetpartner.honce)|[](https://apps.apple.com/sk/app/)|com.alphabetpartner.honce||
 ._.
 
 ****
@@ -215,7 +216,8 @@
 - [olsavka] je možné prijímať aj ďalšie okruhy notifikácií
 - [kamenecpodvtacnikom] je možné prijímať aj ďalšie okruhy notifikácií
 - [hornany] je možné prijímať aj ďalšie okruhy notifikácií
-
+- [cerenany] Notifikácie je možné otvárať aj cez dlaždicu
+- [zavod] Zmenená ikona aplikácie
 
 
 ### Zmeny
