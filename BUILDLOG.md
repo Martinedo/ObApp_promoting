@@ -197,4 +197,6 @@
 |Rudník|[![Build status](https://build.appcenter.ms/v0.1/apps/c9eab68c-5ae0-42cd-a46b-42a2661cb186/branches/master/badge)](https://appcenter.ms)||||
 |Honce|||||
 |Jánovce|||||
+|Sokoľany|||||
+|Krušetnica|||||
 ._.
