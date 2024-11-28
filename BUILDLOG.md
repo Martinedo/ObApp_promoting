@@ -199,4 +199,6 @@
 |Jánovce|||||
 |Sokoľany|||||
 |Krušetnica|||||
+|Horná Lehota|||||
+|Fričkovce|||||
 ._.
