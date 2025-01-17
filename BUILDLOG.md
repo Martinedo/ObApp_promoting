@@ -201,4 +201,9 @@
 |Krušetnica|||||
 |Horná Lehota|||||
 |Fričkovce|||||
+|Tepličky|||||
+|Arnutovce|||||
+|Seňa|||||
+|Kuraľany|||||
+|Hrubý Šúr|||||
 ._.
