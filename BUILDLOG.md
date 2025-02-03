@@ -206,4 +206,6 @@
 |Seňa|||||
 |Kuraľany|||||
 |Hrubý Šúr|||||
+|Slanské Nové Mesto|||||
+|Kurov|||||
 ._.
