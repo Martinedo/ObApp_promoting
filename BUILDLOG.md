@@ -208,4 +208,5 @@
 |Hrubý Šúr|||||
 |Slanské Nové Mesto|||||
 |Kurov|||||
+|Dlhé Stráže|||||
 ._.
